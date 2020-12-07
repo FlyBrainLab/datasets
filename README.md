@@ -1,7 +1,7 @@
 # FlyBrainLab Datasets
 This repository contains information regarding the FlyBrainLab Datasets (version, source, loading scripts, etc.)
 
-FlyCicuit | HemiBrain | [Larva L1EM](#larva-l1em)
+[FlyCircuit](#flycircuit) | [Hemibrain](#hemibrain) | [Larva L1EM](#larva-l1em)
 
 ## FlyCircuit
 _Coming Soon_
