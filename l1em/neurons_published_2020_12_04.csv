@@ -1,0 +1,1052 @@
+,uname,label,catmaid_names,type,side,neurotransmitter,locality,neuropil,source,skid
+0,OSN-13a_7527710,OSN-13a,13a ORN left,OSN,left,acetylcholine,input,AL,Berck2016,7527710
+1,OSN-13a_4073353,OSN-13a,13a ORN right,OSN,right,acetylcholine,input,AL,Berck2016,4073353
+2,OSN-1a_2611805,OSN-1a,1a ORN left,OSN,left,acetylcholine,input,AL,Berck2016,2611805
+3,OSN-1a_2582391,OSN-1a,1a ORN right,OSN,right,acetylcholine,input,AL,Berck2016,2582391
+4,OSN-22c_40045,OSN-22c,22c ORN left,OSN,left,acetylcholine,input,AL,Berck2016,40045
+5,OSN-22c_3954014,OSN-22c,22c ORN right,OSN,right,acetylcholine,input,AL,Berck2016,3954014
+6,OSN-24a_3592997,OSN-24a,24a ORN left,OSN,left,acetylcholine,input,AL,Berck2016,3592997
+7,OSN-24a_3865952,OSN-24a,24a ORN right,OSN,right,acetylcholine,input,AL,Berck2016,3865952
+8,OSN-30a_3768025,OSN-30a,30a ORN left,OSN,left,acetylcholine,input,AL,Berck2016,3768025
+9,OSN-30a_2584838,OSN-30a,30a ORN right,OSN,right,acetylcholine,input,AL,Berck2016,2584838
+10,OSN-33a_3708875,OSN-33a,33a ORN left,OSN,left,acetylcholine,input,AL,Berck2016,3708875
+11,OSN-33a_3872653,OSN-33a,33a ORN right,OSN,right,acetylcholine,input,AL,Berck2016,3872653
+12,OSN-35a_3465659,OSN-35a,35a ORN left,OSN,left,acetylcholine,input,AL,Berck2016,3465659
+13,OSN-35a_3840345,OSN-35a,35a ORN right,OSN,right,acetylcholine,input,AL,Berck2016,3840345
+14,OSN-42a_3464773,OSN-42a,42a ORN left,OSN,left,acetylcholine,input,AL,Berck2016,3464773
+15,OSN-42a_3827211,OSN-42a,42a ORN right,OSN,right,acetylcholine,input,AL,Berck2016,3827211
+16,OSN-42b_3410499,OSN-42b,42b ORN left,OSN,left,acetylcholine,input,AL,Berck2016,3410499
+17,OSN-42b_2608843,OSN-42b,42b ORN right,OSN,right,acetylcholine,input,AL,Berck2016,2608843
+18,OSN-45a_3716797,OSN-45a,45a ORN left,OSN,left,acetylcholine,input,AL,Berck2016,3716797
+19,OSN-45a_3963891,OSN-45a,45a ORN right,OSN,right,acetylcholine,input,AL,Berck2016,3963891
+20,OSN-45b_5090549,OSN-45b,45b ORN left,OSN,left,acetylcholine,input,AL,Berck2016,5090549
+21,OSN-45b_3813723,OSN-45b,45b ORN right,OSN,right,acetylcholine,input,AL,Berck2016,3813723
+22,OSN-47a_&_33b_3694515,OSN-47a-&-33b,47a & 33b ORN left,OSN,left,acetylcholine,input,AL,Berck2016,3694515
+23,OSN-47a_&_33b_3896629,OSN-47a-&-33b,47a & 33b ORN right,OSN,right,acetylcholine,input,AL,Berck2016,3896629
+24,OSN-49a_3771794,OSN-49a,49a ORN left,OSN,left,acetylcholine,input,AL,Berck2016,3771794
+25,OSN-49a_7658146,OSN-49a,49a ORN right,OSN,right,acetylcholine,input,AL,Berck2016,7658146
+26,OSN-59a_6340439,OSN-59a,59a ORN left,OSN,left,acetylcholine,input,AL,Berck2016,6340439
+27,OSN-59a_4076389,OSN-59a,59a ORN right,OSN,right,acetylcholine,input,AL,Berck2016,4076389
+28,OSN-63a_3158543,OSN-63a,63a ORN left,OSN,left,acetylcholine,input,AL,Berck2016,3158543
+29,OSN-63a_7719547,OSN-63a,63a ORN right,OSN,right,acetylcholine,input,AL,Berck2016,7719547
+30,OSN-67b_6791927,OSN-67b,67b ORN left,OSN,left,acetylcholine,input,AL,Berck2016,6791927
+31,OSN-67b_3790004,OSN-67b,67b ORN right,OSN,right,acetylcholine,input,AL,Berck2016,3790004
+32,OSN-74a_7542938,OSN-74a,74a ORN left,OSN,left,acetylcholine,input,AL,Berck2016,7542938
+33,OSN-74a_3885215,OSN-74a,74a ORN right,OSN,right,acetylcholine,input,AL,Berck2016,3885215
+34,OSN-82a_3774568,OSN-82a,82a ORN left,OSN,left,acetylcholine,input,AL,Berck2016,3774568
+35,OSN-82a_3980315,OSN-82a,82a ORN right,OSN,right,acetylcholine,input,AL,Berck2016,3980315
+36,OSN-83a_3547397,OSN-83a,83a ORN left,OSN,left,acetylcholine,input,AL,Berck2016,3547397
+37,OSN-83a_2571761,OSN-83a,83a ORN right,OSN,right,acetylcholine,input,AL,Berck2016,2571761
+38,OSN-85c_3410506,OSN-85c,85c ORN left,OSN,left,acetylcholine,input,AL,Berck2016,3410506
+39,OSN-85c_3893195,OSN-85c,85c ORN right,OSN,right,acetylcholine,input,AL,Berck2016,3893195
+40,OSN-94a_&_94b_3511996,OSN-94a-&-94b,94a & 94b ORN left,OSN,left,acetylcholine,input,AL,Berck2016,3511996
+41,OSN-94a_&_94b_3958234,OSN-94a-&-94b,94a & 94b ORN right,OSN,right,acetylcholine,input,AL,Berck2016,3958234
+42,broad-D1_7941652,broad-D1,broad D1 left,broad,left,GABA,local,AL,Berck2016,7941652
+43,broad-D1_8198416,broad-D1,broad D1 right,broad,right,GABA,local,AL,Berck2016,8198416
+44,broad-D2_7941642,broad-D2,broad D2 left,broad,left,GABA,local,AL,Berck2016,7941642
+45,broad-D2_8198513,broad-D2,broad D2 right,broad,right,GABA,local,AL,Berck2016,8198513
+46,broad-T1_7939979,broad-T1,broad T1 left,broad,left,GABA,local,AL,Berck2016,7939979
+47,broad-T1_8198317,broad-T1,broad T1 right,broad,right,GABA,local,AL,Berck2016,8198317
+48,broad-T2_8311264,broad-T2,broad T2 left,broad,left,GABA,local,AL,Berck2016,8311264
+49,broad-T2_8198238,broad-T2,broad T2 right,broad,right,GABA,local,AL,Berck2016,8198238
+50,broad-T3_7939890,broad-T3,broad T3 left,broad,left,GABA,local,AL,Berck2016,7939890
+51,broad-T3_6557581,broad-T3,broad T3 right,broad,right,GABA,local,AL,Berck2016,6557581
+52,choosy-1_7394271,choosy-1,choosy 1 left,choosy,left,GABA,local,AL,Berck2016,7394271
+53,choosy-1_8231264,choosy-1,choosy 1 right,choosy,right,GABA,local,AL,Berck2016,8231264
+54,choosy-2_8273369,choosy-2,choosy 2 left,choosy,left,GABA,local,AL,Berck2016,8273369
+55,choosy-2_4247099,choosy-2,choosy 2 right,choosy,right,GABA,local,AL,Berck2016,4247099
+56,clamp_10158972,clamp,clamp right,SEZInterneuron,right,unknown,output,AL,Berck2016,10158972
+57,CSD_13849557,CSD,CSD left,LHN,left,serotonin,input,AL,Berck2016,13849557
+58,CSD_6143930,CSD,CSD right,LHN,right,serotonin,input,AL,Berck2016,6143930
+59,cypress_17545695,cypress,cypress left,SEZInterneuron,left,unknown,output,AL,Berck2016,17545695
+60,cypress_14154154,cypress,cypress right,SEZInterneuron,right,unknown,output,AL,Berck2016,14154154
+61,LHN_17844900,Giant-step,Giant-step left,LHN,unknown,unknown,unknown,unknown,Berck2016,17844900
+62,ginkgo-1_13380660,ginkgo-1,ginkgo 1 left,SEZInterneuron,left,unknown,output,AL,Berck2016,13380660
+63,ginkgo-1_14517691,ginkgo-1,ginkgo 1 right,SEZInterneuron,right,unknown,output,AL,Berck2016,14517691
+64,keystone_5030808,keystone,keystone left,keystone,left,GABA,local,"AL,SEZ",Berck2016,5030808
+65,keystone_10831005,keystone,keystone right,keystone,right,GABA,local,AL,Berck2016,10831005
+66,mPN-cobra_8509534,mPN-cobra,mPN cobra left,mPN,left,unknown,output,AL,Berck2016,8509534
+67,mPN-cobra_16515871,mPN-cobra,mPN cobra right,mPN,right,unknown,output,AL,Berck2016,16515871
+68,mPN-D_6451332,mPN-D,mPN D left,mPN,left,unknown,output,AL,Berck2016,6451332
+69,mPN-D_3538129,mPN-D,mPN D right,mPN,right,unknown,output,AL,Berck2016,3538129
+70,mPN-iACT_A1_8276782,mPN-iACT-A1,mPN iACT A1 left,mPN,left,unknown,output,AL,Berck2016,8276782
+71,mPN-iACT_A2_5261424,mPN-iACT-A2,mPN iACT A2 left,mPN,left,unknown,output,AL,Berck2016,5261424
+72,mPN-iACT_A2_4679139,mPN-iACT-A2,mPN iACT A2 right,mPN,right,unknown,output,AL,Berck2016,4679139
+73,mPN-iACT_B1_2568465,mPN-iACT-B1,mPN iACT B1_left,mPN,left,unknown,output,AL,Berck2016,2568465
+74,mPN-iACT_B1_10167078,mPN-iACT-B1,mPN iACT B1_right,mPN,right,unknown,output,AL,Berck2016,10167078
+75,mPN-iACT_B2_3450442,mPN-iACT-B2,mPN iACT B2 left,mPN,left,unknown,output,AL,Berck2016,3450442
+76,mPN-iACT_B2_4700078,mPN-iACT-B2,mPN iACT B2 right,mPN,right,unknown,output,AL,Berck2016,4700078
+77,mPN-iACT_B3_8704079,mPN-iACT-B3,mPN iACT B3 left,mPN,left,unknown,output,AL,Berck2016,8704079
+78,mPN-iACT_B3_16735586,mPN-iACT-B3,mPN iACT B3 right,mPN,right,unknown,output,AL,Berck2016,16735586
+79,mPN-iACT_C1_9589146,mPN-iACT-C1,mPN iACT C1 left,mPN,left,unknown,output,AL,Berck2016,9589146
+80,mPN-iACT_C1_7503199,mPN-iACT-C1,mPN iACT C1 right,mPN,right,unknown,output,AL,Berck2016,7503199
+81,mPN-iACT_VUM_9119558,mPN-iACT-VUM,mPN iACT VUM L,mPN,left,unknown,output,AL,Berck2016,9119558
+82,mPN-iACT_VUM_10990803,mPN-iACT-VUM,mPN iACT VUM R,mPN,right,unknown,output,"AL,SEZ",Berck2016,10990803
+83,mPN-seahorse_8480221,mPN-iACT-seahorse,mPN seahorse left,mPN,left,unknown,output,AL,Berck2016,8480221
+84,mPN-seahorse_4324898,mPN-iACT-seahorse,mPN seahorse right,mPN,right,unknown,output,AL,Berck2016,4324898
+85,picky-0_5291791,picky-0,picky 0 left,picky,left,glutamate,local,AL,Berck2016,5291791
+86,picky-0_8199671,picky-0,picky 0 right,picky,right,glutamate,local,AL,Berck2016,8199671
+87,picky-1_8102935,picky-1,picky 1 left,picky,left,glutamate,local,AL,Berck2016,8102935
+88,picky-1_7600311,picky-1,picky 1 right,picky,right,glutamate,local,AL,Berck2016,7600311
+89,picky-2_8877971,picky-2,picky 2 left,picky,left,glutamate,local,AL,Berck2016,8877971
+90,picky-2_3806573,picky-2,picky 2 right,picky,right,glutamate,local,AL,Berck2016,3806573
+91,picky-3_8274021,picky-3,picky 3 left,picky,left,glutamate,local,AL,Berck2016,8274021
+92,picky-3_11051276,picky-3,picky 3 right,picky,right,glutamate,local,AL,Berck2016,11051276
+93,picky-4_10555409,picky-4,picky 4 left,picky,left,glutamate,local,AL,Berck2016,10555409
+94,picky-4_5247102,picky-4,picky 4 right,picky,right,glutamate,local,AL,Berck2016,5247102
+95,LHON_13803032,LHON,Projection from LH 2_right,LHON,right,unknown,output,LH,Berck2016,13803032
+96,spruce_14437742,spruce,spruce left,SEZInterneuron,left,unknown,output,AL,Berck2016,14437742
+97,spruce_3806652,spruce,spruce right,SEZInterneuron,right,unknown,output,AL,Berck2016,3806652
+98,ventral-LN_8877795,ventral-LN,ventral LN left,ventral,left,unknown,local,AL,Berck2016,8877795
+99,ventral-LN_3805641,ventral-LN,ventral LN right,ventral-LN,right,unknown,local,"AL,SEZ",Berck2016,3805641
+100,vine_3486950,vine,vine left,SEZInterneuron,left,unknown,output,AL,Berck2016,3486950
+101,vine_4700182,vine,vine right,SEZInterneuron,right,unknown,output,AL,Berck2016,4700182
+102,PMN_3995976,A01d3-a1l,A01d3_a1l,PMN,unknown,unknown,unknown,unknown,"Burgos2018,Dombrovski2019,Zarin2019",3995976
+103,PMN_18145093,A02g-a1r,A02g_a1r,PMN,unknown,glutamate,unknown,unknown,"Burgos2018,Kohsaka2019,Zarin2019",18145093
+104,PMN_10015769,A27j-a1r,A27j_a1r,PMN,unknown,GABA,unknown,unknown,"Burgos2018,Zarin2019",10015769
+105,PMN_4727546,A18b-a1r,A18b_a1r,PMN,unknown,unknown,unknown,unknown,"Carreira-Rosario2018,Zarin2019",4727546
+106,PMN_10219170,A27l-a1l,A27l_a1l,PMN,unknown,unknown,unknown,unknown,"Carreira-Rosario2018,Zarin2019",10219170
+107,PMN_10499711,A27l-a1r,A27l_a1r,PMN,unknown,unknown,unknown,unknown,"Carreira-Rosario2018,Zarin2019",10499711
+108,PMN_5355175,A27l-a2r,A27l_a2r,PMN,unknown,unknown,unknown,unknown,"Carreira-Rosario2018,Zarin2019",5355175
+109,PMN_4213417,A27k-a1l,A27k_a1l,PMN,unknown,unknown,unknown,unknown,"Carreira-Rosario2018,Zarin2019,Fushiki2016,Burgos2018",4213417
+110,PMN_12039793,A06g2-a1l-(Saaghi-5),A06g2_a1l (Saaghi-5),PMN,unknown,GABA,unknown,unknown,Dombrovski2019,12039793
+111,PMN_10089252,A03EGB-a2l-(EGHBAL),A03EGB_a2l (EGHBAL),PMN,unknown,acetylcholine,unknown,unknown,"Dombrovski2019,Fushiki2016,Zarin2019",10089252
+112,PMN_11106522,A01x2-a1l,A01x2_a1l,PMN,unknown,unknown,unknown,unknown,"Dombrovski2019,Zarin2019",11106522
+113,PMN_10858401,A06a-a1l,A06a_a1l,PMN,unknown,GABA,unknown,unknown,"Dombrovski2019,Zarin2019",10858401
+114,MBIN-e1_14541927,MBIN-e1,AVM011f left,MBIN,left,unknown,input,MB,Eichler2017,14541927
+115,MBIN-e1_4235139,MBIN-e1,AVM011f right,MBIN,right,unknown,input,MB,Eichler2017,4235139
+116,KC_8318678,KC-no-claws,KC no claws,KC,left,acetylcholine,local,MB,Eichler2017,8318678
+117,KC_11691640,KC-no-claws,KC no claws,KC,left,acetylcholine,local,MB,Eichler2017,11691640
+118,KC_14255342,KC-no-claws,KC no claws,KC,left,acetylcholine,local,MB,Eichler2017,14255342
+119,KC_15691114,KC-no-claws,KC no claws,KC,left,acetylcholine,local,MB,Eichler2017,15691114
+120,KC_15722306,KC-no-claws,KC no claws,KC,left,acetylcholine,local,MB,Eichler2017,15722306
+121,KC_16627950,KC-no-claws,KC no claws,KC,left,acetylcholine,local,MB,Eichler2017,16627950
+122,KC_3819157,KC-no-pair,KC no pair,KC,left,acetylcholine,local,MB,Eichler2017,3819157
+123,KC_3819171,KC-no-pair,KC no pair,KC,left,acetylcholine,local,MB,Eichler2017,3819171
+124,KC_4134539,KC-no-pair,KC no pair,KC,left,acetylcholine,local,MB,Eichler2017,4134539
+125,KC_4411505,KC-no-pair,KC no pair,KC,left,acetylcholine,local,MB,Eichler2017,4411505
+126,KC_4412036,KC-no-pair,KC no pair,KC,left,acetylcholine,local,MB,Eichler2017,4412036
+127,KC_4518546,KC-no-pair,KC no pair,KC,left,acetylcholine,local,MB,Eichler2017,4518546
+128,KC_6702830,KC-no-pair,KC no pair,KC,left,acetylcholine,local,MB,Eichler2017,6702830
+129,KC_8177991,KC-no-pair,KC no pair,KC,left,acetylcholine,local,MB,Eichler2017,8177991
+130,KC_8248706,KC-no-pair,KC no pair,KC,left,acetylcholine,local,MB,Eichler2017,8248706
+131,KC_8262503,KC-no-pair,KC no pair,KC,left,acetylcholine,local,MB,Eichler2017,8262503
+132,KC_8263140,KC-no-pair,KC no pair,KC,left,acetylcholine,local,MB,Eichler2017,8263140
+133,KC_8263285,KC-no-pair,KC no pair,KC,left,acetylcholine,local,MB,Eichler2017,8263285
+134,KC_8393981,KC-no-pair,KC no pair,KC,left,acetylcholine,local,MB,Eichler2017,8393981
+135,KC_8513389,KC-no-pair,KC no pair,KC,left,acetylcholine,local,MB,Eichler2017,8513389
+136,KC_8864096,KC-no-pair,KC no pair,KC,left,acetylcholine,local,MB,Eichler2017,8864096
+137,KC_8865199,KC-no-pair,KC no pair,KC,left,acetylcholine,local,MB,Eichler2017,8865199
+138,KC_9983191,KC-no-pair,KC no pair,KC,left,acetylcholine,local,MB,Eichler2017,9983191
+139,KC_11785627,KC-no-pair,KC no pair,KC,left,acetylcholine,local,MB,Eichler2017,11785627
+140,KC_12217572,KC-no-pair,KC no pair,KC,left,acetylcholine,local,MB,Eichler2017,12217572
+141,KC_14319960,KC-no-pair,KC no pair,KC,left,acetylcholine,local,MB,Eichler2017,14319960
+142,KC_14460113,KC-no-pair,KC no pair,KC,left,acetylcholine,local,MB,Eichler2017,14460113
+143,KC_14519048,KC-no-pair,KC no pair,KC,left,acetylcholine,local,MB,Eichler2017,14519048
+144,KC_14522124,KC-no-pair,KC no pair,KC,left,acetylcholine,local,MB,Eichler2017,14522124
+145,KC_14898295,KC-no-pair,KC no pair,KC,left,acetylcholine,local,MB,Eichler2017,14898295
+146,KC_15721919,KC-no-pair,KC no pair,KC,left,acetylcholine,local,MB,Eichler2017,15721919
+147,KC_15734988,KC-no-pair,KC no pair,KC,left,acetylcholine,local,MB,Eichler2017,15734988
+148,KC_15861524,KC-no-pair,KC no pair,KC,left,acetylcholine,local,MB,Eichler2017,15861524
+149,KC_16015738,KC-no-pair,KC no pair,KC,left,acetylcholine,local,MB,Eichler2017,16015738
+150,KC_16017113,KC-no-pair,KC no pair,KC,left,acetylcholine,local,MB,Eichler2017,16017113
+151,KC_16210988,KC-no-pair,KC no pair,KC,left,acetylcholine,local,MB,Eichler2017,16210988
+152,KC_16435965,KC-no-pair,KC no pair,KC,left,acetylcholine,local,MB,Eichler2017,16435965
+153,KC_16438190,KC-no-pair,KC no pair,KC,left,acetylcholine,local,MB,Eichler2017,16438190
+154,KC_16440649,KC-no-pair,KC no pair,KC,left,acetylcholine,local,MB,Eichler2017,16440649
+155,KC_16440704,KC-no-pair,KC no pair,KC,left,acetylcholine,local,MB,Eichler2017,16440704
+156,KC_16444327,KC-no-pair,KC no pair,KC,left,acetylcholine,local,MB,Eichler2017,16444327
+157,KC_16627773,KC-no-pair,KC no pair,KC,left,acetylcholine,local,MB,Eichler2017,16627773
+158,KC_16627861,KC-no-pair,KC no pair,KC,left,acetylcholine,local,MB,Eichler2017,16627861
+159,KC_16629757,KC-no-pair,KC no pair,KC,left,acetylcholine,local,MB,Eichler2017,16629757
+160,KC_16629931,KC-no-pair,KC no pair,KC,left,acetylcholine,local,MB,Eichler2017,16629931
+161,KC_16630024,KC-no-pair,KC no pair,KC,left,acetylcholine,local,MB,Eichler2017,16630024
+162,KC_16630385,KC-no-pair,KC no pair,KC,left,acetylcholine,local,MB,Eichler2017,16630385
+163,KC_16631222,KC-no-pair,KC no pair,KC,left,acetylcholine,local,MB,Eichler2017,16631222
+164,KC_16631248,KC-no-pair,KC no pair,KC,left,acetylcholine,local,MB,Eichler2017,16631248
+165,KC_17147410,KC-no-pair,KC no pair,KC,left,acetylcholine,local,MB,Eichler2017,17147410
+166,KC_15741782,KC-very-young,KC very young,KC,left,acetylcholine,local,MB,Eichler2017,15741782
+167,KC_15939179,KC-very-young,KC very young,KC,left,acetylcholine,local,MB,Eichler2017,15939179
+168,KC_15995074,KC-very-young,KC very young,KC,left,acetylcholine,local,MB,Eichler2017,15995074
+169,KC_16053650,KC-very-young,KC very young,KC,left,acetylcholine,local,MB,Eichler2017,16053650
+170,KC_16054240,KC-very-young,KC very young,KC,left,acetylcholine,local,MB,Eichler2017,16054240
+171,KC_16443548,KC-very-young,KC very young,KC,left,acetylcholine,local,MB,Eichler2017,16443548
+172,KC_16443747,KC-very-young,KC very young,KC,left,acetylcholine,local,MB,Eichler2017,16443747
+173,KC_17454963,KC-very-young,KC very young,KC,left,acetylcholine,local,MB,Eichler2017,17454963
+174,KC_17476873,KC-very-young,KC very young,KC,right,acetylcholine,local,MB,Eichler2017,17476873
+175,KC_17476916,KC-very-young,KC very young,KC,right,acetylcholine,local,MB,Eichler2017,17476916
+176,KC_17476920,KC-very-young,KC very young,KC,right,acetylcholine,local,MB,Eichler2017,17476920
+177,KC_17476934,KC-very-young,KC very young,KC,right,acetylcholine,local,MB,Eichler2017,17476934
+178,KC_17476964,KC-very-young,KC very young,KC,right,acetylcholine,local,MB,Eichler2017,17476964
+179,KC_17476975,KC-very-young,KC very young,KC,right,acetylcholine,local,MB,Eichler2017,17476975
+180,KC_14981210,KC-very-young,KC very young - DPLc s Left,KC,left,acetylcholine,local,MB,Eichler2017,14981210
+181,KC_10450307,KC-young,KC young,KC,left,acetylcholine,local,MB,Eichler2017,10450307
+182,KC_15691122,KC-young,KC young,KC,left,acetylcholine,local,MB,Eichler2017,15691122
+183,KC_15734666,KC-young,KC young,KC,left,acetylcholine,local,MB,Eichler2017,15734666
+184,KC_15741951,KC-young,KC young,KC,left,acetylcholine,local,MB,Eichler2017,15741951
+185,KC_15788419,KC-young,KC young,KC,left,acetylcholine,local,MB,Eichler2017,15788419
+186,KC_15828093,KC-young,KC young,KC,left,acetylcholine,local,MB,Eichler2017,15828093
+187,KC_15939130,KC-young,KC young,KC,left,acetylcholine,local,MB,Eichler2017,15939130
+188,KC_16026042,KC-young,KC young,KC,left,acetylcholine,local,MB,Eichler2017,16026042
+189,KC_16053670,KC-young,KC young,KC,left,acetylcholine,local,MB,Eichler2017,16053670
+190,KC_16435406,KC-young,KC young,KC,left,acetylcholine,local,MB,Eichler2017,16435406
+191,KC_16443532,KC-young,KC young,KC,left,acetylcholine,local,MB,Eichler2017,16443532
+192,KC_16443536,KC-young,KC young,KC,left,acetylcholine,local,MB,Eichler2017,16443536
+193,KC_16443544,KC-young,KC young,KC,left,acetylcholine,local,MB,Eichler2017,16443544
+194,KC_16448926,KC-young,KC young,KC,left,acetylcholine,local,MB,Eichler2017,16448926
+195,KC_16448934,KC-young,KC young,KC,left,acetylcholine,local,MB,Eichler2017,16448934
+196,KC_16448954,KC-young,KC young,KC,left,acetylcholine,local,MB,Eichler2017,16448954
+197,KC_16448967,KC-young,KC young,KC,left,acetylcholine,local,MB,Eichler2017,16448967
+198,KC_16448983,KC-young,KC young,KC,left,acetylcholine,local,MB,Eichler2017,16448983
+199,KC_16464614,KC-young,KC young,KC,left,acetylcholine,local,MB,Eichler2017,16464614
+200,KC_16628000,KC-young,KC young,KC,left,acetylcholine,local,MB,Eichler2017,16628000
+201,KC_15691118,KC-young-no-claw,KC young no claw,KC,left,acetylcholine,local,MB,Eichler2017,15691118
+202,KC_10455234,KC-young-no-claws,KC young no claws,KC,left,acetylcholine,local,MB,Eichler2017,10455234
+203,KC_15764960,KC-young-no-claws,KC young no claws,KC,left,acetylcholine,local,MB,Eichler2017,15764960
+204,KC_15788431,KC-young-no-claws,KC young no claws,KC,left,acetylcholine,local,MB,Eichler2017,15788431
+205,KC_16220042,KC-young-no-claws,KC young no claws,KC,left,acetylcholine,local,MB,Eichler2017,16220042
+206,KC_16448930,KC-young-no-claws,KC young no claws,KC,left,acetylcholine,local,MB,Eichler2017,16448930
+207,KC_16448971,KC-young-no-claws,KC young no claws,KC,left,acetylcholine,local,MB,Eichler2017,16448971
+208,KC_16448979,KC-young-no-claws,KC young no claws,KC,left,acetylcholine,local,MB,Eichler2017,16448979
+209,KC_677717,KC,KC1,KC,right,acetylcholine,local,MB,Eichler2017,677717
+210,KC_4227304,KC,KC10,KC,right,acetylcholine,local,MB,Eichler2017,4227304
+211,KC_11813287,KC,KC100,KC,right,acetylcholine,local,MB,Eichler2017,11813287
+212,KC_16058860,KC,KC100,KC,left,acetylcholine,local,MB,Eichler2017,16058860
+213,KC_16145456,KC-very-young,KC101 very young,KC,right,acetylcholine,local,MB,Eichler2017,16145456
+214,KC_7215582,KC-very-young,KC103 very young,KC,right,acetylcholine,local,MB,Eichler2017,7215582
+215,KC_8247315,KC-very-young,KC104 very young,KC,right,acetylcholine,local,MB,Eichler2017,8247315
+216,KC_4227544,KC,KC11,KC,right,acetylcholine,local,MB,Eichler2017,4227544
+217,KC_4230061,KC,KC12,KC,right,acetylcholine,local,MB,Eichler2017,4230061
+218,KC_11725127,KC,KC12,KC,left,acetylcholine,local,MB,Eichler2017,11725127
+219,KC_4230739,KC,KC13,KC,right,acetylcholine,local,MB,Eichler2017,4230739
+220,KC_14898816,KC,KC13,KC,left,acetylcholine,local,MB,Eichler2017,14898816
+221,KC_4241192,KC,KC14,KC,right,acetylcholine,local,MB,Eichler2017,4241192
+222,KC_16039470,KC,KC14,KC,left,acetylcholine,local,MB,Eichler2017,16039470
+223,KC_4414426,KC,KC15,KC,right,acetylcholine,local,MB,Eichler2017,4414426
+224,KC_4415241,KC,KC16,KC,right,acetylcholine,local,MB,Eichler2017,4415241
+225,KC_12726582,KC,KC16,KC,left,acetylcholine,local,MB,Eichler2017,12726582
+226,KC_4444354,KC,KC17,KC,right,acetylcholine,local,MB,Eichler2017,4444354
+227,KC_11691603,KC,KC17,KC,left,acetylcholine,local,MB,Eichler2017,11691603
+228,KC_4919895,KC-young,KC18 young,KC,right,acetylcholine,local,MB,Eichler2017,4919895
+229,KC_4982172,KC,KC19,KC,right,acetylcholine,local,MB,Eichler2017,4982172
+230,KC_3347708,KC,KC2,KC,right,acetylcholine,local,MB,Eichler2017,3347708
+231,KC_4412315,KC,KC2/24,KC,left,acetylcholine,local,MB,Eichler2017,4412315
+232,KC_5019924,KC,KC20,KC,right,acetylcholine,local,MB,Eichler2017,5019924
+233,KC_5051342,KC,KC21,KC,right,acetylcholine,local,MB,Eichler2017,5051342
+234,KC_8262302,KC,KC21,KC,left,acetylcholine,local,MB,Eichler2017,8262302
+235,KC_5835799,KC,KC22,KC,right,acetylcholine,local,MB,Eichler2017,5835799
+236,KC_16630941,KC,KC22,KC,left,acetylcholine,local,MB,Eichler2017,16630941
+237,KC_5835815,KC,KC23,KC,right,acetylcholine,local,MB,Eichler2017,5835815
+238,KC_5836035,KC,KC24,KC,right,acetylcholine,local,MB,Eichler2017,5836035
+239,KC_5836163,KC,KC25,KC,right,acetylcholine,local,MB,Eichler2017,5836163
+240,KC_16630264,KC,KC25,KC,left,acetylcholine,local,MB,Eichler2017,16630264
+241,KC_5836181,KC,KC26,KC,right,acetylcholine,local,MB,Eichler2017,5836181
+242,KC_5836197,KC,KC27,KC,right,acetylcholine,local,MB,Eichler2017,5836197
+243,KC_5836206,KC,KC28,KC,right,acetylcholine,local,MB,Eichler2017,5836206
+244,KC_5836387,KC,KC29,KC,right,acetylcholine,local,MB,Eichler2017,5836387
+245,KC_3347834,KC,KC3,KC,right,acetylcholine,local,MB,Eichler2017,3347834
+246,KC_16625432,KC,KC30,KC,right,acetylcholine,local,MB,Eichler2017,16625432
+247,KC_7196392,KC,KC31,KC,right,acetylcholine,local,MB,Eichler2017,7196392
+248,KC_14547259,KC,KC32,KC,right,acetylcholine,local,MB,Eichler2017,14547259
+249,KC_7690945,KC,KC33,KC,right,acetylcholine,local,MB,Eichler2017,7690945
+250,KC_7786053,KC,KC34,KC,right,acetylcholine,local,MB,Eichler2017,7786053
+251,KC_16629788,KC,KC34,KC,left,acetylcholine,local,MB,Eichler2017,16629788
+252,KC_7828725,KC,KC35,KC,right,acetylcholine,local,MB,Eichler2017,7828725
+253,KC_7829784,KC,KC36,KC,right,acetylcholine,local,MB,Eichler2017,7829784
+254,KC_7838405,KC,KC37,KC,right,acetylcholine,local,MB,Eichler2017,7838405
+255,KC_7840203,KC,KC38,KC,right,acetylcholine,local,MB,Eichler2017,7840203
+256,KC_7868195,KC,KC39,KC,right,acetylcholine,local,MB,Eichler2017,7868195
+257,KC_3497901,KC,KC4,KC,right,acetylcholine,local,MB,Eichler2017,3497901
+258,KC_7891312,KC,KC40,KC,right,acetylcholine,local,MB,Eichler2017,7891312
+259,KC_8066411,KC-young,KC41 young,KC,right,acetylcholine,local,MB,Eichler2017,8066411
+260,KC_8066542,KC,KC42,KC,right,acetylcholine,local,MB,Eichler2017,8066542
+261,KC_11725803,KC,KC42,KC,left,acetylcholine,local,MB,Eichler2017,11725803
+262,KC_8259179,KC-very-young,KC43 very young,KC,right,acetylcholine,local,MB,Eichler2017,8259179
+263,KC_8259192,KC-young,KC44 young,KC,right,acetylcholine,local,MB,Eichler2017,8259192
+264,KC_8259199,KC-very-young,KC45 very young,KC,right,acetylcholine,local,MB,Eichler2017,8259199
+265,KC_8260011,KC-young,KC46 young,KC,right,acetylcholine,local,MB,Eichler2017,8260011
+266,KC_8260935,KC-very-young,KC47 very young,KC,right,acetylcholine,local,MB,Eichler2017,8260935
+267,KC_8274902,KC,KC48,KC,right,acetylcholine,local,MB,Eichler2017,8274902
+268,KC_8413663,KC,KC49,KC,right,acetylcholine,local,MB,Eichler2017,8413663
+269,KC_16627838,KC,KC49?,KC,left,acetylcholine,local,MB,Eichler2017,16627838
+270,KC_3522293,KC,KC5,KC,right,acetylcholine,local,MB,Eichler2017,3522293
+271,KC_8419602,KC,KC50,KC,right,acetylcholine,local,MB,Eichler2017,8419602
+272,KC_8427677,KC,KC51,KC,right,acetylcholine,local,MB,Eichler2017,8427677
+273,KC_8504660,KC,KC52,KC,right,acetylcholine,local,MB,Eichler2017,8504660
+274,KC_8509987,KC,KC53,KC,right,acetylcholine,local,MB,Eichler2017,8509987
+275,KC_6704232,KC,KC54,KC,left,acetylcholine,local,MB,Eichler2017,6704232
+276,KC_8559607,KC,KC54,KC,right,acetylcholine,local,MB,Eichler2017,8559607
+277,KC_8723397,KC-young,KC55 young,KC,right,acetylcholine,local,MB,Eichler2017,8723397
+278,KC_8761400,KC-young,KC56 young,KC,right,acetylcholine,local,MB,Eichler2017,8761400
+279,KC_8764750,KC-very-young,KC57 very young,KC,right,acetylcholine,local,MB,Eichler2017,8764750
+280,KC_8765865,KC-very-young,KC58 very young,KC,right,acetylcholine,local,MB,Eichler2017,8765865
+281,KC_8766921,KC-young,KC59 young,KC,right,acetylcholine,local,MB,Eichler2017,8766921
+282,KC_3565102,KC-young,KC6 young,KC,right,acetylcholine,local,MB,Eichler2017,3565102
+283,KC_8773165,KC-very-young,KC60 very young,KC,right,acetylcholine,local,MB,Eichler2017,8773165
+284,KC_8773716,KC-very-young,KC61 very young,KC,right,acetylcholine,local,MB,Eichler2017,8773716
+285,KC_8773879,KC-young,KC62 young,KC,right,acetylcholine,local,MB,Eichler2017,8773879
+286,KC_8792120,KC-young,KC63 young,KC,right,acetylcholine,local,MB,Eichler2017,8792120
+287,KC_8835968,KC,KC64,KC,right,acetylcholine,local,MB,Eichler2017,8835968
+288,KC_5937084,KC,KC65;_42a left,KC,left,acetylcholine,local,MB,Eichler2017,5937084
+289,KC_8850802,KC,KC65;_42a right,KC,right,acetylcholine,local,MB,Eichler2017,8850802
+290,KC_8891315,KC,KC66,KC,right,acetylcholine,local,MB,Eichler2017,8891315
+291,KC_8924186,KC,KC67,KC,right,acetylcholine,local,MB,Eichler2017,8924186
+292,KC_16939375,KC,KC67,KC,left,acetylcholine,local,MB,Eichler2017,16939375
+293,KC_8957325,KC-young,KC68 young,KC,right,acetylcholine,local,MB,Eichler2017,8957325
+294,KC_8978117,KC-young,KC69 young,KC,right,acetylcholine,local,MB,Eichler2017,8978117
+295,KC_3587612,KC,KC7,KC,right,acetylcholine,local,MB,Eichler2017,3587612
+296,KC_8997281,KC,KC70,KC,right,acetylcholine,local,MB,Eichler2017,8997281
+297,KC_9012340,KC-young,KC71 young,KC,right,acetylcholine,local,MB,Eichler2017,9012340
+298,KC_4117305,KC,KC72,KC,left,acetylcholine,local,MB,Eichler2017,4117305
+299,KC_16720240,KC,KC72,KC,right,acetylcholine,local,MB,Eichler2017,16720240
+300,KC_16850888,KC,KC73,KC,right,acetylcholine,local,MB,Eichler2017,16850888
+301,KC_9511772,KC-young,KC74 young,KC,right,acetylcholine,local,MB,Eichler2017,9511772
+302,KC_9517477,KC-young,KC75 young,KC,right,acetylcholine,local,MB,Eichler2017,9517477
+303,KC_9525492,KC,KC76,KC,right,acetylcholine,local,MB,Eichler2017,9525492
+304,KC_9531722,KC,KC77,KC,right,acetylcholine,local,MB,Eichler2017,9531722
+305,KC_9556700,KC,KC78,KC,right,acetylcholine,local,MB,Eichler2017,9556700
+306,KC_16631114,KC,KC78?,KC,left,acetylcholine,local,MB,Eichler2017,16631114
+307,KC_9574259,KC-young,KC79 young,KC,right,acetylcholine,local,MB,Eichler2017,9574259
+308,KC_3605630,KC-young,KC8 young,KC,right,acetylcholine,local,MB,Eichler2017,3605630
+309,KC_9578602,KC-young,KC80 young,KC,right,acetylcholine,local,MB,Eichler2017,9578602
+310,KC_9606354,KC-very-young,KC81 very young,KC,right,acetylcholine,local,MB,Eichler2017,9606354
+311,KC_9609048,KC,KC82,KC,right,acetylcholine,local,MB,Eichler2017,9609048
+312,KC_15722867,KC,KC82,KC,left,acetylcholine,local,MB,Eichler2017,15722867
+313,KC_9707941,KC,KC83,KC,right,acetylcholine,local,MB,Eichler2017,9707941
+314,KC_9730873,KC,KC84,KC,right,acetylcholine,local,MB,Eichler2017,9730873
+315,KC_9741463,KC-young,KC85 young,KC,right,acetylcholine,local,MB,Eichler2017,9741463
+316,KC_9766793,KC,KC86,KC,right,acetylcholine,local,MB,Eichler2017,9766793
+317,KC_9769559,KC-very-young,KC87 very young,KC,right,acetylcholine,local,MB,Eichler2017,9769559
+318,KC_9770016,KC-very-young,KC88 very young,KC,right,acetylcholine,local,MB,Eichler2017,9770016
+319,KC_9782026,KC-young,KC89 young,KC,right,acetylcholine,local,MB,Eichler2017,9782026
+320,KC_3679411,KC-young,KC9 young,KC,right,acetylcholine,local,MB,Eichler2017,3679411
+321,KC_9796812,KC,KC90,KC,right,acetylcholine,local,MB,Eichler2017,9796812
+322,KC_16977881,KC,KC90,KC,left,acetylcholine,local,MB,Eichler2017,16977881
+323,KC_9809626,KC,KC91,KC,right,acetylcholine,local,MB,Eichler2017,9809626
+324,KC_9813188,KC,KC92,KC,right,acetylcholine,local,MB,Eichler2017,9813188
+325,KC_9847388,KC,KC93,KC,right,acetylcholine,local,MB,Eichler2017,9847388
+326,KC_9889095,KC,KC94,KC,right,acetylcholine,local,MB,Eichler2017,9889095
+327,KC_9897223,KC,KC95,KC,right,acetylcholine,local,MB,Eichler2017,9897223
+328,KC_10056280,KC,KC96,KC,right,acetylcholine,local,MB,Eichler2017,10056280
+329,KC_10169396,KC,KC97,KC,right,acetylcholine,local,MB,Eichler2017,10169396
+330,KC_10246566,KC-young,KC98 young,KC,right,acetylcholine,local,MB,Eichler2017,10246566
+331,KC_10259967,KC,KC99,KC,right,acetylcholine,local,MB,Eichler2017,10259967
+332,KC_8262372,LON-KC,LON KC left,KC,left,acetylcholine,local,MB,Eichler2017,8262372
+333,KC_8068173,LON-KC,LON KC right,KC,right,acetylcholine,local,MB,Eichler2017,8068173
+334,DAN-b1_8689674,DAN-b1,MBE10a left,MBIN,left,dopamine,input,MB,Eichler2017,8689674
+335,DAN-b1_8319311,DAN-b1,MBE10a right,MBIN,right,dopamine,input,MB,Eichler2017,8319311
+336,DAN-b2_17295912,DAN-b2,MBE10b left,MBIN,left,dopamine,input,MB,Eichler2017,17295912
+337,DAN-b2_16353832,DAN-b2,MBE10b right,MBIN,right,dopamine,input,MB,Eichler2017,16353832
+338,MBON-b2_16782830,MBON-b2,MBE11b left,MBON,left,GABA,output,MB,Eichler2017,16782830
+339,MBON-b2_9469519,MBON-b2,MBE11b right,MBON,right,GABA,output,MB,Eichler2017,9469519
+340,APL_15571194,APL,MBE12 left,APL,left,GABA,local,MB,Eichler2017,15571194
+341,APL_3234817,APL,MBE12 right,APL,right,GABA,local,MB,Eichler2017,3234817
+342,MBON-h1_8338584,MBON-h1,MBE13a left,MBON,left,GABA,output,MB,Eichler2017,8338584
+343,MBON-h1_4195012,MBON-h1,MBE13a right,MBON,right,GABA,output,MB,Eichler2017,4195012
+344,MBON-h2_8798010,MBON-h2,MBE13b left,MBON,left,GABA,output,MB,Eichler2017,8798010
+345,MBON-h2_4230749,MBON-h2,MBE13b right,MBON,right,GABA,output,MB,Eichler2017,4230749
+346,MBON-g1_4401350,MBON-g1,MBE15a left,MBON,left,GABA,output,MB,Eichler2017,4401350
+347,MBON-g1_4598363,MBON-g1,MBE15a right,MBON,right,GABA,output,MB,Eichler2017,4598363
+348,MBON-g2_5395823,MBON-g2,MBE15b left,MBON,left,GABA,output,MB,Eichler2017,5395823
+349,MBON-g2_11524047,MBON-g2,MBE15b right,MBON,right,GABA,output,MB,Eichler2017,11524047
+350,MBON-c1_8980589,MBON-c1,MBE18 right,MBON,right,acetylcholine,output,MB,Eichler2017,8980589
+351,MBIN-l1_4381129,MBIN-l1,MBE19 left,MBIN,left,unknown,input,MB,Eichler2017,4381129
+352,MBIN-l1_15404207,MBIN-l1,MBE19 right,MBIN,right,unknown,input,MB,Eichler2017,15404207
+353,DAN-k1_12871993,DAN-k1,MBE1b left,MBIN,left,dopamine,input,MB,Eichler2017,12871993
+354,DAN-k1_4884579,DAN-k1,MBE1b right,MBIN,right,dopamine,input,MB,Eichler2017,4884579
+355,DAN-i1_7057894,DAN-i1,MBE1c left,MBIN,left,dopamine,input,MB,Eichler2017,7057894
+356,DAN-i1_6611894,DAN-i1,MBE1c right,MBIN,right,dopamine,input,MB,Eichler2017,6611894
+357,DAN-j1_4414163,DAN-j1,MBE1d left,MBIN,left,dopamine,input,MB,Eichler2017,4414163
+358,DAN-j1_4414184,DAN-j1,MBE1d right,MBIN,right,dopamine,input,MB,Eichler2017,4414184
+359,MBON-m1_17016974,MBON-m1,MBE20 left,MBON,left,GABA,output,MB,Eichler2017,17016974
+360,MBON-m1_4022539,MBON-m1,MBE20 right,MBON,right,GABA,output,MB,Eichler2017,4022539
+361,OAN-g1_11525714,OAN-g1,MBE22 left,MBIN,left,octopamine,input,"MB,SEZ",Eichler2017,11525714
+362,OAN-g1_12805363,OAN-g1,MBE22 right,MBIN,right,octopamine,input,"MB,SEZ",Eichler2017,12805363
+363,DAN-e1_12475432,DAN-e1,MBE24a left,MBIN,left,dopamine,input,MB,Eichler2017,12475432
+364,DAN-e1_3890028,DAN-e1,MBE24a right,MBIN,right,dopamine,input,MB,Eichler2017,3890028
+365,MBON-p1_11017761,MBON-p1,MBE26 left,MBON,left,unknown,output,MB,Eichler2017,11017761
+366,MBON-p1_16178283,MBON-p1,MBE26 right,MBON,right,unknown,output,MB,Eichler2017,16178283
+367,MBON-j1_3299214,MBON-j1,MBE2a right,MBON,right,glutamate,output,MB,Eichler2017,3299214
+368,MBON-q1_7910624,MBON-q1,MBE2as left,MBON,left,unknown,output,MB,Eichler2017,7910624
+369,MBON-q1_7897469,MBON-q1,MBE2as right,MBON,right,unknown,output,MB,Eichler2017,7897469
+370,MBON-d2_15810983,MBON-d2,MBE30 left,MBON,left,unknown,output,MB,Eichler2017,15810983
+371,MBON-d2_6699205,MBON-d2,MBE30 right,MBON,right,unknown,output,MB,Eichler2017,6699205
+372,MBON-b3_16883909,MBON-b3,MBE33 left,MBON,left,unknown,output,MB,Eichler2017,16883909
+373,MBON-b3_4234009,MBON-b3,MBE33 right,MBON,right,unknown,output,MB,Eichler2017,4234009
+374,DAN-f1_7901791,DAN-f1,MBE4a left,MBIN,left,dopamine,input,MB,Eichler2017,7901791
+375,DAN-f1_2506050,DAN-f1,MBE4a right,MBIN,right,dopamine,input,MB,Eichler2017,2506050
+376,DAN-g1_4381377,DAN-g1,MBE4f left,MBIN,left,dopamine,input,MB,Eichler2017,4381377
+377,DAN-g1_10673895,DAN-g1,MBE4f right,MBIN,right,dopamine,input,MB,Eichler2017,10673895
+378,DAN-c1_15592096,DAN-c1,MBE4g left,MBIN,left,dopamine,input,MB,Eichler2017,15592096
+379,DAN-c1_16240569,DAN-c1,MBE4g right,MBIN,right,dopamine,input,MB,Eichler2017,16240569
+380,DAN-d1_3886356,DAN-d1,MBE4h left,MBIN,left,dopamine,input,MB,Eichler2017,3886356
+381,DAN-d1_5966099,DAN-d1,MBE4h right,MBIN,right,dopamine,input,MB,Eichler2017,5966099
+382,MBON-i1_7802210,MBON-i1,MBE5a left,MBON,left,glutamate,output,MB,Eichler2017,7802210
+383,MBON-i1_16797672,MBON-i1,MBE5a right,MBON,right,glutamate,output,MB,Eichler2017,16797672
+384,MBON-d1_7055857,MBON-d1,MBE6 left,MBON,left,GABA,output,MB,Eichler2017,7055857
+385,MBON-d1_4241237,MBON-d1,MBE6 right,MBON,right,GABA,output,MB,Eichler2017,4241237
+386,MBON-a1_8877158,MBON-a1,MBE7a left,MBON,left,acetylcholine,output,MB,Eichler2017,8877158
+387,MBON-a1_10163418,MBON-a1,MBE7a right,MBON,right,acetylcholine,output,MB,Eichler2017,10163418
+388,MBON-a2_17355757,MBON-a2,MBE7b left,MBON,left,acetylcholine,output,MB,Eichler2017,17355757
+389,MBON-a2_15617305,MBON-a2,MBE7b right,MBON,right,acetylcholine,output,MB,Eichler2017,15617305
+390,OAN-e1_7983899,OAN-e1,MBE9a left,MBIN,left,octopamine,input,MB,Eichler2017,7983899
+391,OAN-e1_7616956,OAN-e1,MBE9a right,MBIN,right,octopamine,input,MB,Eichler2017,7616956
+392,KC-Thermo_A_8118474,KC-Thermo-A,Thermo KC A_Left   -   Mushroom Body  Right,KC,left,acetylcholine,local,MB,Eichler2017,8118474
+393,KC-Thermo_A_4229950,KC-Thermo-A,Thermo KC A_Right - Mushroom Body  Left,KC,left,acetylcholine,local,MB,Eichler2017,4229950
+394,KC-Thermo_B_7187384,KC-Thermo-B,Thermo KC B_left - mbi2 - unknown,KC,left,acetylcholine,local,MB,Eichler2017,7187384
+395,KC-Thermo_B_3664102,KC-Thermo-B,Thermo KC B_right - mbi2 - unknown,KC,right,acetylcholine,local,MB,Eichler2017,3664102
+396,OAN-a1_17068730,OAN-a1,Ladder (olfactory) ant.,MBIN,bilateral,octopamine,input,MB,"Eichler2017,Berck2016",17068730
+397,OAN-a2_3813487,OAN-a2,Ladder (olfactory) post.,MBIN,bilateral,octopamine,input,MB,"Eichler2017,Berck2016",3813487
+398,PN-13a_8244823,PN-13a,13a PN right,uPN,right,acetylcholine,output,AL,"Eichler2017,Berck2016,Miroschnikow2018",8244823
+399,PN-1a_7865696,PN-1a,1a PN left,uPN,left,acetylcholine,output,AL,"Eichler2017,Berck2016,Miroschnikow2018",7865696
+400,PN-1a_8252067,PN-1a,1a PN right,uPN,right,acetylcholine,output,AL,"Eichler2017,Berck2016,Miroschnikow2018",8252067
+401,PN-24a_7198338,PN-24a,24a PN left,uPN,left,acetylcholine,output,AL,"Eichler2017,Berck2016,Miroschnikow2018",7198338
+402,PN-30a_8256186,PN-30a,30a PN right,uPN,right,acetylcholine,output,AL,"Eichler2017,Berck2016,Miroschnikow2018",8256186
+403,PN-35a_7934904,PN-35a,35a PN bilateral left,uPN,left,acetylcholine,output,"AL,SEZ","Eichler2017,Berck2016,Miroschnikow2018",7934904
+404,PN-42b_8245692,PN-42b,42b PN right,uPN,right,acetylcholine,output,AL,"Eichler2017,Berck2016,Miroschnikow2018",8245692
+405,PN-45a_7852250,PN-45a,45a PN left,uPN,left,acetylcholine,output,AL,"Eichler2017,Berck2016,Miroschnikow2018",7852250
+406,PN-45a_8247451,PN-45a,45a PN right,uPN,right,acetylcholine,output,AL,"Eichler2017,Berck2016,Miroschnikow2018",8247451
+407,PN-45b_7107433,PN-45b,45b PN left,uPN,left,acetylcholine,output,AL,"Eichler2017,Berck2016,Miroschnikow2018",7107433
+408,PN-47a_&_33b_8246750,PN-47a-&-33b,47a & 33b PN right,uPN,right,acetylcholine,output,AL,"Eichler2017,Berck2016,Miroschnikow2018",8246750
+409,PN-59a_8245014,PN-59a,59a PN right,uPN,right,acetylcholine,output,AL,"Eichler2017,Berck2016,Miroschnikow2018",8245014
+410,PN-63a_7845346,PN-63a,63a PN left,uPN,left,acetylcholine,output,AL,"Eichler2017,Berck2016,Miroschnikow2018",7845346
+411,PN-74a_7843730,PN-74a,74a PN left,uPN,left,acetylcholine,output,AL,"Eichler2017,Berck2016,Miroschnikow2018",7843730
+412,PN-74a_8140109,PN-74a,74a PN right,uPN,right,acetylcholine,output,AL,"Eichler2017,Berck2016,Miroschnikow2018",8140109
+413,PN-83a_8243455,PN-83a,83a PN right,uPN,right,acetylcholine,output,AL,"Eichler2017,Berck2016,Miroschnikow2018",8243455
+414,PN-94a_&_94b_8399890,PN-94a-&-94b,94a & 94b PN left,uPN,left,acetylcholine,output,AL,"Eichler2017,Berck2016,Miroschnikow2018",8399890
+415,mPN-iACT_b-lower_11543212,mPN-iACT-biL-lower,mPN iACT bilateral LOWER right,mPN,right,unknown,output,AL,"Eichler2017,Berck2016,Miroschnikow2018",11543212
+416,mPN-iACT_C2_4391978,mPN-iACT-C2,mPN iACT C2 right,mPN,right,unknown,output,AL,"Eichler2017,Berck2016,Miroschnikow2018",4391978
+417,nc-LaN1_7555968,nc-LaN1,nc1;right,VPN,right,acetylcholine,output,LON,"Eichler2017,Larderet2017,Miroschnikow2018",7555968
+418,CPLd_8598886,CPLd,3rd-order Thermo right; CPLd interneuron,CPLd,right,unknown,unknown,MB,"Eichler2017,Miroschnikow2018",8598886
+419,AVL011-Left_4985759,AVL011-PN,AVL011 PN Left,LHN,left,unknown,unknown,MB,"Eichler2017,Miroschnikow2018",4985759
+420,AVL011_9291474,AVL011-PN,AVL011 PN Right,LHN,right,unknown,unknown,MB,"Eichler2017,Miroschnikow2018",9291474
+421,LHN_4620453,AVL011-PN,AVL011 PN Right 2?,LHN,unknown,unknown,unknown,unknown,"Eichler2017,Miroschnikow2018",4620453
+422,LHN_4152020,LHN,from upper looping PN - peptidergic right,LHN,unknown,unknown,unknown,unknown,"Eichler2017,Miroschnikow2018",4152020
+423,PN-Gustatory_11333054,PN-Gustatory,Gustatory PN left,PN,left,acetylcholine,output,AL,"Eichler2017,Miroschnikow2018",11333054
+424,LH-MB_17434825,LH-bilateral-axon-2-MB,LH bilateral axon 2 MB_left; BLVa12 b 3,"LHN,LHON,MB2ON,CN",left,unknown,unknown,MB,"Eichler2017,Miroschnikow2018",17434825
+425,LH-MB_16485079,LH-bilateral-axon-2-MB,LH bilateral axon 2 MB_right; BLVa12 b 3,"LHN,LHON,MB2ON,CN",right,unknown,unknown,MB,"Eichler2017,Miroschnikow2018",16485079
+426,PN-Lower_Looping_4154421,PN-Lower-Looping,Lower Looping PN Left - AVM004,PN,left,acetylcholine,output,AL,"Eichler2017,Miroschnikow2018",4154421
+427,PN-Lower_Looping_3690921,PN-Lower-Looping,Lower Looping PN Right - AVM004 (BAla1/2),PN,right,acetylcholine,output,AL,"Eichler2017,Miroschnikow2018",3690921
+428,MBON-b1_17147698,MBON-b1,MBE11a left,MBON,left,GABA,output,MB,"Eichler2017,Miroschnikow2018",17147698
+429,MBON-b1_8094859,MBON-b1,MBE11a right,MBON,right,GABA,output,MB,"Eichler2017,Miroschnikow2018",8094859
+430,MBON-e2_8922644,MBON-e2,MBE16 left,MBON,left,glutamate,output,MB,"Eichler2017,Miroschnikow2018",8922644
+431,MBON-e2_8297018,MBON-e2,MBE16 right,MBON,right,glutamate,output,MB,"Eichler2017,Miroschnikow2018",8297018
+432,MBON-c1_16223537,MBON-c1,MBE18 left,MBON,left,acetylcholine,output,MB,"Eichler2017,Miroschnikow2018",16223537
+433,MBON-n1_15398730,MBON-n1,MBE23 left,MBON,left,unknown,output,MB,"Eichler2017,Miroschnikow2018",15398730
+434,MBON-n1_6703240,MBON-n1,MBE23 right,MBON,right,unknown,output,MB,"Eichler2017,Miroschnikow2018",6703240
+435,MBON-o1_16868923,MBON-o1,MBE24b left,MBON,left,unknown,output,MB,"Eichler2017,Miroschnikow2018",16868923
+436,MBON-j1_15421363,MBON-j1,MBE2a left,MBON,left,glutamate,output,MB,"Eichler2017,Miroschnikow2018",15421363
+437,MBON-f1_15253921,MBON-f1,MBE34 left,MBON,left,unknown,output,MB,"Eichler2017,Miroschnikow2018",15253921
+438,MBON-f1_4598109,MBON-f1,MBE34 right,MBON,right,unknown,output,MB,"Eichler2017,Miroschnikow2018",4598109
+439,MBON-d3_9109799,MBON-d3,MBE35 left,MBON,left,unknown,output,MB,"Eichler2017,Miroschnikow2018",9109799
+440,MBON-d3_9074101,MBON-d3,MBE35 right,MBON,right,unknown,output,MB,"Eichler2017,Miroschnikow2018",9074101
+441,MBON-k1_16846805,MBON-k1,MBE5b left,MBON,left,glutamate,output,MB,"Eichler2017,Miroschnikow2018",16846805
+442,MBON-e1_14082322,MBON-e1,MBE9b left,MBON,left,acetylcholine,output,MB,"Eichler2017,Miroschnikow2018",14082322
+443,MBON-e1_7840791,MBON-e1,MBE9b right,MBON,right,acetylcholine,output,MB,"Eichler2017,Miroschnikow2018",7840791
+444,mPN-BAmd1-g_10160250,mPN-BAmd1-g,mPN BAmd1-g left,mPN,left,unknown,output,AL,"Eichler2017,Miroschnikow2018",10160250
+445,mPN-BAmd1-g_3450751,mPN-BAmd1-g,mPN BAmd1-g right,mPN,right,unknown,output,AL,"Eichler2017,Miroschnikow2018",3450751
+446,PN-non-olfactory_11067379,PN-non-olfactory,non-olfactory PN left,PN,left,acetylcholine,output,AL,"Eichler2017,Miroschnikow2018",11067379
+447,PN-non-olfactory_4393049,PN-non-olfactory,non-olfactory PN right,PN,right,acetylcholine,output,AL,"Eichler2017,Miroschnikow2018",4393049
+448,PN-in_Olfactory_Bundle_1_7092086,PN-in-Olfactory-Bundle-1,PN in Olfactory Bundle 1 left,PN,left,acetylcholine,output,AL,"Eichler2017,Miroschnikow2018",7092086
+449,PN-in_Olfactory_Bundle_1_4876704,PN-in-Olfactory-Bundle-1,PN in Olfactory Bundle 1 right,PN,right,acetylcholine,output,AL,"Eichler2017,Miroschnikow2018",4876704
+450,PN-in_Olfactory_Bundle_2_8012953,PN-in-Olfactory-Bundle-2,PN in Olfactory Bundle 2 left,PN,left,acetylcholine,output,AL,"Eichler2017,Miroschnikow2018",8012953
+451,PN-in_Olfactory_Bundle_2_8254894,PN-in-Olfactory-Bundle-2,PN in Olfactory Bundle 2 right,PN,right,acetylcholine,output,AL,"Eichler2017,Miroschnikow2018",8254894
+452,PPLV-2_9747418,PPLV-2,PPLV - 2 Left (maybe PVL014c),LHN,left,unknown,unknown,MB,"Eichler2017,Miroschnikow2018",9747418
+453,PVL005-2_4635057,PVL005-2,PVL005 - 2 Left,LHN,left,unknown,unknown,MB,"Eichler2017,Miroschnikow2018",4635057
+454,LHN_9275210,PVL005-2,PVL005 - 2 Right (V1); BLVa34 a 11,LHN,unknown,unknown,unknown,unknown,"Eichler2017,Miroschnikow2018",9275210
+455,PVL005-1_12948470,PVL005-1,PVL005 1 left,LHN,left,unknown,unknown,MB,"Eichler2017,Miroschnikow2018",12948470
+456,PVL005-1_7971031,PVL005-1,PVL005 1 right,LHN,right,unknown,unknown,MB,"Eichler2017,Miroschnikow2018",7971031
+457,PN-Upper_Looping_4108016,PN-Upper-Looping,Upper Looping PN Left - AVM004,PN,left,acetylcholine,output,AL,"Eichler2017,Miroschnikow2018",4108016
+458,LHN_2921933,LHN-V1,V1: possible PVL005 - 3 Right,LHN,right,unknown,local,LH,"Eichler2017,Miroschnikow2018",2921933
+459,PN-13a_4493199,PN-13a,13a PN left,uPN,left,acetylcholine,output,AL,"Eichler2017,Miroschnikow2018,Berck2016",4493199
+460,PN-22c_7865652,PN-22c,22c PN left,uPN,left,acetylcholine,output,AL,"Eichler2017,Miroschnikow2018,Berck2016",7865652
+461,PN-22c_8248631,PN-22c,22c PN right,uPN,right,acetylcholine,output,AL,"Eichler2017,Miroschnikow2018,Berck2016",8248631
+462,PN-24a_8245869,PN-24a,24a PN right,uPN,right,acetylcholine,output,AL,"Eichler2017,Miroschnikow2018,Berck2016",8245869
+463,PN-30a_7916593,PN-30a,30a PN left,uPN,left,acetylcholine,output,AL,"Eichler2017,Miroschnikow2018,Berck2016",7916593
+464,PN-33a_8021456,PN-33a,33a PN left,uPN,left,acetylcholine,output,AL,"Eichler2017,Miroschnikow2018,Berck2016",8021456
+465,PN-33a_13589251,PN-33a,33a PN right,uPN,right,acetylcholine,output,AL,"Eichler2017,Miroschnikow2018,Berck2016",13589251
+466,PN-35a_7935088,PN-35a,35a PN bilateral right,uPN,right,acetylcholine,output,"AL,SEZ","Eichler2017,Miroschnikow2018,Berck2016",7935088
+467,PN-42a_3486381,PN-42a,42a PN left,uPN,left,acetylcholine,output,AL,"Eichler2017,Miroschnikow2018,Berck2016",3486381
+468,PN-42a_8244723,PN-42a,42a PN right,uPN,right,acetylcholine,output,AL,"Eichler2017,Miroschnikow2018,Berck2016",8244723
+469,PN-42b_7873135,PN-42b,42b PN left,uPN,left,acetylcholine,output,AL,"Eichler2017,Miroschnikow2018,Berck2016",7873135
+470,PN-45b_8253413,PN-45b,45b PN right,uPN,right,acetylcholine,output,AL,"Eichler2017,Miroschnikow2018,Berck2016",8253413
+471,PN-47a_&_33b_7092417,PN-47a-&-33b,47a & 33b PN left,uPN,left,acetylcholine,output,AL,"Eichler2017,Miroschnikow2018,Berck2016",7092417
+472,PN-49a_7515491,PN-49a,49a PN left,uPN,left,acetylcholine,output,AL,"Eichler2017,Miroschnikow2018,Berck2016",7515491
+473,PN-49a_11279244,PN-49a,49a PN right,uPN,right,acetylcholine,output,AL,"Eichler2017,Miroschnikow2018,Berck2016",11279244
+474,PN-59a_7864823,PN-59a,59a PN left,uPN,left,acetylcholine,output,AL,"Eichler2017,Miroschnikow2018,Berck2016",7864823
+475,PN-63a_8245513,PN-63a,63a PN right,uPN,right,acetylcholine,output,AL,"Eichler2017,Miroschnikow2018,Berck2016",8245513
+476,PN-67b_16259595,PN-67b,67b PN left,uPN,left,acetylcholine,output,AL,"Eichler2017,Miroschnikow2018,Berck2016",16259595
+477,PN-67b_8246081,PN-67b,67b PN right,uPN,right,acetylcholine,output,AL,"Eichler2017,Miroschnikow2018,Berck2016",8246081
+478,PN-82a_7851153,PN-82a,82a PN left,uPN,left,acetylcholine,output,AL,"Eichler2017,Miroschnikow2018,Berck2016",7851153
+479,PN-82a_8245146,PN-82a,82a PN right,uPN,right,acetylcholine,output,AL,"Eichler2017,Miroschnikow2018,Berck2016",8245146
+480,PN-83a_7865767,PN-83a,83a PN left,uPN,left,acetylcholine,output,AL,"Eichler2017,Miroschnikow2018,Berck2016",7865767
+481,PN-85c_4354933,PN-85c,85c PN left,uPN,left,acetylcholine,output,AL,"Eichler2017,Miroschnikow2018,Berck2016",4354933
+482,PN-85c_14604028,PN-85c,85c PN right,uPN,right,acetylcholine,output,AL,"Eichler2017,Miroschnikow2018,Berck2016",14604028
+483,PN-94a_&_94b_4651929,PN-94a-&-94b,94a & 94b PN right,uPN,right,acetylcholine,output,AL,"Eichler2017,Miroschnikow2018,Berck2016",4651929
+484,mPN-iACT_A1_4119387,mPN-iACT-A1,mPN iACT A1 right,mPN,right,unknown,output,AL,"Eichler2017,Miroschnikow2018,Berck2016",4119387
+485,mPN-iACT_b-lower_3712893,mPN-iACT-biL-lower,mPN iACT bilateral LOWER left,mPN,left,unknown,output,"AL,SEZ","Eichler2017,Miroschnikow2018,Berck2016",3712893
+486,mPN-iACT_b-upper_16795838,mPN-iACT-biL-upper,mPN iACT bilateral UPPER left,mPN,left,unknown,output,AL,"Eichler2017,Miroschnikow2018,Berck2016",16795838
+487,mPN-iACT_b-upper_16795524,mPN-iACT-biL-upper,mPN iACT bilateral UPPER right,mPN,right,unknown,output,AL,"Eichler2017,Miroschnikow2018,Berck2016",16795524
+488,mPN-iACT_C2_2612527,mPN-iACT-C2,mPN iACT C2 left,mPN,left,unknown,output,AL,"Eichler2017,Miroschnikow2018,Berck2016",2612527
+489,CN_9141404,CN-A,A ; 4th order Thermo_left,"MB2ON,FBN,CN",left,unknown,unknown,unknown,Eschbach2020,9141404
+490,CN_16691937,CN-A,A ; 4th order Thermo_right,"MB2ON,FBN,CN",right,unknown,unknown,unknown,Eschbach2020,16691937
+491,LHN_17150791,LHN-AB,AB_left,LHN,left,unknown,local,LH,Eschbach2020,17150791
+492,LHN_8712361,LHN-AB,AB_right,LHN,right,unknown,local,LH,Eschbach2020,8712361
+493,"LHN,MB2ON,FBN,CN_10209260",LHN-AE,AE_left,"LHN,MB2ON,FBN,CN",left,unknown,unknown,unknown,Eschbach2020,10209260
+494,"LHN,MB2ON,FBN,CN_17437719",LHN-AE,AE_right,"LHN,MB2ON,FBN,CN",right,unknown,unknown,unknown,Eschbach2020,17437719
+495,"LHN,MB2ON_11528017",LHN-AF11,AF11: check if new 3rd BME  (ipsi PDL right?) neuron 11528018,"LHN,MB2ON",right,unknown,unknown,unknown,Eschbach2020,11528017
+496,"LHN,MB2ON_12233237",LHN-AF11,AF11: ipsi PDL left,"LHN,MB2ON",left,unknown,unknown,unknown,Eschbach2020,12233237
+497,"LHN,MB2ON_14158399",LHN-AF12,AF12: CP23 d 1_left,"LHN,MB2ON",left,unknown,unknown,unknown,Eschbach2020,14158399
+498,"MB2ON,FAN,CN_17300165",LHN-AR,AR ; Putative MBE; CP4 1_left,"MB2ON,FAN,CN",left,unknown,unknown,unknown,Eschbach2020,17300165
+499,CN_9848760,CN-AR,AR ; Putative MBE; CP4 1_right,"MB2ON,FAN,CN",right,unknown,unknown,unknown,Eschbach2020,9848760
+500,MB2ON_3945246,MB2ON-AS,AS ; Left DAL neuron L,MB2ON,left,unknown,unknown,unknown,Eschbach2020,3945246
+501,MB2ON_19271710,MB2ON-AS,AS ; Right DAL neuron R,MB2ON,right,unknown,unknown,unknown,Eschbach2020,19271710
+502,"LHN,MB2ON,FBN,CN_13743125",LHN-ASB,ASB B1 left,"LHN,MB2ON,FBN,CN",left,unknown,unknown,unknown,Eschbach2020,13743125
+503,CN_17854345,CN-ASB,ASB B1 right,"MB2ON,FBN,CN",right,unknown,unknown,unknown,Eschbach2020,17854345
+504,FFN-2_2667061,FFN-ASB,ASB TODO B1 right 8 Fragment with soma,"MB2ON,FFN",right,unknown,unknown,unknown,Eschbach2020,2667061
+505,FFN-34_5679304,FFN-ASB,ASB TODO left from mPN 6,FFN,left,unknown,unknown,unknown,Eschbach2020,5679304
+506,CN_16475849,CN-AT,AT ; DPMpm2 1_left,"MB2ON,FAN,CN",left,unknown,unknown,unknown,Eschbach2020,16475849
+507,CN_16823703,CN-AT,AT ; DPMpm2 1_right,"MB2ON,FAN,CN",right,unknown,unknown,unknown,Eschbach2020,16823703
+508,CN_14540633,CN-B,B ; DALcm12 m ant lat 5_left,"MB2ON,FAN,CN",bilateral,unknown,unknown,unknown,Eschbach2020,14540633
+509,CN_4473922,CN-B,B ; DALcm12 m ant lat 5_right,"MB2ON,FAN,CN",bilateral,unknown,unknown,unknown,Eschbach2020,4473922
+510,FFN-12_17176866,FFN-BAmas,BAmas lineage Neuron left,FFN,left,unknown,unknown,unknown,Eschbach2020,17176866
+511,FFN-12_17176882,FFN-BAmas,BAmas lineage Neuron right,FFN,right,unknown,unknown,unknown,Eschbach2020,17176882
+512,FFN-17_5560620,FFN-BAmas12,BAmas12 7 d right,"MB2ON,FFN",right,unknown,unknown,unknown,Eschbach2020,5560620
+513,FFN-17_12479019,FFN-BAmas12,BAmas12 7 d the other side left,"MB2ON,FFN",left,unknown,unknown,unknown,Eschbach2020,12479019
+514,FFN-37_16316916,FFN-BAmas12,BAmas12 dor 12 d left,FFN,left,unknown,unknown,unknown,Eschbach2020,16316916
+515,FFN-37_5592307,FFN-BAmas12,BAmas12 dor 12 d right,FFN,right,unknown,unknown,unknown,Eschbach2020,5592307
+516,MB2ON_8540770,MB2ON-BAmd1,BAmd1 v 2 right,MB2ON,right,unknown,unknown,unknown,Eschbach2020,8540770
+517,FFN-33_16848497,FFN-Basal-Tel-like,Basal Tel-like 9 left,FFN,left,unknown,unknown,unknown,Eschbach2020,16848497
+518,FFN-33_9798791,FFN-Basal-Tel-like,Basal Tel-like 9 right,FFN,right,unknown,unknown,unknown,Eschbach2020,9798791
+519,CN_15588620,CN-BF,BF ; F3 pair; CP4 2_left,"MB2ON,FBN,CN",left,unknown,unknown,unknown,Eschbach2020,15588620
+520,"MB2ON,FBN,CN_7594047",MB2ON-BF,BF ; F3 pair; CP4 2_right,"MB2ON,FBN,CN",right,unknown,unknown,unknown,Eschbach2020,7594047
+521,CN_4514494,CN-BG,BG ; Baso-anterior target neuron,"MB2ON,FAN,CN",bilateral,unknown,unknown,unknown,Eschbach2020,4514494
+522,CN_8078096,CN-BG,BG ; Baso-anterior target neuron,"MB2ON,FAN,CN",left,unknown,unknown,unknown,Eschbach2020,8078096
+523,CN_11003660,CN-BJ,BJ_left,"MB2ON,FBN,CN",left,unknown,unknown,unknown,Eschbach2020,11003660
+524,CN_16594509,CN-BJ,BJ_right,"MB2ON,FBN,CN",right,unknown,unknown,unknown,Eschbach2020,16594509
+525,"MB2ON,FBN,CN_9064208",MB2ON-BL,BL ; CM13 med 4_left,"MB2ON,FBN,CN",left,unknown,unknown,unknown,Eschbach2020,9064208
+526,"MB2ON,FBN,CN_5934511",MB2ON-BL,BL ; CM13 med 4_right,"MB2ON,FBN,CN",right,unknown,unknown,unknown,Eschbach2020,5934511
+527,MB2ON_8019816,MB2ON-BL2,BL 2 ; Right; CM13 med 1,MB2ON,right,unknown,unknown,unknown,Eschbach2020,8019816
+528,MB2ON_17177005,MB2ON-BL2,BL 2 : Left,MB2ON,left,unknown,unknown,unknown,Eschbach2020,17177005
+529,"MB2ON,FBN,CN_9062992",MB2ON-BL1,BL1 ; CM13 lat 1_left,"MB2ON,FBN,CN",left,unknown,unknown,unknown,Eschbach2020,9062992
+530,"MB2ON,FBN,CN_8792477",MB2ON-BL1,BL1 ; CM13 lat 1_right,"MB2ON,FBN,CN",right,unknown,unknown,unknown,Eschbach2020,8792477
+531,"MB2ON,FBN,CN_10682660",MB2ON-BL4,BL4_left,"MB2ON,FBN,CN",left,unknown,unknown,unknown,Eschbach2020,10682660
+532,"MB2ON,FBN,CN_16856539",MB2ON-BL4,BL4_right; CM13 med 2,"MB2ON,FBN,CN",right,unknown,unknown,unknown,Eschbach2020,16856539
+533,CN_7026287,CN-BN,BN ; DALcm12 L m ant lat 3_left,"MB2ON,FBN,CN",bilateral,unknown,unknown,unknown,Eschbach2020,7026287
+534,CN_7980369,CN-BN,BN ; DALcm12 L m ant lat 3_right,"MB2ON,FBN,CN",bilateral,unknown,unknown,unknown,Eschbach2020,7980369
+535,LHON_15766806,LHON-Bridge-l,Bridge I_left,LHON,left,unknown,output,LH,Eschbach2020,15766806
+536,LHON_13863331,LHON-Bridge-l,Bridge I_right,LHON,right,unknown,output,LH,Eschbach2020,13863331
+537,"MB2ON,FBN_9423829",MB2ON-BY,BY_left,"MB2ON,FBN",left,unknown,unknown,unknown,Eschbach2020,9423829
+538,"MB2ON,FBN_9057043",MB2ON-BY,BY_right,"MB2ON,FBN",right,unknown,unknown,unknown,Eschbach2020,9057043
+539,CN_15741865,MB2ON-C,C ; DALcl12 L d 2_left,"MB2ON,FBN,CN",left,unknown,unknown,unknown,Eschbach2020,15741865
+540,CN_6290724,MB2ON-C,C ; DALcl12 L d 2_right,"MB2ON,FBN,CN",right,unknown,unknown,unknown,Eschbach2020,6290724
+541,FFN-16_12832017,FFN-CM13,CM13 lat 12 gap,FFN,left,unknown,unknown,unknown,Eschbach2020,12832017
+542,MB2ON_15488316,MB2ON-A01-like,contralateral in brain like A01 left,MB2ON,left,unknown,unknown,unknown,Eschbach2020,15488316
+543,"LHN,MB2ON_13852833",LHN-CP23,CP23 d 5_left,"LHN,MB2ON",left,unknown,unknown,unknown,Eschbach2020,13852833
+544,"LHN,MB2ON_9457719",LHN-CP23,CP23 d 5_right,"LHN,MB2ON",right,unknown,unknown,unknown,Eschbach2020,9457719
+545,FFN-34_8689148,FFN-CP23,CP23 v 7,FFN,right,unknown,unknown,unknown,Eschbach2020,8689148
+546,"LHN,MB2ON,FBN_10612094",LHN-CZ2,CZ2_left,"LHN,MB2ON,FBN",left,unknown,unknown,unknown,Eschbach2020,10612094
+547,"LHN,MB2ON,FBN_12122924",LHN-CZ2,CZ2_right,"LHN,MB2ON,FBN",right,unknown,unknown,unknown,Eschbach2020,12122924
+548,CN_8118947,CN-D,D ; Feedback neuron from nociceptive_left,"MB2ON,FBN,CN",left,unknown,unknown,unknown,Eschbach2020,8118947
+549,CN_14077615,CN-D,D ; Feedback neuron from nociceptive_right,"MB2ON,FBN,CN",right,unknown,unknown,unknown,Eschbach2020,14077615
+550,"MB2ON,FAN_9238937",MB2ON-DA,DA_left,"MB2ON,FAN",left,unknown,unknown,unknown,Eschbach2020,9238937
+551,"MB2ON,FAN_9103732",MB2ON-DA,DA_right,"MB2ON,FAN",right,unknown,unknown,unknown,Eschbach2020,9103732
+552,FFN-7_6300434,FFN-DALcl12,DALcl12 d 3 neuron 6300435 right,"MB2ON,FFN",right,unknown,unknown,unknown,Eschbach2020,6300434
+553,FFN-7_15510288,FFN-DALcl12,DALcl12 L d 3 left,"MB2ON,FFN",left,unknown,unknown,unknown,Eschbach2020,15510288
+554,FFN-26_7058243,FFN-DALcm12,DALcm12 r 11-21-13 neuron left hemisphere 3; DALcm12 L v ap 5,FFN,left,unknown,unknown,unknown,Eschbach2020,7058243
+555,FFN-26_15478720,FFN-DALcm12,DALcm12 v ap 21,FFN,right,unknown,unknown,unknown,Eschbach2020,15478720
+556,FFN-13_11051740,FFN-DALl1,DALl1 2 left,"LHN,FFN",left,unknown,unknown,unknown,Eschbach2020,11051740
+557,FFN-13_7421507,FFN-DALl1,DALl1 2 right,"LHON,FFN",right,unknown,output,LH,Eschbach2020,7421507
+558,FFN-8_9072237,FFN-DALv23,DALv23 L dor pos 1 left,"MB2ON,FFN",left,unknown,unknown,unknown,Eschbach2020,9072237
+559,"MB2ON,FBN_5870071",MB2ON-DALv23,DALv23 L LAL,"MB2ON,FBN",left,unknown,unknown,unknown,Eschbach2020,5870071
+560,MB2ON_9252296,MB2ON-DALv23,DALv23 L LAL dor pos 3 left,MB2ON,left,unknown,unknown,unknown,Eschbach2020,9252296
+561,FFN-8_4201020,FFN-DALv23,DALv23 LAL 11 right,"MB2ON,FFN",right,unknown,unknown,unknown,Eschbach2020,4201020
+562,MB2ON_4201555,MB2ON-DALv23,DALv23 LAL 12 right,MB2ON,right,unknown,unknown,unknown,Eschbach2020,4201555
+563,"MB2ON,FBN_4144377",MB2ON-DALv23,DALv23 LAL 2 right,"MB2ON,FBN",right,unknown,unknown,unknown,Eschbach2020,4144377
+564,"MB2ON,FBN_5681132",MB2ON-DE,DE: CPe 1_left,"MB2ON,FBN",left,unknown,unknown,unknown,Eschbach2020,5681132
+565,"MB2ON,FBN_7574701",MB2ON-DE,DE: CPe 1_right,"MB2ON,FBN",right,unknown,unknown,unknown,Eschbach2020,7574701
+566,FFN-41_16933362,FFN-DPLal-A,DPLal A_left,"MB2ON,FFN",left,unknown,unknown,unknown,Eschbach2020,16933362
+567,FFN-41_4234016,FFN-DPLal-A,DPLal A_right,"MB2ON,FFN",right,unknown,unknown,unknown,Eschbach2020,4234016
+568,LHN_5091874,LHN-DPLm1,DPLm1(D CB)3_left,LHN,left,unknown,unknown,unknown,Eschbach2020,5091874
+569,LHN_9287906,LHN-DPLm1,DPLm1(D CB)3_right,LHN,right,unknown,local,LH,Eschbach2020,9287906
+570,"LHN,MB2ON,FAN,CN_14260575",LHN-DPMpl,DPMpl lat 4 loSMpl_left,"LHN,MB2ON,FAN,CN",left,unknown,unknown,unknown,Eschbach2020,14260575
+571,CN_16987409,CN-DPMpl,DPMpl lat 4 loSMpl_right,"MB2ON,FAN,CN",right,unknown,unknown,unknown,Eschbach2020,16987409
+572,FFN-27_11361875,FFN-DPMpm,DPMpm a 1 MEF comm,FFN,right,unknown,unknown,unknown,Eschbach2020,11361875
+573,CN_11889676,CN-E,E ; BAMD PN_right,"MB2ON,FBN,CN",right,unknown,unknown,unknown,Eschbach2020,11889676
+574,"LHN,MB2ON_17784367",LHN-EX,EX 2 ; Right (?),"LHN,MB2ON",right,unknown,unknown,unknown,Eschbach2020,17784367
+575,LHN_16848475,LHN-EX,Exclusive to 24; CP4 5 -left,LHN,left,unknown,local,LH,Eschbach2020,16848475
+576,"LHN,MB2ON_17980792",LHN-EX,Exclusive to 24; CP4 5 right,"LHN,MB2ON",right,unknown,unknown,unknown,Eschbach2020,17980792
+577,FFN-11_12356747,FFN-11,forking too high?,"LHON,FFN",left,unknown,output,LH,Eschbach2020,12356747
+578,CN_11018254,CN-G,G ; 4th order Thermo (Stops Halfway); DALcm12 L m ant lat 10_left,"MB2ON,FBN,CN",bilateral,unknown,unknown,unknown,Eschbach2020,11018254
+579,CN_15480928,CN-G,G ; 4th order Thermo (Stops Halfway); DALcm12 L m ant lat 10_right,"MB2ON,FBN,CN",bilateral,unknown,unknown,unknown,Eschbach2020,15480928
+580,FFN-30_8349454,FFN-GB,GB: left,FFN,left,unknown,unknown,SEZ,Eschbach2020,8349454
+581,FFN-30_1591351,FFN-GB,GB: right,FFN,right,unknown,unknown,unknown,Eschbach2020,1591351
+582,FFN-35_17435678,FFN-35,HAS SOMA Neuron 17435679 right NL,FFN,right,unknown,unknown,unknown,Eschbach2020,17435678
+583,FFN-20_13199414,FFN-Headphone,Headphone-2_left,FFN,left,unknown,unknown,unknown,Eschbach2020,13199414
+584,FFN-20_11234536,FFNHeadphone,Headphone-2_right,FFN,right,unknown,unknown,unknown,Eschbach2020,11234536
+585,"MB2ON,FBN_16427492",MB2ON-HL,HL; DALv23 L LAL_left,"MB2ON,FBN",left,unknown,unknown,unknown,Eschbach2020,16427492
+586,"MB2ON,FBN_4180774",MB2ON-HL,HL; DALv23 L LAL_right,"MB2ON,FBN",right,unknown,unknown,unknown,Eschbach2020,4180774
+587,FFN-24_10351681,FFN-Horns,Horns_right,"MB2ON,FFN",right,unknown,unknown,unknown,Eschbach2020,10351681
+588,"MB2ON,FBN,CN_5516552",MB2ON-l,I ; Bala12,"MB2ON,FBN,CN",right,unknown,unknown,unknown,Eschbach2020,5516552
+589,"MB2ON,FBN,CN_7540581",MB2ON-l,I ; Bala12,"MB2ON,FBN,CN",left,unknown,unknown,unknown,Eschbach2020,7540581
+590,FFN-11_19857573,FFN-11,Ipsi relay neuron BPL lat R,FFN,right,unknown,unknown,unknown,Eschbach2020,19857573
+591,CN_15668309,CN-J,J ; Mid DPMpl lat  (F4 pair)_left,"MB2ON,FAN,CN",bilateral,unknown,unknown,unknown,Eschbach2020,15668309
+592,CN_17165711,CN-J,J ; Mid DPMpl lat  (F4 pair)_right,"MB2ON,FAN,CN",right,unknown,unknown,unknown,Eschbach2020,17165711
+593,CN_2966602,CN-K,K ; DPLam med _left,"MB2ON,FBN,CN",left,unknown,unknown,unknown,Eschbach2020,2966602
+594,CN_12704069,CN-K,K ; DPLam med _right,"MB2ON,FBN,CN",right,unknown,unknown,unknown,Eschbach2020,12704069
+595,FFN-40_16492104,FFN-h,lowercase-h left,FFN,left,unknown,unknown,unknown,Eschbach2020,16492104
+596,FFN-40_10617840,FFN-h,lowercase-h right,FFN,unknown,unknown,unknown,unknown,Eschbach2020,10617840
+597,"MB2ON,FBN_10202724",MB2ON-LP,LP: BAmas d 3_left,"MB2ON,FBN",left,unknown,unknown,unknown,Eschbach2020,10202724
+598,"MB2ON,FBN_5480553",MB2ON-LP,LP: BAmas d 3_right,"MB2ON,FBN",right,unknown,unknown,unknown,Eschbach2020,5480553
+599,CN_13197236,CN-M,M ; F6 pair_left,"MB2ON,FBN,CN",left,unknown,unknown,unknown,Eschbach2020,13197236
+600,CN_8075484,CN-M,M ; F6 pair_right,"MB2ON,FBN,CN",right,unknown,unknown,unknown,Eschbach2020,8075484
+601,MB2ON_4411688,MB2ON-M,M_right,MB2ON,right,unknown,unknown,unknown,Eschbach2020,4411688
+602,FFN-15_16978882,FFN-15,Major upstream of 4g_left,"MB2ON,FFN",left,unknown,unknown,unknown,Eschbach2020,16978882
+603,FFN-15_14127447,FFN-15,Major upstream of 4g_right,"MB2ON,FFN",right,unknown,unknown,unknown,Eschbach2020,14127447
+604,MB2ON_9083312,MB2ON-MBE34-like,MBE34-like_left; Left Handlebar?,MB2ON,left,unknown,unknown,unknown,Eschbach2020,9083312
+605,MB2ON_14077179,MB2ON-MBE34-like,MBE34-like_right; Right Handlebar?_TODO,MB2ON,right,unknown,unknown,unknown,Eschbach2020,14077179
+606,FFN-1_9048462,FFN-MBE7a-like,MBE7a-like left,"MB2ON,FFN",left,unknown,unknown,unknown,Eschbach2020,9048462
+607,"MB2ON,FBN_8864785",MB2ON-N,N_left,"MB2ON,FBN",bilateral,unknown,unknown,unknown,Eschbach2020,8864785
+608,"MB2ON,FBN_4617479",MB2ON-N,N_right,"MB2ON,FBN",right,unknown,unknown,unknown,Eschbach2020,4617479
+609,FFN-36_16972043,FFN-N1,N1_left,FFN,left,unknown,unknown,unknown,Eschbach2020,16972043
+610,FFN-36_4507955,FFN-N1,N1_right,FFN,right,unknown,unknown,unknown,Eschbach2020,4507955
+611,FFN-9_4665627,FFN-N2,N2_right,FFN,right,unknown,unknown,unknown,Eschbach2020,4665627
+612,FFN-10_15674269,FFN-N4,N4_right,FFN,right,unknown,unknown,unknown,Eschbach2020,15674269
+613,FFN-22_17177115,FFN-N5,N5_right,FFN,right,unknown,unknown,unknown,Eschbach2020,17177115
+614,FFN-24_10281116,FFN-24,neuron 10281117,"MB2ON,FFN",bilateral,unknown,unknown,unknown,Eschbach2020,10281116
+615,FFN-35_12199095,FFN-35,"neuron 12199096 upstr sog, oct left",FFN,left,unknown,unknown,unknown,Eschbach2020,12199095
+616,FFN-10_12389097,FFN-10,neuron 12389098,FFN,left,unknown,unknown,unknown,Eschbach2020,12389097
+617,FFN-27_14493841,FFN-27,neuron 14493842,FFN,left,unknown,unknown,unknown,Eschbach2020,14493841
+618,FFN-32_17107661,FFN-32,Neuron 17107662 (BAla12),FFN,right,unknown,unknown,unknown,Eschbach2020,17107661
+619,FFN-22_17177103,FFN-22,neuron 17177104,FFN,left,unknown,unknown,unknown,Eschbach2020,17177103
+620,MB2ON_18035864,MB2ON,neuron 18035865 left,MB2ON,left,unknown,unknown,unknown,Eschbach2020,18035864
+621,FFN-16_19091931,FFN-16,Neuron 19091932 gap,FFN,right,unknown,unknown,unknown,Eschbach2020,19091931
+622,FFN-9_8802069,FFN-9,neuron 8802070 down_oct,FFN,left,unknown,unknown,unknown,Eschbach2020,8802069
+623,FFN-32_8838927,FFN-32,neuron 8838928,FFN,left,unknown,unknown,unknown,Eschbach2020,8838927
+624,"MB2ON,FAN_4408397",MB2ON-NK,NK_left,"MB2ON,FAN",left,unknown,unknown,unknown,Eschbach2020,4408397
+625,"MB2ON,FAN_4199033",MB2ON-NK,NK_right,"MB2ON,FAN",right,unknown,unknown,unknown,Eschbach2020,4199033
+626,FFN-2_11011058,FFN-2,Not Finished left,"MB2ON,FFN",left,unknown,unknown,unknown,Eschbach2020,11011058
+627,CN_10809383,CN-O,O ; BAmd1 v_left,"MB2ON,FBN,CN",left,unknown,unknown,unknown,Eschbach2020,10809383
+628,CN_5321459,CN-O,O ; BAmd1 v_right,"MB2ON,FBN,CN",right,unknown,unknown,unknown,Eschbach2020,5321459
+629,FFN-25_16340998,FFN-oct1,oct1_left,FFN,left,unknown,unknown,unknown,Eschbach2020,16340998
+630,FFN-25_8007556,FFN-oct1,oct1_right,FFN,right,unknown,unknown,unknown,Eschbach2020,8007556
+631,FFN-31_12670738,FFN-31,PN to MBE,FFN,left,unknown,unknown,unknown,Eschbach2020,12670738
+632,FFN-31_17847543,FFN-R1,R1; Neuron 17847544,FFN,right,unknown,unknown,unknown,Eschbach2020,17847543
+633,FFN-6_17176808,FFN-6,Same Line as Looping left,"MB2ON,FFN",left,unknown,unknown,unknown,Eschbach2020,17176808
+634,FFN-19_7313896,FFN-SEZ,SEZ FFN left,FFN,left,unknown,unknown,unknown,Eschbach2020,7313896
+635,FFN-19_8135412,FFN-SEZ,SEZ FFN right,FFN,right,unknown,unknown,unknown,Eschbach2020,8135412
+636,"MB2ON,FBN_9251793",MB2ON-SJ,SJ: DALv23 L LAL dor pos 2_left,"MB2ON,FBN",left,unknown,unknown,unknown,Eschbach2020,9251793
+637,"MB2ON,FBN_4190567",MB2ON-SJ,SJ: DALv23 L LAL dor pos 2_right,"MB2ON,FBN",right,unknown,unknown,unknown,Eschbach2020,4190567
+638,FFN-4_11637003,FFN-Sleepy,Sleepy Right,"MB2ON,FFN",right,unknown,unknown,unknown,Eschbach2020,11637003
+639,FFN-5_9841469,FFN-Sleepy,Sleepy-2 Right,"MB2ON,FFN",right,unknown,unknown,unknown,Eschbach2020,9841469
+640,FFN-29_12325227,FFN-Smash,Smash_left,FFN,left,unknown,unknown,unknown,Eschbach2020,12325227
+641,FFN-29_9507904,FFN-Smash,Smash_right_sibling,"LHON,FFN",right,unknown,output,LH,Eschbach2020,9507904
+642,FFN-3_16442113,FFN-T,T Neuron_sibling left,"LHN,MB2ON,FFN",left,unknown,unknown,unknown,Eschbach2020,16442113
+643,FFN-3_3814175,FFN-T,T Neuron_sibling right,"LHON,FFN",right,unknown,output,LH,Eschbach2020,3814175
+644,FFN-38_8790590,FFN-T27h,T27h_t2r,FFN,right,unknown,unknown,unknown,Eschbach2020,8790590
+645,FFN-38_17015609,FFN-T27h,T27h?_t2l T19f_t2l,FFN,left,unknown,unknown,unknown,Eschbach2020,17015609
+646,FFN-23_16385470,FFN-Tel-ipsigoro,Tel-ipsigoro_left,FFN,left,unknown,unknown,unknown,Eschbach2020,16385470
+647,FFN-23_18098174,FFN-Tel-ipsigoro,Tel-ipsigoro_right?,FFN,right,unknown,unknown,unknown,Eschbach2020,18098174
+648,FFN-6_17176819,FFN-6,To finish with Soma right,"MB2ON,FFN",right,unknown,unknown,unknown,Eschbach2020,17176819
+649,FFN-1_10612630,FFN-1,To finish with soma; CP23 v 10 right,"MB2ON,FFN",right,unknown,unknown,unknown,Eschbach2020,10612630
+650,CN_14000746,CN-U,U ; Convergence Sibling; DALcm12 m ant lat 12_left,"MB2ON,FAN,CN",bilateral,unknown,unknown,unknown,Eschbach2020,14000746
+651,CN_16699958,CN-U,U ; Convergence Sibling; DALcm12 m ant lat 12_right,"MB2ON,FAN,CN",bilateral,unknown,unknown,unknown,Eschbach2020,16699958
+652,CN_11013351,CN-U3,U3 ; bilateral-2_left,"MB2ON,FBN,CN",left,unknown,unknown,unknown,Eschbach2020,11013351
+653,CN_11909406,CN-U3,U3 ; bilateral-2_right,"MB2ON,FBN,CN",right,unknown,unknown,unknown,Eschbach2020,11909406
+654,CN_12262910,CN-W,W_left,"MB2ON,FAN,CN",left,unknown,unknown,unknown,Eschbach2020,12262910
+655,CN_5738449,CN-W,W_right,"MB2ON,FAN,CN",right,unknown,unknown,unknown,Eschbach2020,5738449
+656,CN_9527522,CN-X,X ; F1 pair; DALcm12 L m ant lat 9_left,"MB2ON,FBN,CN",bilateral,unknown,unknown,unknown,Eschbach2020,9527522
+657,CN_14083681,CN-X,X ; F1 pair; DALcm12 L m ant lat 9_right,"MB2ON,FBN,CN",bilateral,unknown,unknown,unknown,Eschbach2020,14083681
+658,lAL-1_10865025,FFN-IAL-1,lAL-1 (octopaminergic) left,FFN,left,octopamine,input,AL,"Eschbach2020,Berck2016",10865025
+659,lAL-1_4116174,FFN-IAL-1,lAL-1 (octopaminergic) right,FFN,right,octopamine,input,AL,"Eschbach2020,Berck2016",4116174
+660,mPN-iACT_A3_12225666,mPN-iACT-A3,mPN iACT A3 left,mPN,left,unknown,output,AL,"Eschbach2020,Berck2016",12225666
+661,mPN-iACT_A3_4327684,mPN-iACT-A3,mPN iACT A3 right,mPN,right,unknown,output,AL,"Eschbach2020,Berck2016",4327684
+662,CN_3157405,CN-AN,AN: DPMlp Lar_left,"MB2ON,FAN,CN",left,unknown,unknown,unknown,"Eschbach2020,Miroschnikow2018",3157405
+663,CN_8752697,CN-AN,AN: DPMlp Lar_right,"MB2ON,FAN,CN",right,unknown,unknown,unknown,"Eschbach2020,Miroschnikow2018",8752697
+664,FFN-28_17096642,FFN-Dumbo,Dumbo_left,FFN,left,unknown,unknown,VNC,"Eschbach2020,Miroschnikow2018",17096642
+665,FFN-28_16751955,FFN-Dumbo,Dumbo_right,FFN,right,unknown,unknown,unknown,"Eschbach2020,Miroschnikow2018",16751955
+666,CN_14313750,CN-E,E ; BAMD PN_left,"MB2ON,FBN,CN",left,unknown,unknown,unknown,"Eschbach2020,Miroschnikow2018",14313750
+667,FFN-14_9015745,FFN-NI,NI? left_former:Left Mid,"MB2ON,FFN",left,unknown,unknown,unknown,"Eschbach2020,Miroschnikow2018",9015745
+668,PMN_20575657,A03g-t3r-(T03g),A03g_t3r (T03g),PMN,unknown,acetylcholine,unknown,unknown,Fushiki2016,20575657
+669,Motor_10227539,crescent-a1r,crescent a1r,Motor,unknown,unknown,unknown,unknown,Fushiki2016,10227539
+670,PMN_10004243,A27k-a1r,A27k_a1r,PMN,unknown,unknown,unknown,unknown,"Fushiki2016,Carreira-Rosario2018,Burgos2018",10004243
+671,PMN_10223572,A27h-a1l,A27h_a1l,PMN,unknown,acetylcholine,unknown,unknown,"Fushiki2016,Carreira-Rosario2018,Zarin2019",10223572
+672,PMN_8039617,A08e3-a1r,A08e3_a1r,PMN,unknown,unknown,unknown,unknown,"Fushiki2016,Heckscher2015,Zarin2019",8039617
+673,PMN_6811349,A01x3-a1r,A01x3_a1r,PMN,unknown,unknown,unknown,unknown,"Fushiki2016,Zarin2019",6811349
+674,PMN_16257962,A03a6-a1r,A03a6_a1r,PMN,unknown,acetylcholine,unknown,unknown,"Fushiki2016,Zarin2019",16257962
+675,PMN_5351821,A05a-a1r,A05a_a1r,PMN,unknown,unknown,unknown,unknown,"Fushiki2016,Zarin2019",5351821
+676,PMN_12873722,A31d-a1r,A31d_a1r,PMN,unknown,GABA,unknown,unknown,"Fushiki2016,Zarin2019",12873722
+677,PMN_4732074,T01d4-t3r,T01d4_t3r,PMN,unknown,unknown,unknown,unknown,"Fushiki2016,Zarin2019",4732074
+678,PMN_2583770,A10a-a2l-Chair-1,A10a_a2l Chair-1,PMN,unknown,unknown,unknown,unknown,Gerhard2017,2583770
+679,PMN_12767923,A10a-a2r-Chair-1,A10a_a2r Chair-1,PMN,unknown,unknown,unknown,unknown,Gerhard2017,12767923
+680,PMN_3546334,A02m-a1r-Pseudolooper-3,A02m_a1r Pseudolooper-3,PMN,unknown,glutamate,unknown,unknown,"Gerhard2017,Ohyama2015,Zarin2019",3546334
+681,Motor_14198375,ISN-MN-a1r,ISN MN_a1r,Motor,unknown,unknown,unknown,unknown,Heckscher2015,14198375
+682,Motor_14194026,MN-ISN-MN-a1r----R-only,MN ISN MN_a1r    R only,Motor,unknown,unknown,unknown,unknown,Heckscher2015,14194026
+683,Motor_11321644,neuron-11321645-frag-run-into-a1-neuron,neuron 11321645 frag run into a1 neuron,Motor,unknown,unknown,unknown,unknown,Heckscher2015,11321644
+684,Motor_16042164,SN-motor-neuron-a1r-bilateral,SN motor neuron a1r bilateral,Motor,unknown,unknown,unknown,unknown,Heckscher2015,16042164
+685,Motor_16314353,SN-motor-neuron-a1r-posterior-dendrite,SN motor neuron a1r posterior dendrite,Motor,unknown,unknown,unknown,unknown,Heckscher2015,16314353
+686,Motor_3641568,SN-motor-neuron-a1r-ventral-dendrite,SN motor neuron a1r ventral dendrite,Motor,unknown,unknown,unknown,unknown,Heckscher2015,3641568
+687,PMN_10474936,A06e-a1l-(Saaghi-3),A06e_a1l (Saaghi-3),PMN,unknown,GABA,unknown,unknown,"Heckscher2015,Dombrovski2019,Zarin2019",10474936
+688,Motor_16181494,MN19-(ISN-NB3-2)-a1r,MN19 (ISN NB3-2)_a1r,Motor,unknown,unknown,unknown,unknown,"Heckscher2015,Kohsaka2019,Zarin2019",16181494
+689,Motor_16713121,MN21/22-(RF:LT1/LT2)-LT2-a1r,MN21/22 (RF:LT1/LT2) LT2_a1r,Motor,unknown,unknown,unknown,unknown,"Heckscher2015,Kohsaka2019,Zwart2016,Zarin2019",16713121
+690,PMN_11958584,A06e-a1r-(Saaghi-3),A06e_a1r (Saaghi-3),PMN,unknown,GABA,unknown,unknown,"Heckscher2015,Zarin2019",11958584
+691,PMN_8198957,A08e1-a1r,A08e1_a1r,PMN,unknown,unknown,unknown,unknown,"Heckscher2015,Zarin2019",8198957
+692,PMN_7876385,A08e1-a1l,A08e1_a1l,PMN,unknown,unknown,unknown,unknown,"Heckscher2015,Zarin2019,Dombrovski2019",7876385
+693,PMN_12809923,A08e2-a1l,A08e2_a1l,PMN,unknown,unknown,unknown,unknown,"Heckscher2015,Zarin2019,Dombrovski2019",12809923
+694,PMN_18418512,A06l-a1l-(Saaghi-1),A06l_a1l (Saaghi-1),PMN,unknown,GABA,unknown,unknown,"Heckscher2015,Zarin2019,Dombrovski2019,Fushiki2016",18418512
+695,PMN_5690362,A10a-a1r-Chair-1,A10a_a1r Chair-1,PMN,unknown,unknown,unknown,unknown,"Jovanic2018,Ohyama2015,Gerhard2017,Jovanic2019,Zarin2019",5690362
+696,PMN_6535161,A10a-a1l-Chair-1,A10a_a1l Chair-1,PMN,unknown,unknown,unknown,unknown,"Jovanic2018,Zarin2019,Gerhard2017,Ohyama2015,Jovanic2019",6535161
+697,PMN_14866842,A02g-a1l,A02g_a1l,PMN,unknown,glutamate,unknown,unknown,"Kohsaka2019,Burgos2018,Dombrovski2019,Zarin2019",14866842
+698,PMN_12468812,A09l-a1l-(Down-and-back-1),A09l_a1l (Down-and-back-1),PMN,unknown,unknown,unknown,unknown,"Kohsaka2019,Burgos2018,Gerhard2017,Zarin2019",12468812
+699,PMN_14858626,A02e-a1r,A02e_a1r,PMN,unknown,glutamate,unknown,unknown,"Kohsaka2019,Burgos2018,Zarin2019",14858626
+700,PMN_7992966,A02e-a1l,A02e_a1l,PMN,unknown,glutamate,unknown,unknown,"Kohsaka2019,Burgos2018,Zarin2019,Dombrovski2019",7992966
+701,Motor_4102728,MN22/23-(RF:LT2/LT3)-LT1-a1r,MN22/23 (RF:LT2/LT3) LT1_a1r,Motor,unknown,unknown,unknown,unknown,"Kohsaka2019,Burgos2018,Zwart2016,Zarin2019,Heckscher2015",4102728
+702,PMN_6578062,A02b-a1l,A02b_a1l,PMN,unknown,glutamate,unknown,unknown,"Kohsaka2019,Dombrovski2019,Zarin2019",6578062
+703,PMN_6570401,a03d/e-a1l,a03d/e_a1l,PMN,unknown,acetylcholine,unknown,unknown,"Kohsaka2019,Dombrovski2019,Zarin2019",6570401
+704,PMN_4113533,A01c1-a1l,A01c1_a1l,PMN,unknown,unknown,unknown,unknown,"Kohsaka2019,Dombrovski2019,Zarin2019,Zwart2016",4113533
+705,PMN_4990880,A05k-a1l,A05k_a1l,PMN,unknown,unknown,unknown,unknown,"Kohsaka2019,Fushiki2016,Zarin2019",4990880
+706,PMN_10053304,A05k-a1r,A05k_a1r,PMN,unknown,unknown,unknown,unknown,"Kohsaka2019,Fushiki2016,Zarin2019",10053304
+707,PMN_4102844,A09l-a1r-(Down-and-back-1),A09l_a1r (Down-and-back-1),PMN,unknown,unknown,unknown,unknown,"Kohsaka2019,Gerhard2017,Zarin2019,Burgos2018",4102844
+708,Motor_4488976,MN1-aCC-a1r,MN1 aCC_a1r,Motor,unknown,unknown,unknown,unknown,"Kohsaka2019,Heckscher2015,Zarin2019",4488976
+709,Motor_4101976,MN27-(SN-MN-VA2)-a1r,MN27 (SN MN VA2)_a1r,Motor,unknown,unknown,unknown,unknown,"Kohsaka2019,Heckscher2015,Zarin2019",4101976
+710,PMN_14826752,A01d3-t3l-(T01d3),A01d3_t3l (T01d3),PMN,unknown,unknown,unknown,unknown,"Kohsaka2019,Zarin2019",14826752
+711,PMN_4731383,A01d3-t3r-(T01d3),A01d3_t3r (T01d3),PMN,unknown,unknown,unknown,unknown,"Kohsaka2019,Zarin2019",4731383
+712,PMN_15233041,A02b-a1r,A02b_a1r,PMN,unknown,glutamate,unknown,unknown,"Kohsaka2019,Zarin2019",15233041
+713,PMN_14866379,A02h-a1r,A02h_a1r,PMN,unknown,glutamate,unknown,unknown,"Kohsaka2019,Zarin2019",14866379
+714,PMN_5057361,A02i-a1r,A02i_a1r,PMN,unknown,glutamate,unknown,unknown,"Kohsaka2019,Zarin2019",5057361
+715,PMN_8263821,a03d/e-a1r,a03d/e_a1r,PMN,unknown,acetylcholine,unknown,unknown,"Kohsaka2019,Zarin2019",8263821
+716,PMN_13331383,A07f2-a1l-(marathon),A07f2_a1l (marathon),PMN,unknown,unknown,unknown,unknown,"Kohsaka2019,Zarin2019",13331383
+717,PMN_4725907,A07f2-a1r-(marathon),A07f2_a1r (marathon),PMN,unknown,unknown,unknown,unknown,"Kohsaka2019,Zarin2019",4725907
+718,PMN_18425292,A18b2-a1l,A18b2_a1l,PMN,unknown,unknown,unknown,unknown,"Kohsaka2019,Zarin2019",18425292
+719,PMN_4070588,A18b2-a1r,A18b2_a1r,PMN,unknown,unknown,unknown,unknown,"Kohsaka2019,Zarin2019",4070588
+720,PMN_15571023,A31k-a1l,A31k_a1l,PMN,unknown,GABA,unknown,unknown,"Kohsaka2019,Zarin2019",15571023
+721,PMN_12944478,A31k-a1r,A31k_a1r,PMN,unknown,GABA,unknown,unknown,"Kohsaka2019,Zarin2019",12944478
+722,PMN_7867016,PMN,DLN2_a1l,PMN,unknown,unknown,unknown,unknown,"Kohsaka2019,Zarin2019",7867016
+723,PMN_15094230,PMN,DLN2_a1r,PMN,unknown,unknown,unknown,unknown,"Kohsaka2019,Zarin2019",15094230
+724,PMN_12820178,A02h-a1l,A02h_a1l,PMN,unknown,glutamate,unknown,unknown,"Kohsaka2019,Zarin2019,Dombrovski2019",12820178
+725,PMN_2798040,A02i-a1l,A02i_a1l,PMN,unknown,glutamate,unknown,unknown,"Kohsaka2019,Zarin2019,Dombrovski2019",2798040
+726,PMN_8688631,A03a4-a1l,A03a4_a1l,PMN,unknown,acetylcholine,unknown,unknown,"Kohsaka2019,Zarin2019,Dombrovski2019,Zwart2016",8688631
+727,Motor_14047760,MN10-U2-a1r,MN10 U2_a1r,Motor,unknown,unknown,unknown,unknown,"Kohsaka2019,Zarin2019,Heckscher2015",14047760
+728,Motor_10013402,MN11-(ISN-NB3-2)-a1r,MN11 (ISN NB3-2)_a1r,Motor,unknown,unknown,unknown,unknown,"Kohsaka2019,Zarin2019,Heckscher2015",10013402
+729,Motor_6970942,MN18-(ISN-DT1)-a1r,MN18 (ISN DT1)_a1r,Motor,unknown,unknown,unknown,unknown,"Kohsaka2019,Zarin2019,Heckscher2015",6970942
+730,Motor_14045854,MN3-(ISN-U4-DA3-NB7-1?)-a1r,MN3 (ISN U4 DA3 NB7-1?)_a1r,Motor,unknown,unknown,unknown,unknown,"Kohsaka2019,Zarin2019,Heckscher2015",14045854
+731,Motor_14047554,MN9-U1-a1r,MN9 U1_a1r,Motor,unknown,unknown,unknown,unknown,"Kohsaka2019,Zarin2019,Heckscher2015",14047554
+732,Motor_4535767,MN5-LO1-a1r,MN5 LO1_a1r,Motor,unknown,unknown,unknown,unknown,"Kohsaka2019,Zarin2019,Heckscher2015,Zwart2016",4535767
+733,Motor_14194234,MN30-RP4-a1l,MN30 RP4_a1l,Motor,unknown,unknown,unknown,unknown,"Kohsaka2019,Zarin2019,Takagi2017,Heckscher2015",14194234
+734,PMN_4538681,A03a3-t3r-(was-T03a1),A03a3_t3r (was T03a1),PMN,unknown,acetylcholine,unknown,unknown,"Kohsaka2019,Zarin2019,Zwart2016",4538681
+735,PMN_4543281,A03a4-a1r,A03a4_a1r,PMN,unknown,acetylcholine,unknown,unknown,"Kohsaka2019,Zarin2019,Zwart2016",4543281
+736,PMN_5309932,A03g-a1l,A03g_a1l,PMN,unknown,acetylcholine,unknown,unknown,"Kohsaka2019,Zarin2019,Zwart2016,Burgos2018",5309932
+737,Motor_4881629,MN8-(RF:SBM)-LT3-a1r,MN8 (RF:SBM) LT3_a1r,Motor,unknown,unknown,unknown,unknown,"Kohsaka2019,Zarin2019,Zwart2016,Heckscher2015",4881629
+738,PMN_10855206,A03g-a1r,A03g_a1r,PMN,unknown,acetylcholine,unknown,unknown,"Kohsaka2019,Zwart2016,Burgos2018,Zarin2019",10855206
+739,PMN_4113612,A27k-a2r,A27k_a2r,PMN,unknown,unknown,unknown,unknown,"Kohsaka2019,Zwart2016,Carreira-Rosario2018,Zarin2019,Fushiki2016",4113612
+740,PMN_4071032,A02f-a1l,A02f_a1l,PMN,unknown,glutamate,unknown,unknown,"Kohsaka2019,Zwart2016,Dombrovski2019,Zarin2019",4071032
+741,PMN_4038808,A27k-a2l,A27k_a2l,PMN,unknown,unknown,unknown,unknown,"Kohsaka2019,Zwart2016,Fushiki2016,Carreira-Rosario2018,Zarin2019",4038808
+742,PMN_16226512,A01c2-a1r-(ipsi-dendrite),A01c2_a1r (ipsi_dendrite),PMN,unknown,unknown,unknown,unknown,"Kohsaka2019,Zwart2016,Zarin2019",16226512
+743,PMN_12953345,A02f-a1r,A02f_a1r,PMN,unknown,glutamate,unknown,unknown,"Kohsaka2019,Zwart2016,Zarin2019",12953345
+744,PMN_14242929,A03a3-t3l-(was-T03a1),A03a3_t3l (was T03a1),PMN,unknown,acetylcholine,unknown,unknown,"Kohsaka2019,Zwart2016,Zarin2019",14242929
+745,PMN_5078760,A18j-a1l,A18j_a1l,PMN,unknown,acetylcholine,unknown,unknown,"Kohsaka2019,Zwart2016,Zarin2019",5078760
+746,PMN_16690920,A18j-a1r,A18j_a1r,PMN,unknown,acetylcholine,unknown,unknown,"Kohsaka2019,Zwart2016,Zarin2019",16690920
+747,PMN_4538738,A23a-a1l,A23a_a1l,PMN,unknown,unknown,unknown,unknown,"Kohsaka2019,Zwart2016,Zarin2019",4538738
+748,PMN_4729046,A23a-a1r,A23a_a1r,PMN,unknown,unknown,unknown,unknown,"Kohsaka2019,Zwart2016,Zarin2019",4729046
+749,PMN_4936149,A01c1-a1r,A01c1_a1r,PMN,unknown,unknown,unknown,unknown,"Kohsaka2019,Zwart2016,Zarin2019,Burgos2018",4936149
+750,PMN_5084467,A01c2-a1l-(ipsi-dendrite),A01c2_a1l (ipsi_dendrite),PMN,unknown,unknown,unknown,unknown,"Kohsaka2019,Zwart2016,Zarin2019,Dombrovski2019,Burgos2018",5084467
+751,Motor_4121534,MN23/24-(RF:-LT3/LT4)-LT4-a1r,MN23/24 (RF: LT3/LT4) LT4_a1r,Motor,unknown,unknown,unknown,unknown,"Kohsaka2019,Zwart2016,Zarin2019,Heckscher2015",4121534
+752,5th-LaN_7952981,5th-LaN,5thLN;left,VPN,left,acetylcholine,output,LON,Larderet2017,7952981
+753,5th-LaN_8717219,5th-LaN,5thLN;right,VPN,right,acetylcholine,output,LON,Larderet2017,8717219
+754,AnlagenCell_2208920,AnlagenCell,anlagen cell_left,AnlagenCell,left,unknown,local,LON,Larderet2017,2208920
+755,AnlagenCell_7940800,AnlagenCell,anlagen cell_left,AnlagenCell,left,unknown,local,LON,Larderet2017,7940800
+756,AnlagenCell_8337623,AnlagenCell,anlagen cell_left,AnlagenCell,left,unknown,local,LON,Larderet2017,8337623
+757,AnlagenCell_8353473,AnlagenCell,anlagen cell_left,AnlagenCell,left,unknown,local,LON,Larderet2017,8353473
+758,AnlagenCell_8358800,AnlagenCell,anlagen cell_left,AnlagenCell,left,unknown,local,LON,Larderet2017,8358800
+759,AnlagenCell_8362221,AnlagenCell,anlagen cell_left,AnlagenCell,left,unknown,local,LON,Larderet2017,8362221
+760,AnlagenCell_8448457,AnlagenCell,anlagen cell_left,AnlagenCell,left,unknown,local,LON,Larderet2017,8448457
+761,AnlagenCell_8448464,AnlagenCell,anlagen cell_left,AnlagenCell,left,unknown,local,LON,Larderet2017,8448464
+762,AnlagenCell_8448477,AnlagenCell,anlagen cell_left,AnlagenCell,left,unknown,local,LON,Larderet2017,8448477
+763,AnlagenCell_8448568,AnlagenCell,anlagen cell_left,AnlagenCell,left,unknown,local,LON,Larderet2017,8448568
+764,AnlagenCell_8448796,AnlagenCell,anlagen cell_left,AnlagenCell,left,unknown,local,LON,Larderet2017,8448796
+765,AnlagenCell_8448809,AnlagenCell,anlagen cell_left,AnlagenCell,left,unknown,local,LON,Larderet2017,8448809
+766,AnlagenCell_8449457,AnlagenCell,anlagen cell_left,AnlagenCell,left,unknown,local,LON,Larderet2017,8449457
+767,AnlagenCell_8449478,AnlagenCell,anlagen cell_left,AnlagenCell,left,unknown,local,LON,Larderet2017,8449478
+768,AnlagenCell_1816102,AnlagenCell,anlagen cell_right,AnlagenCell,right,unknown,local,LON,Larderet2017,1816102
+769,AnlagenCell_8432028,AnlagenCell,anlagen cell_right,AnlagenCell,right,unknown,local,LON,Larderet2017,8432028
+770,AnlagenCell_8470256,AnlagenCell,anlagen cell_right,AnlagenCell,right,unknown,local,LON,Larderet2017,8470256
+771,AnlagenCell_8361378,AnlagenCell,anlagen cell-older_left,AnlagenCell,left,unknown,local,LON,Larderet2017,8361378
+772,cha-lOLP_17414715,cha-lOLP,ChalOLP;left,cha-lOLP,left,acetylcholine,output,LON,Larderet2017,17414715
+773,cha-lOLP_8247641,cha-lOLP,ChalOLP;right,cha-lOLP,right,acetylcholine,output,LON,Larderet2017,8247641
+774,glu-lOLP_8700125,glu-lOLP,GlulOLP;left,glu-lOLP,left,glutamate,output,LON,Larderet2017,8700125
+775,glu-lOLP_7897051,glu-lOLP,GlulOLP;right,glu-lOLP,right,glutamate,output,LON,Larderet2017,7897051
+776,Pdf-LaN1_9927082,Pdf-LaN1,LN1;left,VPN,left,Pdf-neuropeptide,output,LON,Larderet2017,9927082
+777,Pdf-LaN1_7874184,Pdf-LaN1,LN1;right,VPN,right,Pdf-neuropeptide,output,LON,Larderet2017,7874184
+778,Pdf-LaN1_2204467,Pdf-LaN1,LN2;left,VPN,left,Pdf-neuropeptide,output,LON,Larderet2017,2204467
+779,Pdf-LaN2_2512602,Pdf-LaN2,LN2;right,VPN,right,Pdf-neuropeptide,output,LON,Larderet2017,2512602
+780,Pdf-LaN3_8118929,Pdf-LaN3,LN3;left,VPN,left,Pdf-neuropeptide,output,LON,Larderet2017,8118929
+781,Pdf-LaN3_2775943,Pdf-LaN3,LN3;right,VPN,right,Pdf-neuropeptide,output,LON,Larderet2017,2775943
+782,Pdf-LaN4_16087799,Pdf-LaN4,LN4;left,VPN,left,Pdf-neuropeptide,output,LON,Larderet2017,16087799
+783,Pdf-LaN4_2775707,Pdf-LaN4,LN4;right,VPN,right,Pdf-neuropeptide,output,LON,Larderet2017,2775707
+784,Tiny-VLN_7694589,Tiny-VLN,LONI;left,Tiny-VLN,left,unknown,output,LON,Larderet2017,7694589
+785,Tiny-VLN_8271034,Tiny-VLN,LONI;right,Tiny-VLN,right,unknown,output,LON,Larderet2017,8271034
+786,nc-LaN2_8340950,nc-LaN2,nc2;left,VPN,left,acetylcholine,output,LON,Larderet2017,8340950
+787,nc-LaN2_8270683,nc-LaN2,nc2;right,VPN,right,acetylcholine,output,LON,Larderet2017,8270683
+788,OLP_8480418,OLP4,OLP4;right,VPN,right,unknown,local,LON,Larderet2017,8480418
+789,pOLP_9940382,pOLP,pOLP;left,VPN,left,acetylcholine,output,LON,Larderet2017,9940382
+790,pOLP_8124177,pOLP,pOLP;right,VPN,right,acetylcholine,output,LON,Larderet2017,8124177
+791,PVL09_9567051,PVL09,PVL09 left,VPN,left,acetylcholine,output,LON,Larderet2017,9567051
+792,PVL09_9539868,PVL09,PVL09 right,VPN,right,acetylcholine,output,LON,Larderet2017,9539868
+793,Rh5PR_7480731,Rh5PR,Rh5PR-1;left,PR,left,acetylcholine,input,LON,Larderet2017,7480731
+794,Rh5PR_766246,Rh5PR,Rh5PR-1;right,PR,right,acetylcholine,input,LON,Larderet2017,766246
+795,Rh5PR_2216187,Rh5PR,Rh5PR-2;left,PR,left,acetylcholine,input,LON,Larderet2017,2216187
+796,Rh5PR_902877,Rh5PR,Rh5PR-2;right,PR,right,acetylcholine,input,LON,Larderet2017,902877
+797,Rh5PR_7483922,Rh5PR,Rh5PR-3;left,PR,left,acetylcholine,input,LON,Larderet2017,7483922
+798,Rh5PR_7485368,Rh5PR,Rh5PR-3;right,PR,right,acetylcholine,input,LON,Larderet2017,7485368
+799,Rh5PR_2209091,Rh5PR,Rh5PR-4;left,PR,left,acetylcholine,input,LON,Larderet2017,2209091
+800,Rh5PR_2552701,Rh5PR,Rh5PR-4;right,PR,right,acetylcholine,input,LON,Larderet2017,2552701
+801,Rh5PR_7568455,Rh5PR,Rh5PR-5;right,PR,right,acetylcholine,input,LON,Larderet2017,7568455
+802,Rh5PR_7778722,Rh5PR,Rh5PR-6;right,PR,right,acetylcholine,input,LON,Larderet2017,7778722
+803,Rh6PR_2216445,Rh6PR,Rh6PR-1;left,PR,left,acetylcholine,input,LON,Larderet2017,2216445
+804,Rh6PR_900032,Rh6PR,Rh6PR-1;right,PR,right,acetylcholine,input,LON,Larderet2017,900032
+805,Rh6PR_8447845,Rh6PR,Rh6PR-10;right,PR,right,acetylcholine,input,LON,Larderet2017,8447845
+806,Rh6PR_2200028,Rh6PR,Rh6PR-2;left,PR,left,acetylcholine,input,LON,Larderet2017,2200028
+807,Rh6PR_7555204,Rh6PR,Rh6PR-2;right,PR,right,acetylcholine,input,LON,Larderet2017,7555204
+808,Rh6PR_2206279,Rh6PR,Rh6PR-3;left,PR,left,acetylcholine,input,LON,Larderet2017,2206279
+809,Rh6PR_902038,Rh6PR,Rh6PR-3;right,PR,right,acetylcholine,input,LON,Larderet2017,902038
+810,Rh6PR_2215447,Rh6PR,Rh6PR-4;left,PR,left,acetylcholine,input,LON,Larderet2017,2215447
+811,Rh6PR_1856512,Rh6PR,Rh6PR-4;right,PR,right,acetylcholine,input,LON,Larderet2017,1856512
+812,Rh6PR_10241716,Rh6PR,Rh6PR-5;left,PR,left,acetylcholine,input,LON,Larderet2017,10241716
+813,Rh6PR_2544902,Rh6PR,Rh6PR-5;right,PR,right,acetylcholine,input,LON,Larderet2017,2544902
+814,Rh6PR_2216131,Rh6PR,Rh6PR-6;left,PR,left,acetylcholine,input,LON,Larderet2017,2216131
+815,Rh6PR_2532841,Rh6PR,Rh6PR-6;right,PR,right,acetylcholine,input,LON,Larderet2017,2532841
+816,Rh6PR_2215247,Rh6PR,Rh6PR-7;left,PR,left,acetylcholine,input,LON,Larderet2017,2215247
+817,Rh6PR_7566199,Rh6PR,Rh6PR-7;right,PR,right,acetylcholine,input,LON,Larderet2017,7566199
+818,Rh6PR_2215622,Rh6PR,Rh6PR-8;left,PR,left,acetylcholine,input,LON,Larderet2017,2215622
+819,Rh6PR_946481,Rh6PR,Rh6PR-8;right,PR,right,acetylcholine,input,LON,Larderet2017,946481
+820,Rh6PR_37365,Rh6PR,Rh6PR-9;left,PR,left,acetylcholine,input,LON,Larderet2017,37365
+821,Rh6PR_16267292,Rh6PR,Rh6PR-9;right,PR,right,acetylcholine,input,LON,Larderet2017,16267292
+822,nc-LaN1_8111135,nc-LaN1,nc1;left,VPN,left,acetylcholine,output,LON,"Larderet2017,Eichler2017,Miroschnikow2018",8111135
+823,LHN_6133702,AF6,AF6 right - ASB TODO 1.1,LHN,right,unknown,local,LH,Miroschnikow2018,6133702
+824,LHN_3946364,AF6,AF6: Munin Output left,LHN,unknown,unknown,unknown,unknown,Miroschnikow2018,3946364
+825,PMN_882339,AN-R-motor-06,AN-R-motor-06,PMN,left,unknown,unknown,unknown,Miroschnikow2018,882339
+826,PMN_1218587,AN-R-motor-08,AN-R-motor-08,PMN,left,unknown,unknown,unknown,Miroschnikow2018,1218587
+827,PMN_875613,AN-R-motor-09,AN-R-motor-09,PMN,left,unknown,unknown,unknown,Miroschnikow2018,875613
+828,PMN_3340561,AN-R-motor-10,AN-R-motor-10,PMN,left,unknown,unknown,unknown,Miroschnikow2018,3340561
+829,PMN_910064,AN-R-motor-11,AN-R-motor-11,PMN,left,unknown,unknown,unknown,Miroschnikow2018,910064
+830,PMN_873148,AN-R-motor-13,AN-R-motor-13,PMN,left,unknown,unknown,unknown,Miroschnikow2018,873148
+831,PMN_855719,AN-R-motor-14,AN-R-motor-14,PMN,left,unknown,unknown,unknown,Miroschnikow2018,855719
+832,PMN_853526,AN-R-motor-15,AN-R-motor-15,PMN,left,unknown,unknown,unknown,Miroschnikow2018,853526
+833,PMN_873782,AN-R-motor-16,AN-R-motor-16,PMN,left,unknown,unknown,unknown,Miroschnikow2018,873782
+834,MB2ON_255222,MB2ON,AX ; SEZ-IN-A03-left,MB2ON,left,unknown,unknown,unknown,Miroschnikow2018,255222
+835,MB2ON_17718177,MB2ON,AX ; SEZ-IN-A03-right,MB2ON,right,unknown,unknown,unknown,Miroschnikow2018,17718177
+836,MB2ON_14812545,MB2ON,Bashful_left,MB2ON,left,unknown,unknown,unknown,Miroschnikow2018,14812545
+837,MB2ON_9455885,MB2ON,Bashful_right,MB2ON,right,unknown,unknown,unknown,Miroschnikow2018,9455885
+838,MB2ON_11642879,MB2ON-BD,BD ; Left,MB2ON,left,unknown,unknown,unknown,Miroschnikow2018,11642879
+839,MB2ON_9801441,MB2ON-BE,BE ;  Right,MB2ON,right,unknown,unknown,unknown,Miroschnikow2018,9801441
+840,MB2ON_7571966,MB2ON,CPe contralateral descending right; CPe3/pep asc cand Right; CP1 d 4,MB2ON,right,unknown,unknown,unknown,Miroschnikow2018,7571966
+841,MB2ON_8438283,MB2ON,Dopey_left,MB2ON,left,unknown,unknown,unknown,Miroschnikow2018,8438283
+842,MB2ON_13142932,MB2ON,Dopey_right,MB2ON,right,unknown,unknown,unknown,Miroschnikow2018,13142932
+843,LHON_8238322,LH-bilateral-axon-1,LH bilateral axon 1_left; BLVa12 b 2,LHON,left,unknown,output,LH,Miroschnikow2018,8238322
+844,LHON_11210000,LH-bilateral-axon-1,LH bilateral axon 1_right; BLVa12 b 2,LHON,right,unknown,output,LH,Miroschnikow2018,11210000
+845,LN_5448622,MN-R-Sens-B1-ACpl-01,MN-R-Sens-B1-ACpl-01,LN,unknown,unknown,unknown,unknown,Miroschnikow2018,5448622
+846,LN_15594123,MN-R-Sens-B1-VM-02,MN-R-Sens-B1-VM-02,LN,unknown,unknown,unknown,unknown,Miroschnikow2018,15594123
+847,LN_15638742,MN-R-Sens-B1-VM-03,MN-R-Sens-B1-VM-03,LN,unknown,unknown,unknown,unknown,Miroschnikow2018,15638742
+848,LN_15743905,MN-R-Sens-B1-VM-04,MN-R-Sens-B1-VM-04,LN,unknown,unknown,unknown,unknown,Miroschnikow2018,15743905
+849,LN_15671481,MN-R-Sens-B1-VM-05,MN-R-Sens-B1-VM-05,LN,unknown,unknown,unknown,unknown,Miroschnikow2018,15671481
+850,LN_15609427,MN-R-Sens-B2-?-00,MN-R-Sens-B2-?-00,LN,unknown,unknown,unknown,unknown,Miroschnikow2018,15609427
+851,LN_15652529,MN-R-Sens-B2-ACp-01,MN-R-Sens-B2-ACp-01,LN,unknown,unknown,unknown,unknown,Miroschnikow2018,15652529
+852,LN_15556868,MN-R-Sens-B2-ACp-02,MN-R-Sens-B2-ACp-02,LN,unknown,unknown,unknown,unknown,Miroschnikow2018,15556868
+853,LN_15736147,MN-R-Sens-B2-ACp-03,MN-R-Sens-B2-ACp-03,LN,unknown,unknown,unknown,unknown,Miroschnikow2018,15736147
+854,LN_16341399,MN-R-Sens-B2-ACp-04,MN-R-Sens-B2-ACp-04,LN,unknown,unknown,unknown,unknown,Miroschnikow2018,16341399
+855,LN_15615589,MN-R-Sens-B2-ACp-05,MN-R-Sens-B2-ACp-05,LN,unknown,unknown,unknown,unknown,Miroschnikow2018,15615589
+856,LN_15589362,MN-R-Sens-B2-ACp-06,MN-R-Sens-B2-ACp-06,LN,unknown,unknown,unknown,unknown,Miroschnikow2018,15589362
+857,LN_15653432,MN-R-Sens-B2-ACp-07,MN-R-Sens-B2-ACp-07,LN,unknown,unknown,unknown,unknown,Miroschnikow2018,15653432
+858,LN_15595607,MN-R-Sens-B2-ACp-08,MN-R-Sens-B2-ACp-08,LN,unknown,unknown,unknown,unknown,Miroschnikow2018,15595607
+859,LN_15615042,MN-R-Sens-B2-ACp-09,MN-R-Sens-B2-ACp-09,LN,unknown,unknown,unknown,unknown,Miroschnikow2018,15615042
+860,LN_18625446,MN-R-Sens-B2-ACp-10,MN-R-Sens-B2-ACp-10,LN,unknown,unknown,unknown,unknown,Miroschnikow2018,18625446
+861,LN_15556081,MN-R-Sens-B2-ACp-11,MN-R-Sens-B2-ACp-11,LN,unknown,unknown,unknown,unknown,Miroschnikow2018,15556081
+862,LN_15588691,MN-R-Sens-B2-ACp-12,MN-R-Sens-B2-ACp-12,LN,unknown,unknown,unknown,unknown,Miroschnikow2018,15588691
+863,LN_3071301,MN-R-Sens-B2-ACp-13,MN-R-Sens-B2-ACp-13,LN,left,unknown,unknown,unknown,Miroschnikow2018,3071301
+864,LN_12253020,MN-R-Sens-B2-ACp-14,MN-R-Sens-B2-ACp-14,LN,unknown,unknown,unknown,unknown,Miroschnikow2018,12253020
+865,LN_15595823,MN-R-Sens-B2-ACp-15,MN-R-Sens-B2-ACp-15,LN,unknown,unknown,unknown,unknown,Miroschnikow2018,15595823
+866,LN_15615081,MN-R-Sens-B2-ACp-16,MN-R-Sens-B2-ACp-16,LN,unknown,unknown,unknown,unknown,Miroschnikow2018,15615081
+867,LN_15609885,MN-R-Sens-B2-ACp-17,MN-R-Sens-B2-ACp-17,LN,unknown,unknown,unknown,unknown,Miroschnikow2018,15609885
+868,LN_10934438,MN-R-Sens-B2-ACp-18,MN-R-Sens-B2-ACp-18,LN,unknown,unknown,unknown,unknown,Miroschnikow2018,10934438
+869,LN_15653288,MN-R-Sens-B2-ACp-19,MN-R-Sens-B2-ACp-19,LN,unknown,unknown,unknown,unknown,Miroschnikow2018,15653288
+870,LN_15588800,MN-R-Sens-B2-ACp-20,MN-R-Sens-B2-ACp-20,LN,unknown,unknown,unknown,unknown,Miroschnikow2018,15588800
+871,LN_15589411,MN-R-Sens-B2-ACp-21,MN-R-Sens-B2-ACp-21,LN,unknown,unknown,unknown,unknown,Miroschnikow2018,15589411
+872,LN_15651438,MN-R-Sens-B2-ACp-22,MN-R-Sens-B2-ACp-22,LN,unknown,unknown,unknown,unknown,Miroschnikow2018,15651438
+873,LN_15595950,MN-R-Sens-B2-ACpl-01-(Awesome-MN-sensory-2),MN-R-Sens-B2-ACpl-01 (Awesome MN sensory 2),LN,unknown,unknown,unknown,unknown,Miroschnikow2018,15595950
+874,LN_15746421,MN-R-Sens-B2-ACpl-02-(Awesome-MN-sensory-1),MN-R-Sens-B2-ACpl-02 (Awesome MN sensory 1),LN,unknown,unknown,unknown,unknown,Miroschnikow2018,15746421
+875,LN_15615776,MN-R-Sens-B2-ACpl-03,MN-R-Sens-B2-ACpl-03,LN,unknown,unknown,unknown,unknown,Miroschnikow2018,15615776
+876,LN_15658013,MN-R-Sens-B2-AVp-01,MN-R-Sens-B2-AVp-01,LN,unknown,unknown,unknown,unknown,Miroschnikow2018,15658013
+877,LN_8810739,MN-R-Sens-B2-AVp-02,MN-R-Sens-B2-AVp-02,LN,unknown,unknown,unknown,unknown,Miroschnikow2018,8810739
+878,LN_15653927,MN-R-Sens-B2-VM-01,MN-R-Sens-B2-VM-01,LN,unknown,unknown,unknown,unknown,Miroschnikow2018,15653927
+879,LN_15611791,MN-R-Sens-B2-VM-02,MN-R-Sens-B2-VM-02,LN,unknown,unknown,unknown,unknown,Miroschnikow2018,15611791
+880,LN_15629355,MN-R-Sens-B2-VM-03,MN-R-Sens-B2-VM-03,LN,unknown,unknown,unknown,unknown,Miroschnikow2018,15629355
+881,LN_15606918,MN-R-Sens-B2-VM-04,MN-R-Sens-B2-VM-04,LN,unknown,unknown,unknown,unknown,Miroschnikow2018,15606918
+882,LN_15656435,MN-R-Sens-B2-VM-05,MN-R-Sens-B2-VM-05,LN,unknown,unknown,unknown,unknown,Miroschnikow2018,15656435
+883,LN_15617459,MN-R-Sens-B2-VM-06,MN-R-Sens-B2-VM-06,LN,unknown,unknown,unknown,unknown,Miroschnikow2018,15617459
+884,LN_15607180,MN-R-Sens-B2-VM-07,MN-R-Sens-B2-VM-07,LN,unknown,unknown,unknown,unknown,Miroschnikow2018,15607180
+885,LN_15610387,MN-R-Sens-B2-VM-08,MN-R-Sens-B2-VM-08,LN,unknown,unknown,unknown,unknown,Miroschnikow2018,15610387
+886,LN_15611642,MN-R-Sens-B2-VM-09,MN-R-Sens-B2-VM-09,LN,unknown,unknown,unknown,unknown,Miroschnikow2018,15611642
+887,LN_15615475,MN-R-Sens-B2-VM-10,MN-R-Sens-B2-VM-10,LN,unknown,unknown,unknown,unknown,Miroschnikow2018,15615475
+888,LN_15615305,MN-R-Sens-B2-VM-11,MN-R-Sens-B2-VM-11,LN,unknown,unknown,unknown,unknown,Miroschnikow2018,15615305
+889,LN_15618976,MN-R-Sens-B2-VM-12,MN-R-Sens-B2-VM-12,LN,unknown,unknown,unknown,unknown,Miroschnikow2018,15618976
+890,LN_15620606,MN-R-Sens-B2-VM-13,MN-R-Sens-B2-VM-13,LN,unknown,unknown,unknown,unknown,Miroschnikow2018,15620606
+891,LN_15762568,MN-R-Sens-B2-VM-14,MN-R-Sens-B2-VM-14,LN,unknown,unknown,unknown,unknown,Miroschnikow2018,15762568
+892,LN_15629241,MN-R-Sens-B2-VM-15,MN-R-Sens-B2-VM-15,LN,unknown,unknown,unknown,unknown,Miroschnikow2018,15629241
+893,LN_18679889,MN-R-Sens-B2-VM-16,MN-R-Sens-B2-VM-16,LN,unknown,unknown,unknown,unknown,Miroschnikow2018,18679889
+894,LN_15620432,MN-R-Sens-B2-VM-17,MN-R-Sens-B2-VM-17,LN,unknown,unknown,unknown,unknown,Miroschnikow2018,15620432
+895,LN_15629888,MN-R-Sens-B2-VM-18,MN-R-Sens-B2-VM-18,LN,unknown,unknown,unknown,unknown,Miroschnikow2018,15629888
+896,LN_15612241,MN-R-Sens-B2-VM-19,MN-R-Sens-B2-VM-19,LN,unknown,unknown,unknown,unknown,Miroschnikow2018,15612241
+897,LN_15618756,MN-R-Sens-B2-VM-20,MN-R-Sens-B2-VM-20,LN,unknown,unknown,unknown,unknown,Miroschnikow2018,15618756
+898,LN_3562954,MN-R-Sens-B2-VM-21,MN-R-Sens-B2-VM-21,LN,unknown,unknown,unknown,unknown,Miroschnikow2018,3562954
+899,LN_15615877,MN-R-Sens-B2-VM-22,MN-R-Sens-B2-VM-22,LN,unknown,unknown,unknown,unknown,Miroschnikow2018,15615877
+900,LN_18833414,MN-R-Sens-B2-VM-23,MN-R-Sens-B2-VM-23,LN,unknown,unknown,unknown,unknown,Miroschnikow2018,18833414
+901,LN_15641926,MN-R-Sens-B3-ACp-01,MN-R-Sens-B3-ACp-01,LN,unknown,unknown,unknown,unknown,Miroschnikow2018,15641926
+902,LN_15639171,MN-R-Sens-B3-ACp-02,MN-R-Sens-B3-ACp-02,LN,unknown,unknown,unknown,unknown,Miroschnikow2018,15639171
+903,LN_15640893,MN-R-Sens-B3-ACp-03,MN-R-Sens-B3-ACp-03,LN,unknown,unknown,unknown,unknown,Miroschnikow2018,15640893
+904,LN_15639020,MN-R-Sens-B3-ACp-04,MN-R-Sens-B3-ACp-04,LN,unknown,unknown,unknown,unknown,Miroschnikow2018,15639020
+905,LN_3199456,MN-R-Sens-B3-ACp-05,MN-R-Sens-B3-ACp-05,LN,unknown,unknown,unknown,unknown,Miroschnikow2018,3199456
+906,LN_15645825,MN-R-Sens-B3-ACp-06,MN-R-Sens-B3-ACp-06,LN,unknown,unknown,unknown,unknown,Miroschnikow2018,15645825
+907,LN_3123905,MN-R-Sens-B3-ACpl-07,MN-R-Sens-B3-ACpl-07,LN,unknown,unknown,unknown,unknown,Miroschnikow2018,3123905
+908,LN_15638968,MN-R-Sens-B3-AVp-01,MN-R-Sens-B3-AVp-01,LN,unknown,unknown,unknown,unknown,Miroschnikow2018,15638968
+909,LN_15640548,MN-R-Sens-B3-AVp-02,MN-R-Sens-B3-AVp-02,LN,unknown,unknown,unknown,unknown,Miroschnikow2018,15640548
+910,LN_15640425,MN-R-Sens-B3-AVp-03,MN-R-Sens-B3-AVp-03,LN,unknown,unknown,unknown,unknown,Miroschnikow2018,15640425
+911,LN_15671848,MN-R-Sens-B3-VM-09,MN-R-Sens-B3-VM-09,LN,unknown,unknown,unknown,unknown,Miroschnikow2018,15671848
+912,LN_15640724,MN-R-Sens-B3-VM-11,MN-R-Sens-B3-VM-11,LN,unknown,unknown,unknown,unknown,Miroschnikow2018,15640724
+913,LN_15672957,MN-R-Sens-B3-VM-12,MN-R-Sens-B3-VM-12,LN,unknown,unknown,unknown,unknown,Miroschnikow2018,15672957
+914,MB2ON_8213784,MB2ON-Telephone,Old Fashioned Telephone Left,MB2ON,left,unknown,unknown,unknown,Miroschnikow2018,8213784
+915,LHN_15225589,LHN,pre-dorsal-MAP presynaptic-D-2-R right,LHN,right,unknown,local,LH,Miroschnikow2018,15225589
+916,LHN_17415439,LHN,presynaptic-D-2-MAP right,LHN,right,unknown,local,LH,Miroschnikow2018,17415439
+917,LHN_3158123,LHN,presynaptic-D-2-MAP-L left,LHN,left,unknown,local,LH,Miroschnikow2018,3158123
+918,LHN_19431430,LHN,SOG IN left; PN into SOG very minor AL connectivity left,LHN,unknown,unknown,unknown,unknown,Miroschnikow2018,19431430
+919,LHN_14962387,LHN,SOG IN right,LHN,unknown,unknown,unknown,unknown,Miroschnikow2018,14962387
+920,MB2ON_2426397,MB2ON-Spiral,Spiral_right,MB2ON,right,unknown,unknown,unknown,Miroschnikow2018,2426397
+921,MB2ON_11638511,MB2ON-Tiger,Tiger_left,MB2ON,left,unknown,unknown,unknown,Miroschnikow2018,11638511
+922,clamp_11105182,clamp,clamp left,SEZInterneuron,left,unknown,output,AL,"Miroschnikow2018,Berck2016",11105182
+923,ginkgo-2_3736500,ginkgo-2,ginkgo 2 left,SEZInterneuron,left,unknown,output,AL,"Miroschnikow2018,Berck2016",3736500
+924,ginkgo-2_16621864,ginkgo-2,ginkgo 2 right,SEZInterneuron,right,unknown,output,AL,"Miroschnikow2018,Berck2016",16621864
+925,LHN_3709977,LHN,backwards handlebar left (looks like 35a),LHN,left,unknown,local,LH,"Miroschnikow2018,Eichler2017",3709977
+926,MBON-o1_17013073,MBON-o1,MBE24b right,MBON,right,unknown,output,MB,"Miroschnikow2018,Eichler2017",17013073
+927,MBON-k1_18028397,MBON-k1,MBE5b right,MBON,right,glutamate,output,MB,"Miroschnikow2018,Eichler2017",18028397
+928,FFN-14_9583435,FFN-14,NI? right,"MB2ON,FFN",bilateral,unknown,unknown,unknown,"Miroschnikow2018,Eschbach2020",9583435
+929,FFN-4_3945232,FFN-4,Sleepy Left,"MB2ON,FFN",left,unknown,unknown,unknown,"Miroschnikow2018,Eschbach2020",3945232
+930,FFN-5_3945454,FFN-5,Sleepy-2 Left,"MB2ON,FFN",left,unknown,unknown,unknown,"Miroschnikow2018,Eschbach2020",3945454
+931,FFN-18_3622234,FFN-18,SOG into Brain contralaterally left - paired with,FFN,left,unknown,unknown,unknown,"Miroschnikow2018,Eschbach2020,Schlegel2016",3622234
+932,FFN-18_3420915,FFN-18,SOG into brain contralaterally right - paired with,FFN,right,unknown,unknown,unknown,"Miroschnikow2018,Eschbach2020,Schlegel2016",3420915
+933,LHN_13429045,AF4:-TOH,AF4: TOH right; Large Spider Neuron right,LHN,unknown,unknown,unknown,unknown,"Miroschnikow2018,Schlegel2016",13429045
+934,MB2ON_9805588,Angler-left,Angler_left,MB2ON,left,unknown,unknown,unknown,"Miroschnikow2018,Schlegel2016",9805588
+935,MB2ON_11868260,Angler-right,Angler_right,MB2ON,right,unknown,unknown,unknown,"Miroschnikow2018,Schlegel2016",11868260
+936,MB2ON_16575803,MB2ON-Grumpy,Grumpy_right,MB2ON,right,unknown,unknown,unknown,"Miroschnikow2018,Schlegel2016",16575803
+937,MB2ON_5404887,MB2ON-Happy,Happy Left,MB2ON,left,unknown,unknown,unknown,"Miroschnikow2018,Schlegel2016",5404887
+938,MB2ON_4284106,MB2ON-Holder,Holder_left,MB2ON,left,unknown,unknown,unknown,"Miroschnikow2018,Schlegel2016",4284106
+939,MB2ON_7136254,MB2ON-Moggy,Moggy_left,MB2ON,left,unknown,unknown,unknown,"Miroschnikow2018,Schlegel2016",7136254
+940,MB2ON_9748981,MB2ON-Moggy,Moggy_right,MB2ON,right,unknown,unknown,unknown,"Miroschnikow2018,Schlegel2016",9748981
+941,MB2ON_9455820,MB2ON,Sweetness Right 130521_Cand1_OSN2_IN5 Bilateral,MB2ON,right,unknown,unknown,unknown,"Miroschnikow2018,Schlegel2016",9455820
+942,CN_2369444,CN-Z,Z: contra_left,"MB2ON,CN",left,unknown,unknown,unknown,"Miroschnikow2018,Schlegel2016",2369444
+943,CN_10119916,CN-Z,Z: contra_right,"MB2ON,CN",right,unknown,unknown,unknown,"Miroschnikow2018,Schlegel2016",10119916
+944,"MB2ON,CN_3979181",MB2ON-ipsigoro,ipsigoro left,"MB2ON,CN",left,unknown,unknown,unknown,Ohyama2015,3979181
+945,"MB2ON,CN_5794678",MB2ON-ipsigoso,ipsigoro right,"MB2ON,CN",right,unknown,unknown,unknown,Ohyama2015,5794678
+946,PMN_4778439,A02m-a1l-Pseudolooper-3,A02m_a1l Pseudolooper-3,PMN,unknown,glutamate,unknown,unknown,"Ohyama2015,Gerhard2017,Zarin2019,Dombrovski2019",4778439
+947,PMN_4302562,A03o-a1l,A03o_a1l,PMN,unknown,acetylcholine,unknown,unknown,"Ohyama2015,Zarin2019,Dombrovski2019",4302562
+948,PMN_2637812,A02n-a1r-Pseudolooper-4,A02n_a1r Pseudolooper-4,PMN,bilateral,glutamate,unknown,VNC,"Ohyama2015,Zarin2019,Gerhard2017",2637812
+949,PMN_3546835,A02n-a1l-Pseudolooper-4,A02n_a1l Pseudolooper-4,PMN,unknown,glutamate,unknown,unknown,"Ohyama2015,Zarin2019,Gerhard2017,Dombrovski2019",3546835
+950,PMN_8748462,A26f-a2l,A26f_a2l,PMN,unknown,unknown,unknown,unknown,Schlegel2016,8748462
+951,PMN_18520222,A26f-a2r,A26f_a2r,PMN,unknown,unknown,unknown,unknown,Schlegel2016,18520222
+952,PMN_4780447,A26f-a3l,A26f_a3l,PMN,unknown,unknown,unknown,unknown,Schlegel2016,4780447
+953,PMN_1711076,A26f-a3r,A26f_a3r,PMN,unknown,unknown,unknown,unknown,Schlegel2016,1711076
+954,LHN_2935198,AF3-thermo-3rd-right,AF3 thermo 3rd right,LHN,unknown,unknown,unknown,unknown,Schlegel2016,2935198
+955,MB2ON_9793489,MB2ON-BC,BC ; Left,MB2ON,left,unknown,unknown,unknown,Schlegel2016,9793489
+956,MB2ON_15242799,MB2ON-BC,BC ; Right,MB2ON,right,unknown,unknown,SEZ,Schlegel2016,15242799
+957,MB2ON_4364826,MB2ON-Grumpy,Grumpy_left,MB2ON,left,unknown,unknown,unknown,Schlegel2016,4364826
+958,MB2ON_5349961,MB2ON-Happy,Happy Right,MB2ON,right,unknown,unknown,SEZ,Schlegel2016,5349961
+959,MB2ON_9758503,MB2ON-Holder,Holder_right,MB2ON,right,unknown,unknown,unknown,Schlegel2016,9758503
+960,MB2ON_9903957,MB2ON,Sweetness Left SOG neuron,MB2ON,left,unknown,unknown,unknown,Schlegel2016,9903957
+961,LHN_3946432,LHN-WS,WS: from olfactory to Hugin interneuron left,LHN,unknown,unknown,unknown,unknown,Schlegel2016,3946432
+962,LHN_2935173,LHN-WS,WS: from olfactory to Hugin interneuron right,LHN,unknown,unknown,unknown,unknown,Schlegel2016,2935173
+963,LHN_4785242,LHN-AF3,AF3 thermo 3rd left,LHN,unknown,unknown,unknown,unknown,"Schlegel2016,Miroschnikow2018",4785242
+964,LHN_17641913,LHN-AF4,AF4: TOH left,LHN,unknown,unknown,unknown,unknown,"Schlegel2016,Miroschnikow2018",17641913
+965,PMN_5904833,A03a5-a1l,A03a5_a1l,PMN,unknown,acetylcholine,unknown,unknown,"Takagi2017,Zarin2019",5904833
+966,LHN_4680995,LH-bilateral-axon-3,LH bilateral axon 3_left,LHN,left,unknown,local,LH,Tastekin2018,4680995
+967,LHN_17806341,LH-bilateral-axon-3,LH bilateral axon 3_right,LHN,right,unknown,local,LH,Tastekin2018,17806341
+968,"LHN,MB2ON,CN_17361757",LH-Processor,LH Processor_left,"LHN,MB2ON,CN",left,unknown,unknown,unknown,Tastekin2018,17361757
+969,LHN_12813847,LH-Processor,LH Processor_right,LHN,right,unknown,local,LH,Tastekin2018,12813847
+970,LHN_5769582,LH-LN2,LH-LN2_left,LHN,unknown,unknown,unknown,unknown,Tastekin2018,5769582
+971,LHN_9753418,LH-LN2,LH-LN2_right,LHN,unknown,unknown,unknown,unknown,Tastekin2018,9753418
+972,CN_17038587,CN-MJ,MJ: LNM_downstream4_left,"MB2ON,CN",left,unknown,unknown,unknown,Tastekin2018,17038587
+973,CN_8065771,CN-MJ,MJ: LNM_downstream4_right,"MB2ON,CN",right,unknown,unknown,unknown,Tastekin2018,8065771
+974,PMN_1100936,A01j-a1l,A01j_a1l,PMN,unknown,unknown,unknown,unknown,Zarin2019,1100936
+975,PMN_4789092,A01j-a1r,A01j_a1r,PMN,unknown,unknown,unknown,unknown,Zarin2019,4789092
+976,PMN_4038469,A01x-a1r,A01x_a1r,PMN,unknown,unknown,unknown,unknown,Zarin2019,4038469
+977,PMN_10312570,A01x2-a1r,A01x2_a1r,PMN,unknown,unknown,unknown,unknown,Zarin2019,10312570
+978,PMN_4728865,A03a1-a1l-(pre-dMNs),A03a1_a1l (pre dMNs),PMN,unknown,acetylcholine,unknown,unknown,Zarin2019,4728865
+979,PMN_4541716,A03a1-a1r-(pre-dMNs),A03a1_a1r (pre dMNs),PMN,unknown,acetylcholine,unknown,unknown,Zarin2019,4541716
+980,PMN_12704772,A03a3-a1l-(pre-dMNs),A03a3_a1l (pre dMNs),PMN,unknown,acetylcholine,unknown,unknown,Zarin2019,12704772
+981,PMN_12683525,A03a3-a1r-(pre-dMNs),A03a3_a1r (pre dMNs),PMN,unknown,acetylcholine,unknown,unknown,Zarin2019,12683525
+982,PMN_16240665,A03xKT-a1l,A03xKT_a1l,PMN,unknown,acetylcholine,unknown,unknown,Zarin2019,16240665
+983,PMN_15290305,A03xKT-a1r,A03xKT_a1r,PMN,unknown,acetylcholine,unknown,unknown,Zarin2019,15290305
+984,PMN_4034528,A06a-a1r,A06a_a1r,PMN,unknown,GABA,unknown,unknown,Zarin2019,4034528
+985,PMN_7280270,A06c-a1r,A06c_a1r,PMN,unknown,GABA,unknown,unknown,Zarin2019,7280270
+986,PMN_12036009,A06f-a1r-(Saaghi-2),A06f_a1r (Saaghi-2),PMN,unknown,GABA,unknown,unknown,Zarin2019,12036009
+987,PMN_4478328,A06x1-a1r,A06x1_a1r,PMN,unknown,GABA,unknown,unknown,Zarin2019,4478328
+988,PMN_4541202,A10e-a2l,A10e_a2l,PMN,unknown,unknown,unknown,unknown,Zarin2019,4541202
+989,PMN_4935973,A10e-a2r,A10e_a2r,PMN,unknown,unknown,unknown,unknown,Zarin2019,4935973
+990,PMN_10642320,A18a-a1l,A18a_a1l,PMN,unknown,unknown,unknown,unknown,Zarin2019,10642320
+991,PMN_4991402,A18a-a1r,A18a_a1r,PMN,unknown,unknown,unknown,unknown,Zarin2019,4991402
+992,PMN_4730042,A18b3-a1l,A18b3_a1l,PMN,unknown,unknown,unknown,unknown,Zarin2019,4730042
+993,PMN_16515841,A18b3-a1r,A18b3_a1r,PMN,unknown,unknown,unknown,unknown,Zarin2019,16515841
+994,PMN_12705004,A31b-a1l,A31b_a1l,PMN,unknown,GABA,unknown,unknown,Zarin2019,12705004
+995,PMN_8899200,A31b-a1r,A31b_a1r,PMN,unknown,GABA,unknown,unknown,Zarin2019,8899200
+996,PMN_4123487,T01d2-t3l,T01d2_t3l,PMN,unknown,unknown,unknown,unknown,Zarin2019,4123487
+997,PMN_4584506,T01d2-t3r,T01d2_t3r,PMN,unknown,unknown,unknown,unknown,Zarin2019,4584506
+998,PMN_17872154,A01d3-a1r,A01d3_a1r,PMN,unknown,unknown,unknown,unknown,"Zarin2019,Burgos2018",17872154
+999,PMN_17904627,A27j-a1l,A27j_a1l,PMN,unknown,GABA,unknown,unknown,"Zarin2019,Burgos2018",17904627
+1000,PMN_4542433,A18b-a1l,A18b_a1l,PMN,unknown,unknown,unknown,unknown,"Zarin2019,Carreira-Rosario2018",4542433
+1001,PMN_4719759,A27l-a2l,A27l_a2l,PMN,unknown,unknown,unknown,unknown,"Zarin2019,Carreira-Rosario2018",4719759
+1002,PMN_4123145,A01x-a1l,A01x_a1l,PMN,unknown,unknown,unknown,unknown,"Zarin2019,Dombrovski2019",4123145
+1003,PMN_12809976,A06c-a1l,A06c_a1l,PMN,unknown,GABA,unknown,unknown,"Zarin2019,Dombrovski2019",12809976
+1004,PMN_4386719,A06f-a1l-(Saaghi-2),A06f_a1l (Saaghi-2),PMN,unknown,GABA,unknown,unknown,"Zarin2019,Dombrovski2019",4386719
+1005,PMN_4542822,A06x1-a1l,A06x1_a1l,PMN,unknown,GABA,unknown,unknown,"Zarin2019,Dombrovski2019",4542822
+1006,PMN_8421329,A08e3-a1l,A08e3_a1l,PMN,unknown,unknown,unknown,unknown,"Zarin2019,Dombrovski2019,Heckscher2015,Fushiki2016",8421329
+1007,PMN_16274373,A02j-a3l,A02j_a3l,PMN,unknown,glutamate,unknown,unknown,"Zarin2019,Fushiki2016",16274373
+1008,PMN_7926496,A02j-a3r,A02j_a3r,PMN,unknown,glutamate,unknown,unknown,"Zarin2019,Fushiki2016",7926496
+1009,PMN_12643185,A03a4-a2l,A03a4_a2l,PMN,unknown,acetylcholine,unknown,unknown,"Zarin2019,Fushiki2016",12643185
+1010,PMN_13525684,A03a4-a2r,A03a4_a2r,PMN,unknown,acetylcholine,unknown,unknown,"Zarin2019,Fushiki2016",13525684
+1011,PMN_10089193,A03a6-a1l,A03a6_a1l,PMN,unknown,acetylcholine,unknown,unknown,"Zarin2019,Fushiki2016",10089193
+1012,PMN_4848300,A03EGB-a2r-(EGHBAL),A03EGB_a2r (EGHBAL),PMN,unknown,acetylcholine,unknown,unknown,"Zarin2019,Fushiki2016",4848300
+1013,PMN_13522678,A05a-a1l,A05a_a1l,PMN,unknown,unknown,unknown,unknown,"Zarin2019,Fushiki2016",13522678
+1014,PMN_10398171,A27h-a1r,A27h_a1r,PMN,unknown,acetylcholine,unknown,unknown,"Zarin2019,Fushiki2016",10398171
+1015,PMN_10414725,A27h-a2l,A27h_a2l,PMN,unknown,acetylcholine,unknown,unknown,"Zarin2019,Fushiki2016",10414725
+1016,PMN_10376512,A27h-a2r,A27h_a2r,PMN,unknown,acetylcholine,unknown,unknown,"Zarin2019,Fushiki2016",10376512
+1017,PMN_12809152,A31d-a1l,A31d_a1l,PMN,unknown,GABA,unknown,unknown,"Zarin2019,Fushiki2016",12809152
+1018,PMN_12949240,T01d4-t3l,T01d4_t3l,PMN,unknown,unknown,unknown,unknown,"Zarin2019,Fushiki2016",12949240
+1019,PMN_9544992,A01x3-a1l,A01x3_a1l,PMN,unknown,unknown,unknown,unknown,"Zarin2019,Fushiki2016,Dombrovski2019",9544992
+1020,PMN_11065546,A06e-t3r-(Saaghi-3),A06e_t3r (Saaghi-3),PMN,unknown,GABA,unknown,unknown,"Zarin2019,Heckscher2015",11065546
+1021,PMN_8234099,A08e2-a1r,A08e2_a1r,PMN,unknown,unknown,unknown,unknown,"Zarin2019,Heckscher2015",8234099
+1022,Motor_4397287,MN26-(SN-MN-VA1)-a1r,MN26 (SN MN VA1)_a1r,Motor,unknown,unknown,unknown,unknown,"Zarin2019,Heckscher2015",4397287
+1023,Motor_14048876,MN28-ISN-a1r,MN28 ISN_a1r,Motor,unknown,unknown,unknown,unknown,"Zarin2019,Heckscher2015",14048876
+1024,Motor_4382895,MN29-(SN-MN-VA3)-a1r,MN29 (SN MN VA3)_a1r,Motor,unknown,unknown,unknown,unknown,"Zarin2019,Heckscher2015",4382895
+1025,PMN_12825902,PMN,Neuron 20725668,PMN,unknown,unknown,unknown,unknown,"Zarin2019,Heckscher2015",12825902
+1026,PMN_17435371,A06l-a1r-(Saaghi-1),A06l_a1r (Saaghi-1),PMN,unknown,GABA,unknown,unknown,"Zarin2019,Heckscher2015,Fushiki2016",17435371
+1027,Motor_20901073,MN6/7-RP3-a1l,MN6/7 RP3_a1l,Motor,left,unknown,unknown,unknown,"Zarin2019,Heckscher2015,Kohsaka2019",20901073
+1028,Motor_10678017,MN12-III-(ISN-VL1-V-MN-NB5-2)-a1l,MN12-III (ISN VL1 V-MN NB5-2)_a1l,Motor,unknown,unknown,unknown,unknown,"Zarin2019,Kohsaka2019,Heckscher2015",10678017
+1029,Motor_14045016,MN14-RP1-a1l,MN14 RP1_a1l,Motor,unknown,unknown,unknown,unknown,"Zarin2019,Kohsaka2019,Heckscher2015",14045016
+1030,Motor_14048538,MN15/16-VO4/5-(NB7-1?-ISN)-a1r,MN15/16 VO4/5 (NB7-1? ISN)_a1r,Motor,unknown,unknown,unknown,unknown,"Zarin2019,Kohsaka2019,Heckscher2015",14048538
+1031,Motor_14045489,MN15/16/17-VO4–6-(NB7-1?-)-a1r,MN15/16/17 VO4–6 (NB7-1? )_a1r,Motor,unknown,unknown,unknown,unknown,"Zarin2019,Kohsaka2019,Heckscher2015",14045489
+1032,Motor_14048287,MN2-ISN(U3-NB7-1?)-a1r,MN2 ISN(U3-NB7-1?)_a1r,Motor,unknown,unknown,unknown,unknown,"Zarin2019,Kohsaka2019,Heckscher2015",14048287
+1033,Motor_14047945,MN4-(ISN-U5-NB7-1?)-a1r,MN4 (ISN U5 NB7-1?)_a1r,Motor,unknown,unknown,unknown,unknown,"Zarin2019,Kohsaka2019,Heckscher2015",14047945
+1034,Motor_14044614,MNISNb/d-Is-RP5-a1l,MNISNb/d-Is RP5_a1l,Motor,unknown,unknown,unknown,unknown,"Zarin2019,Kohsaka2019,Heckscher2015",14044614
+1035,PMN_3180525,A03o-a1r,A03o_a1r,PMN,unknown,acetylcholine,unknown,unknown,"Zarin2019,Ohyama2015",3180525
+1036,PMN_5297998,A03a5-a1r,A03a5_a1r,PMN,unknown,acetylcholine,unknown,unknown,"Zarin2019,Takagi2017",5297998
+1037,Motor_14194703,MN13-ISN-MN-VL2-a1r,MN13 ISN MN-VL2_a1r,Motor,unknown,unknown,unknown,unknown,"Zarin2019,Takagi2017,Heckscher2015",14194703
+1038,PMN_17071666,A26f-a1r,A26f_a1r,PMN,unknown,unknown,unknown,unknown,"Zarin2019,Zwart2016",17071666
+1039,PMN_10090269,A27e(2)-a1l,A27e(2)_a1l,PMN,unknown,unknown,unknown,unknown,"Zarin2019,Zwart2016",10090269
+1040,PMN_4124563,A27n-a1r,A27n_a1r,PMN,unknown,unknown,unknown,unknown,"Zarin2019,Zwart2016",4124563
+1041,PMN_4104476,T01d1-t3l,T01d1_t3l,PMN,unknown,unknown,unknown,unknown,"Zarin2019,Zwart2016",4104476
+1042,PMN_5298032,A14a-a1r,A14a_a1r,PMN,unknown,GABA,unknown,unknown,"Zwart2016,Kohsaka2019,Zarin2019",5298032
+1043,PMN_12820277,A14a-a1l,A14a_a1l,PMN,unknown,GABA,unknown,unknown,"Zwart2016,Kohsaka2019,Zarin2019,Dombrovski2019",12820277
+1044,PMN_5358138,A19l-a1l,A19l_a1l,PMN,unknown,GABA,unknown,unknown,"Zwart2016,Zarin2019",5358138
+1045,PMN_4978454,A19l-a1r,A19l_a1r,PMN,unknown,GABA,unknown,unknown,"Zwart2016,Zarin2019",4978454
+1046,PMN_13258642,A26f-a1l,A26f_a1l,PMN,unknown,unknown,unknown,unknown,"Zwart2016,Zarin2019",13258642
+1047,PMN_15290335,A27e(2)-a1r,A27e(2)_a1r,PMN,unknown,unknown,unknown,unknown,"Zwart2016,Zarin2019",15290335
+1048,PMN_7934159,A27n-a1l,A27n_a1l,PMN,unknown,unknown,unknown,unknown,"Zwart2016,Zarin2019",7934159
+1049,PMN_10185585,T01d1-t3r,T01d1_t3r,PMN,unknown,unknown,unknown,unknown,"Zwart2016,Zarin2019",10185585
+1050,KC_29,KC,x,KC,right,acetylcholine,local,MB,unknown,29
