@@ -1,7 +1,7 @@
 # FlyBrainLab Datasets
 This repository contains information regarding the FlyBrainLab Datasets (version, source, loading scripts, etc.)
 
-| FlyCicuit | HemiBrain | [Larva L1EM](#Larva-L1em) |
+FlyCicuit | HemiBrain | [Larva L1EM](#larva-l1em)
 
 ## FlyCircuit
 _Coming Soon_
@@ -27,4 +27,4 @@ The dataset can be downloaded from [here](TODO)
 
 
 ## References
-1. <a href="ref-1"></a> Ohyama T, et al. A multilevel multimodal circuit enhances action selection in Drosophila. Nature. 2015. [DOI](https://doi.org/10.1038/nature14297).
+1. <a name="ref-1"></a> Ohyama T, et al. A multilevel multimodal circuit enhances action selection in Drosophila. Nature. 2015. [DOI](https://doi.org/10.1038/nature14297).
