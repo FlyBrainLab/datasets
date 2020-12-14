@@ -1,5 +1,7 @@
 # FlyBrainLab Datasets
 This repository contains information regarding the FlyBrainLab Datasets (version, source, loading scripts, etc.)
+Here, we provide a summary of the datasets available under NeuroArch database, and links to the preloaded database backup files that can be used to restored the databases.
+Detailed instructions for loading these databases from scratch are provided in the inidivual folders and/or notebooks.
 
 [FlyCircuit](#flycircuit) | [Hemibrain](#hemibrain) | [Larva L1EM](#larva-l1em)
 
