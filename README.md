@@ -3,11 +3,18 @@ This repository contains information regarding the FlyBrainLab Datasets (version
 
 [FlyCircuit](#flycircuit) | [Hemibrain](#hemibrain) | [Larva L1EM](#larva-l1em)
 
-## FlyCircuit
-The FlyCircuit Database is provided by the NTHU Team. See [[1]](#ref-1) for details.
+## <a name="flycircuit"></a>[FlyCircuit Dataset](http://flycircuit.tw) [[1]](#ref-1)
 
-## Hemibrain
-The Hemibrain Dataset was extracted from Hemibrain [v1.0.1 and v1.1](https://www.janelia.org/project-team/flyem/hemibrain). See [[2]](#ref-2) for details. Original data licensed under [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/).
+|FlyCircuit Ver.| NeuroArch Ver.| Download Link |Loading Script|Last Update|
+|-----------|---------| --------| -------|-----|
+| 1.2 | [3536a04](https://github.com/fruitflybrain/neuroarch/tree/3536a04478f77ac59fb55727ff0e3de66ccbf70c) | [flycircuit1.2_na_v1.0_backup.zip](https://drive.google.com/file/d/1JXtWt-2X66Mb5I271YRUiMuQx3I2b43s/view?usp=sharing) | [Link](https://github.com/FlyBrainLab/datasets/blob/main/flycircuit/v1.2/FlyCircuit_to_NeuroArch.ipynb) | 12/14/2020 |
+
+## <a name="hemibrain"></a>[Hemibrain Dataset](https://www.janelia.org/project-team/flyem/hemibrain) [[2]](#ref-2)
+Original data licensed under [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/).
+
+|Hemibrain Ver.| NeuroArch Ver.| Download Link |Loading Script|Last Update|
+|-----------|---------| --------| -------|------|
+| [1.1](https://storage.cloud.google.com/hemibrain-release/neuprint/hemibrain_v1.1_neo4j_inputs.zip) | [3536a04](https://github.com/fruitflybrain/neuroarch/tree/3536a04478f77ac59fb55727ff0e3de66ccbf70c) | [hemibrain1.1_na_v1.0_backup.zip](https://drive.google.com/file/d/1Y63UpypJ-eMgOdX3bcSRO4Ct3DqmH6-X/view?usp=sharing)| [Link](https://github.com/FlyBrainLab/datasets/blob/main/hemibrain/v1.1/Hemibrain_Neuprint_to_NeuroArch.ipynb) | 12/14/2020 |
 
 ## Larva L1EM
 Connectomics data from the Larva L1EM Central Nervous System is provided publically by CATMAID database served on [Virtual Fly Brain](https://l1em.catmaid.virtualflybrain.org). 
