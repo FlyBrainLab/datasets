@@ -48,8 +48,8 @@ assert len(neuron_df) == len(os.listdir(SWC_DIR)), \
 
 # setup systems
 cns = {
-    'System': 'CNS', 
-    'synonyms': ['larva CNS', 'cns'], 
+    'System': 'CNS',
+    'synonyms': ['larva CNS', 'cns'],
     'morphology': {'type':'mesh', 'filename': os.path.join(MESH_DIR, 'CNS_um.json')}
 }
 neuropils = {
@@ -209,11 +209,11 @@ for i, row in pbar:
     info = {
         'source': row.source,
     }
-    
+
     if row.catmaid_names != 'unknown':
         info['catmaid_name'] = row.catmaid_names
-    
-    
+
+
     neuropils = row['neuropil'].split(',')
     if row.neuropil != 'unknown':
         npl = neuropils[0].lower() if row.side.lower() == 'left' else neuropils[0].upper()
@@ -262,12 +262,12 @@ pbar = tqdm(synapse_df.iterrows(), total=synapse_df.shape[0], desc='Loading Syna
 for i, row in pbar:
     pre_neuron = neuron_ref_to_obj[row['pre_skid']]
     post_neuron = neuron_ref_to_obj[row['post_skid']]
-    
+
     x = eval(row['x'].replace('\n', '').replace('  ', ' ').replace(', ', ',').replace(' ', ','))
     y = eval(row['y'].replace('\n', '').replace('  ', ' ').replace(', ', ',').replace(' ', ','))
     z = eval(row['z'].replace('\n', '').replace('  ', ' ').replace(', ', ',').replace(' ', ','))
     r = eval(row['r'].replace('\n', '').replace('  ', ' ').replace(', ', ',').replace(' ', ','))
-    
+
     content = {'type': 'swc'}
     content['x'] = [round(i, 3) for i in np.array(x+x)/1000.] # conver from nm to um
     content['y'] = [round(i, 3) for i in np.array(y+x)/1000.] # conver from nm to um
