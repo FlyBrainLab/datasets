@@ -18,21 +18,12 @@ Original data licensed under [CC-BY 4.0](https://creativecommons.org/licenses/by
 |-----------|---------| --------| -------|------|
 | [1.1](https://storage.cloud.google.com/hemibrain-release/neuprint/hemibrain_v1.1_neo4j_inputs.zip) | [3536a04](https://github.com/fruitflybrain/neuroarch/tree/3536a04478f77ac59fb55727ff0e3de66ccbf70c) | [hemibrain1.1_na_v1.0_backup.zip](https://drive.google.com/file/d/1Y63UpypJ-eMgOdX3bcSRO4Ct3DqmH6-X/view?usp=sharing)| [Link](https://github.com/FlyBrainLab/datasets/blob/main/hemibrain/v1.1/Hemibrain_Neuprint_to_NeuroArch.ipynb) | 12/14/2020 |
 
-## Larva L1EM
-Connectomics data from the Larva L1EM Central Nervous System is provided publically by CATMAID database served on [Virtual Fly Brain](https://l1em.catmaid.virtualflybrain.org). 
+## <a name="larva-l1em"></a>[Larva L1EM](https://l1em.catmaid.virtualflybrain.org/) [[3]](#ref-3)
+Original data licensed under [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/legalcode).
 
-### Set Up
-Refer to `l1em/Load_Larva_L1EM.ipynb` for information on loading the dataset into a locally running OrientDB database instance.
-Alternatively, you can also refer to `l1em/Load_Larva_L1EM.py` and the command line interface defined therein.
-
-Before you move forward, you will need to download the SWC files and place it in `l1em` folder (with path `l1em/swc`).
-The dataset can be downloaded from [here](https://drive.google.com/file/d/1FFiyz_FFlHnykgTQ8xQz867R823Nj3E3/view?usp=sharing).
-
-### Dataset Info
-
-|# Neurons|# Connections| Total File Size | License | Publication |
-| --------|-------------| --------------- | ------- | ----------- |
-| 1501    | 30350 neuron pairs | 131 MB   | [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/legalcode)| [[3]](#ref-3)
+|L1EM Ver.| NeuroArch Ver.| Download Link |Loading Script|Last Update|
+|-----------|---------| --------| -------|------|
+| [1.0](https://l1em.catmaid.virtualflybrain.org/) | [3536a04](https://github.com/fruitflybrain/neuroarch/tree/3536a04478f77ac59fb55727ff0e3de66ccbf70c) | [l1em1.0_na_v1.0_backup.zip](https://drive.google.com/file/d/1hYjA43poDjL8WtQ1AUBzYxKTaJ4In-GU/view?usp=sharing)| [Link](https://github.com/FlyBrainLab/datasets/blob/main/l1em/Load_Larva_L1EM.ipynb) | 12/14/2020 |
 
 
 ## References
