@@ -30,7 +30,7 @@ Original data licensed under [BSD 3](https://github.com/connectome-neuprint/neuP
 
 |Medulla Ver.| NeuroArch Ver.| Download Link |Loading Script|Last Update|
 |-----------|---------| --------| -------|------|
-| [fi25](https://github.com/connectome-neuprint/neuPrint/blob/master/fib25_neo4j_inputs.zip/) | [3484985](https://github.com/fruitflybrain/neuroarch/tree/34849855b8942bdcfebd9f8208c16875ef29a12f) | [medulla7column_fib25_na_v1.0_backup.zip]()| [Link](https://github.com/FlyBrainLab/datasets/blob/main/medulla/Medulla7column_NeuPrint_to_NeuroArch.ipynb) | 12/17/2020 |
+| [fib25](https://github.com/connectome-neuprint/neuPrint/blob/master/fib25_neo4j_inputs.zip/) | [3484985](https://github.com/fruitflybrain/neuroarch/tree/34849855b8942bdcfebd9f8208c16875ef29a12f) | [medulla7column_fib25_na_v1.0_backup.zip]()| [Link](https://github.com/FlyBrainLab/datasets/blob/main/medulla/Medulla7column_Neuprint_to_NeuroArch.ipynb) | 12/17/2020 |
 
 
 
