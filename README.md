@@ -38,4 +38,4 @@ Original data licensed under [BSD 3](https://github.com/connectome-neuprint/neuP
 1. <a name="ref-1"></a> Ann-Shyn Chiang et al., Three-dimensional reconstruction of brain-wide wiring networks in Drosophila at single-cell resolution, Current Biology 2011, 21(1), pp.1-11. [DOI](https://doi.org/10.1016/j.cub.2010.11.056).
 2. <a name="ref-2"></a> C. Shan Xu et al., A Connectome of the Adult Drosophila Central Brain. bioRxiv 2020.01.21.911859. [DOI](https://doi.org/10.1101/2020.01.21.911859).
 3. <a name="ref-3"></a> Ohyama T. et al. A multilevel multimodal circuit enhances action selection in Drosophila. Nature. 2015. [DOI](https://doi.org/10.1038/nature14297).
-4. <a name="ref-medulla"></a> Takemura S. et al. Circuits and their variations in the fly medulla. Proceedings of the National Academy of Sciences. 2015, 112 (44) 13711-13716. [DOI](https://doi.org/10.1073/pnas.1509820112).
+4. <a name="ref-medulla"></a> Takemura S. et al. Synaptic circuits and their variations in the fly medulla. Proceedings of the National Academy of Sciences. 2015, 112 (44) 13711-13716. [DOI](https://doi.org/10.1073/pnas.1509820112).
