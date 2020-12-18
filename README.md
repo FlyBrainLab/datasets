@@ -9,14 +9,14 @@ Detailed instructions for loading these databases from scratch are provided in t
 
 |FlyCircuit Ver.| NeuroArch Ver.| Download Link |Loading Script|Last Update|
 |-----------|---------| --------| -------|-----|
-| 1.2 | [3536a04](https://github.com/fruitflybrain/neuroarch/tree/3536a04478f77ac59fb55727ff0e3de66ccbf70c) | [flycircuit1.2_na_v1.0_backup.zip](https://drive.google.com/file/d/1JXtWt-2X66Mb5I271YRUiMuQx3I2b43s/view?usp=sharing) | [Link](https://github.com/FlyBrainLab/datasets/blob/main/flycircuit/v1.2/FlyCircuit_to_NeuroArch.ipynb) | 12/14/2020 |
+| 1.2 | [e8ecfa6](https://github.com/fruitflybrain/neuroarch/tree/e8ecfa609746a5470f89e2dd1e3be95e59cc4863) | [flycircuit1.2_na_v1.0_backup.zip](https://drive.google.com/file/d/1JXtWt-2X66Mb5I271YRUiMuQx3I2b43s/view?usp=sharing) | [Link](https://github.com/FlyBrainLab/datasets/blob/main/flycircuit/v1.2/FlyCircuit_to_NeuroArch.ipynb) | 12/17/2020 |
 
 ## <a name="hemibrain"></a>[Hemibrain Dataset](https://www.janelia.org/project-team/flyem/hemibrain) [[2]](#ref-2)
 Original data licensed under [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 
 |Hemibrain Ver.| NeuroArch Ver.| Download Link |Loading Script|Last Update|
 |-----------|---------| --------| -------|------|
-| [1.1](https://storage.cloud.google.com/hemibrain-release/neuprint/hemibrain_v1.1_neo4j_inputs.zip) | [3536a04](https://github.com/fruitflybrain/neuroarch/tree/3536a04478f77ac59fb55727ff0e3de66ccbf70c) | [hemibrain1.1_na_v1.0_backup.zip](https://drive.google.com/file/d/1Y63UpypJ-eMgOdX3bcSRO4Ct3DqmH6-X/view?usp=sharing)| [Link](https://github.com/FlyBrainLab/datasets/blob/main/hemibrain/v1.1/Hemibrain_Neuprint_to_NeuroArch.ipynb) | 12/14/2020 |
+| [1.1](https://storage.cloud.google.com/hemibrain-release/neuprint/hemibrain_v1.1_neo4j_inputs.zip) | [e8ecfa6](https://github.com/fruitflybrain/neuroarch/tree/e8ecfa609746a5470f89e2dd1e3be95e59cc4863) | [hemibrain1.1_na_v1.0_backup.zip](https://drive.google.com/file/d/1Y63UpypJ-eMgOdX3bcSRO4Ct3DqmH6-X/view?usp=sharing)| [Link](https://github.com/FlyBrainLab/datasets/blob/main/hemibrain/v1.1/Hemibrain_Neuprint_to_NeuroArch.ipynb) | 12/17/2020 |
 
 ## <a name="larva-l1em"></a>[Larva L1EM](https://l1em.catmaid.virtualflybrain.org/) [[3]](#ref-3)
 Original data licensed under [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/legalcode).
@@ -30,7 +30,7 @@ Original data licensed under [BSD 3](https://github.com/connectome-neuprint/neuP
 
 |Medulla Ver.| NeuroArch Ver.| Download Link |Loading Script|Last Update|
 |-----------|---------| --------| -------|------|
-| [fib25](https://github.com/connectome-neuprint/neuPrint/blob/master/fib25_neo4j_inputs.zip/) | [3484985](https://github.com/fruitflybrain/neuroarch/tree/34849855b8942bdcfebd9f8208c16875ef29a12f) | [medulla7column_fib25_na_v1.0_backup.zip]()| [Link](https://github.com/FlyBrainLab/datasets/blob/main/medulla/Medulla7column_Neuprint_to_NeuroArch.ipynb) | 12/17/2020 |
+| [fib25](https://github.com/connectome-neuprint/neuPrint/blob/master/fib25_neo4j_inputs.zip/) | [e8ecfa6](https://github.com/fruitflybrain/neuroarch/tree/e8ecfa609746a5470f89e2dd1e3be95e59cc4863) | [medulla7column_fib25_na_v1.0_backup.zip](https://drive.google.com/file/d/1XrQWCMB6Y3ADLfWBVF8kA_44KxTVnIq7/view?usp=sharing)| [Link](https://github.com/FlyBrainLab/datasets/blob/main/medulla/Medulla7column_Neuprint_to_NeuroArch.ipynb) | 12/17/2020 |
 
 
 
