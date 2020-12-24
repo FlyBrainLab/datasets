@@ -12,7 +12,7 @@ The dataset can be downloaded from [here](https://drive.google.com/file/d/1FFiyz
 
 |# Neurons|# Connections| Total File Size | License | Publication |
 | --------|-------------| --------------- | ------- | ----------- |
-| 1501    | 30350 neuron pairs | 131 MB   | [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/legalcode)| [[3]](#ref-1)
+| 1051    | 30350 neuron pairs | 131 MB   | [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/legalcode)| [[3]](#ref-1)
 
 
 ## References
