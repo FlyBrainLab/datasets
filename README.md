@@ -22,6 +22,7 @@ Original data licensed under [CC-BY 4.0](https://creativecommons.org/licenses/by
 |Hemibrain Ver.| NeuroArch Ver.| Download Link |Loading Script|Last Update|
 |-----------|---------| --------| -------|------|
 | [1.1](https://storage.cloud.google.com/hemibrain-release/neuprint/hemibrain_v1.1_neo4j_inputs.zip) | [e8ecfa6](https://github.com/fruitflybrain/neuroarch/tree/e8ecfa609746a5470f89e2dd1e3be95e59cc4863) | [hemibrain1.1_na_v1.0_backup.zip](https://drive.google.com/file/d/1Y63UpypJ-eMgOdX3bcSRO4Ct3DqmH6-X/view?usp=sharing)| [Link](https://github.com/FlyBrainLab/datasets/blob/main/hemibrain/v1.1/Hemibrain_Neuprint_to_NeuroArch.ipynb) | 12/17/2020 |
+| [1.2](https://storage.cloud.google.com/hemibrain-release/neuprint/hemibrain_v1.2_neo4j_inputs.zip) | [3c88e0a](https://github.com/fruitflybrain/neuroarch/tree/3c88e0aebbdcb53f50bd7e36bccf5f4a36177aa9) | [hemibrain1.2_na_v1.0_backup.zip](https://drive.google.com/file/d/1UguZ-9kuHVZF5_yZzlpyRAGVGrx41NHv/view?usp=sharing)| [Link](https://github.com/FlyBrainLab/datasets/blob/main/hemibrain/v1.2/Hemibrain_Neuprint_to_NeuroArch.ipynb) | 12/24/2020 |
 
 To load the database in OrientDB, use the following command (and replace `/path/to` in two places to the directory of the orientdb and the downloaded zip file, respectively):
 ```bash
