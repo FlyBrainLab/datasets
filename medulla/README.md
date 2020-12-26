@@ -1,7 +1,7 @@
 ## Release Note:
 
 #### 12/17/20: Initial release.
-Includes [fib25 data](https://github.com/connectome-neuprint/neuPrint/blob/master/fib25_neo4j_inputs.zip/) from [[1]](ref-1).
+Includes [fib25 data](https://github.com/connectome-neuprint/neuPrint/blob/master/fib25_neo4j_inputs.zip/) from [[1]](#ref-1).
 A total of 2,365 neuronsa and 42,279 connections.
 
 ### References:
