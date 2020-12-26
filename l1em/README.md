@@ -15,5 +15,11 @@ The dataset can be downloaded from [here](https://drive.google.com/file/d/1FFiyz
 | 1051    | 30350 neuron pairs | 131 MB   | [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/legalcode)| [[3]](#ref-1)
 
 
+## Release Notes
+
+12/14/2020: Initial Release
+Included 1,051 neurons and 30,350 connections.
+
+
 ## References
 1. <a name="ref-1"></a> Ohyama T, et al. A multilevel multimodal circuit enhances action selection in Drosophila. Nature. 2015. [DOI](https://doi.org/10.1038/nature14297).
