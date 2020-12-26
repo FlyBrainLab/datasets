@@ -1,7 +1,7 @@
 ## Release Note:
 
 #### 12/17/20: Initial release.
-Includes 22,828 neurons from female *Drosophila* from the FlyCircuit dataset [[1]](ref-1).
+Includes 22,828 neurons from female *Drosophila* from the FlyCircuit dataset [[1]](#ref-1).
 Also incudes a total of 4,538,280 inferred connections [[2]](ref-2) between pairs of neurons.
 
 ### References:
