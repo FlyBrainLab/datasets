@@ -270,8 +270,8 @@ for i, row in pbar:
 
     content = {'type': 'swc'}
     content['x'] = [round(i, 3) for i in np.array(x+x)/1000.] # conver from nm to um
-    content['y'] = [round(i, 3) for i in np.array(y+x)/1000.] # conver from nm to um
-    content['z'] = [round(i, 3) for i in np.array(z+x)/1000.] # conver from nm to um
+    content['y'] = [round(i, 3) for i in np.array(y+y)/1000.] # conver from nm to um
+    content['z'] = [round(i, 3) for i in np.array(z+z)/1000.] # conver from nm to um
     content['r'] = [round(i, 3) for i in np.array(r+r)/1000.] # conver from nm to um
     content['parent'] = [-1]*len(x) + [i+1 for i in range(len(x))]
     content['identifier'] = [7]*len(x) + [8]*len(x)
