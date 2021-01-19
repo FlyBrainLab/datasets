@@ -35,7 +35,7 @@ Original data licensed under [CC-BY-SA 4.0](https://creativecommons.org/licenses
 
 |L1EM Ver.| NeuroArch Ver.| Download Link |Loading Script|Last Update|NeuroNLP|
 |-----------|---------| --------| -------|------|--------|
-| [1.0](https://l1em.catmaid.virtualflybrain.org/) | [3536a04](https://github.com/fruitflybrain/neuroarch/tree/3536a04478f77ac59fb55727ff0e3de66ccbf70c) | [l1em1.0_na_v1.0_backup.zip](https://drive.google.com/file/d/1hYjA43poDjL8WtQ1AUBzYxKTaJ4In-GU/view?usp=sharing)| [Link](https://github.com/FlyBrainLab/datasets/blob/main/l1em/Load_Larva_L1EM.ipynb) | 12/14/2020 [Release Notes](https://github.com/FlyBrainLab/datasets/blob/main/l1em/README.md)| [Link](https://larva.neuronlp.fruitflybrain.org)|
+| [1.0](https://l1em.catmaid.virtualflybrain.org/) | [73d6b81](https://github.com/fruitflybrain/neuroarch/tree/73d6b81439b870d5b5c1de73df4f20283045b7fa) | [l1em1.0_na_v1.0_backup.zip](https://drive.google.com/file/d/1hYjA43poDjL8WtQ1AUBzYxKTaJ4In-GU/view?usp=sharing)| [Link](https://github.com/FlyBrainLab/datasets/blob/main/l1em/Load_Larva_L1EM.ipynb) | 01/19/2020 [Release Notes](https://github.com/FlyBrainLab/datasets/blob/main/l1em/README.md)| [Link](https://larva.neuronlp.fruitflybrain.org)|
 
 To load the database in OrientDB, use the following command (and replace `/path/to` in two places to the directory of the orientdb and the downloaded zip file, respectively):
 ```bash

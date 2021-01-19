@@ -1,5 +1,5 @@
 # Larva L1EM
-Connectomics data from the Larva L1EM Central Nervous System is provided publically by CATMAID database served on [Virtual Fly Brain](https://l1em.catmaid.virtualflybrain.org). 
+Connectomics data from the Larva L1EM Central Nervous System is provided publically by CATMAID database served on [Virtual Fly Brain](https://l1em.catmaid.virtualflybrain.org).
 
 ### Set Up
 Refer to `l1em/Load_Larva_L1EM.ipynb` for information on loading the dataset into a locally running OrientDB database instance.
@@ -17,8 +17,12 @@ The dataset can be downloaded from [here](https://drive.google.com/file/d/1FFiyz
 
 ## Release Notes
 
+01/19/2021: Fixes and Updates
+- Corrections on postsynaptic site positions
+- Added some tags for AL and MB.
+
 12/14/2020: Initial Release
-Included 1,051 neurons and 30,350 connections.
+- Included 1,051 neurons and 30,350 connections.
 
 
 ## References

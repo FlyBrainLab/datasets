@@ -158,9 +158,9 @@ neuron_synonyms = {
     'FAN': ['fan', 'feedacross neuron']
 }
 
-l1em = na.NeuroArch('localhost', args.db_name, mode = args.mode)
+l1em = na.NeuroArch(args.db_name, mode = args.mode)
 
-species = l1em.add_species('Drosophila Melanogaster', stage = 'larva',
+species = l1em.add_Species('Drosophila Melanogaster', stage = 'larva',
                                 sex = 'female',
                                 synonyms = ['larva fruit fly'])
 
