@@ -1,5 +1,8 @@
 ## Release Notes
 
+#### 01/27/2021: Fix
+Fix the faces index for the meshes.
+
 #### 12/24/2020: Initial Release
 Data from [the Hemibrain dataset release 1.2](https://storage.cloud.google.com/hemibrain-release/neuprint/hemibrain_v1.2_neo4j_inputs.zip) [[1]](#ref-1).
 Included 25,842 neurons and 3,817,700 pairs of connections.

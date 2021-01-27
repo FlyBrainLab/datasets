@@ -1,5 +1,8 @@
 ## Release Notes
 
+#### 01/27/2021: Fix
+Fix the faces index for the meshes.
+
 #### 12/25/2020: Fixed scaling of the coordinated.
 Scales original x, y, z by 0.008 into a unit of µm.
 
