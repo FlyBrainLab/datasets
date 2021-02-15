@@ -9,4 +9,4 @@ Included 25,842 neurons and 3,817,700 pairs of connections.
 
 ### References
 
-[1] <a name="ref-1"></a> C. Shan Xu, et al., A Connectome of the Adult Drosophila Central Brain. bioRxiv 2020.01.21.911859. [DOI](https://doi.org/10.1101/2020.01.21.911859).
+[1] <a name="ref-1"></a> Louis K. Scheffer et al., A connectome and analysis of the adult *Drosophila* central brain. eLife 2020;9:e57443. [DOI](https://doi.org/10.7554/eLife.57443).
