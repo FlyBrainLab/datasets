@@ -1,5 +1,8 @@
 ## Release Notes
 
+#### 06/09/22: Update to Neuroarch 0.4.0
+- Included neuron segments that are not fully traced, along with the associated synapses.
+
 #### 01/27/2021: Fix
 Fix the faces index for the meshes.
 
