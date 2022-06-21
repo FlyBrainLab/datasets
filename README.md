@@ -9,7 +9,7 @@ Detailed instructions for loading these databases from scratch are provided in t
 
 |FlyCircuit Ver.| NeuroArch Ver.| Download Link |Loading Script|Last Update|NeuroNLP|
 |-----------|---------| --------| -------|-----|------|
-| 1.2 | [dec5b7e](https://github.com/fruitflybrain/neuroarch/tree/dec5b7e76a283f0677dc7454496b684125f2b8ea) | [flycircuit1.2_na_v2.0_backup.zip](https://drive.google.com/file/d/1WjKAvYazxE-shmvzo_B1OC-7zvAbfMW4/view?usp=sharing) | [Link](https://github.com/FlyBrainLab/datasets/blob/main/flycircuit/v1.2/FlyCircuit_to_NeuroArch.ipynb) | 06/09/2022 [Release Notes](https://github.com/FlyBrainLab/datasets/blob/main/flycircuit/v1.2/README.md) |[Link](https://neuronlp.fruitflybrain.org)|
+| 1.2 | [0414129](https://github.com/fruitflybrain/neuroarch/tree/041412911379a5d36ea0c9ca5cb1e7931c596ab5) | [flycircuit1.2_na_v2.0.1_backup.zip](https://drive.google.com/file/d/1_T-aAqGXh-spuFCWomnEzYnw6WyWUSjq/view?usp=sharing) | [Link](https://github.com/FlyBrainLab/datasets/blob/main/flycircuit/v1.2/FlyCircuit_to_NeuroArch.ipynb) | 06/17/2022 [Release Notes](https://github.com/FlyBrainLab/datasets/blob/main/flycircuit/v1.2/README.md) |[Link](https://neuronlp.fruitflybrain.org)|
 
 To load the database in OrientDB, use the following command (and replace `/path/to` in two places to the directory of the orientdb and the downloaded zip file, respectively):
 ```bash
@@ -23,7 +23,7 @@ Original data licensed under [CC-BY 4.0](https://creativecommons.org/licenses/by
 |-----------|---------| --------| -------|------|-------|
 | [1.0.1](https://storage.cloud.google.com/hemibrain-release/neuprint/hemibrain_v1.0.1_neo4j_inputs.zip) | [73d6b81](https://github.com/fruitflybrain/neuroarch/tree/73d6b81439b870d5b5c1de73df4f20283045b7fa) | [hemibrain1.0.1_na_v1.0_backup.zip](https://drive.google.com/file/d/1x6MQJB_4OaWJR6d6O3WFCSeJWG58FsPT/view?usp=sharing)| [Link](https://github.com/FlyBrainLab/datasets/blob/main/hemibrain/v1.0.1/Hemibrain_Neuprint_to_NeuroArch.ipynb) | 01/27/2021 [Release Notes](https://github.com/FlyBrainLab/datasets/blob/main/hemibrain/v1.0.1/README.md)| [Link](https://hemibrain101.neuronlp.fruitflybrain.org)|
 | [1.1](https://storage.cloud.google.com/hemibrain-release/neuprint/hemibrain_v1.1_neo4j_inputs.zip) | [73d6b81](https://github.com/fruitflybrain/neuroarch/tree/73d6b81439b870d5b5c1de73df4f20283045b7fa) | [hemibrain1.1_na_v1.0_backup.zip](https://drive.google.com/file/d/1Y63UpypJ-eMgOdX3bcSRO4Ct3DqmH6-X/view?usp=sharing)| [Link](https://github.com/FlyBrainLab/datasets/blob/main/hemibrain/v1.1/Hemibrain_Neuprint_to_NeuroArch.ipynb) | 01/27/2021 [Release Notes](https://github.com/FlyBrainLab/datasets/blob/main/hemibrain/v1.1/README.md)| [Link](https://hemibrain.neuronlp.fruitflybrain.org)|
-| [1.2](https://storage.cloud.google.com/hemibrain-release/neuprint/hemibrain_v1.2_neo4j_inputs.zip) | [dec5b7e](https://github.com/fruitflybrain/neuroarch/tree/dec5b7e76a283f0677dc7454496b684125f2b8ea) | [hemibrain1.2_na_v2.0_backup.zip](https://drive.google.com/file/d/1jLTNkvIyJhGv3xZZAClzY1R8neLCsh8H/view?usp=sharing)| [Link](https://github.com/FlyBrainLab/datasets/blob/main/hemibrain/v1.2/Hemibrain_Neuprint_to_NeuroArch.ipynb) | 06/09/2022 [Release Notes](https://github.com/FlyBrainLab/datasets/blob/main/hemibrain/v1.2/README.md)| [Link](https://hemibrain12.neuronlp.fruitflybrain.org)|
+| [1.2](https://storage.cloud.google.com/hemibrain-release/neuprint/hemibrain_v1.2_neo4j_inputs.zip) | [0414129](https://github.com/fruitflybrain/neuroarch/tree/041412911379a5d36ea0c9ca5cb1e7931c596ab5) | [hemibrain1.2_na_v2.0.1_backup.zip](https://drive.google.com/file/d/1ytVmmLrYqKARw9-0tVGJvQzCIzCLUtaN/view?usp=sharing)| [Link](https://github.com/FlyBrainLab/datasets/blob/main/hemibrain/v1.2/Hemibrain_Neuprint_to_NeuroArch.ipynb) | 06/17/2022 [Release Notes](https://github.com/FlyBrainLab/datasets/blob/main/hemibrain/v1.2/README.md)| [Link](https://hemibrain12.neuronlp.fruitflybrain.org)|
 
 To load the database in OrientDB, use the following command (and replace `/path/to` in two places to the directory of the orientdb and the downloaded zip file, respectively):
 ```bash
@@ -35,7 +35,7 @@ Original data licensed under [CC-BY-SA 4.0](https://creativecommons.org/licenses
 
 |L1EM Ver.| NeuroArch Ver.| Download Link |Loading Script|Last Update|NeuroNLP|
 |-----------|---------| --------| -------|------|--------|
-| [1.0](https://l1em.catmaid.virtualflybrain.org/) | [dec5b7e](https://github.com/fruitflybrain/neuroarch/tree/dec5b7e76a283f0677dc7454496b684125f2b8ea) | [l1em1.0_na_v2.0_backup.zip](https://drive.google.com/file/d/1tcORsE8QVxwuCRQviVsoN11Mjs3Dq_24/view?usp=sharing)| [Link](https://github.com/FlyBrainLab/datasets/blob/main/l1em/Load_Larva_L1EM.ipynb) | 06/09/2022 [Release Notes](https://github.com/FlyBrainLab/datasets/blob/main/l1em/README.md)| [Link](https://larva.neuronlp.fruitflybrain.org)|
+| [1.0](https://l1em.catmaid.virtualflybrain.org/) | [0414129](https://github.com/fruitflybrain/neuroarch/tree/041412911379a5d36ea0c9ca5cb1e7931c596ab5) | [l1em1.0_na_v2.0.1_backup.zip](https://drive.google.com/file/d/1juF2aSp5g-c9S3U3RD9_ydSsDpHaHuLC/view?usp=sharing)| [Link](https://github.com/FlyBrainLab/datasets/blob/main/l1em/Load_Larva_L1EM.ipynb) | 06/17/2022 [Release Notes](https://github.com/FlyBrainLab/datasets/blob/main/l1em/README.md)| [Link](https://larva.neuronlp.fruitflybrain.org)|
 
 To load the database in OrientDB, use the following command (and replace `/path/to` in two places to the directory of the orientdb and the downloaded zip file, respectively):
 ```bash
@@ -47,7 +47,7 @@ Original data licensed under [BSD 3](https://github.com/connectome-neuprint/neuP
 
 |Medulla Ver.| NeuroArch Ver.| Download Link |Loading Script|Last Update|NeuroNLP|
 |-----------|---------| --------| -------|------|--------|
-| [fib25](https://github.com/connectome-neuprint/neuPrint/blob/master/fib25_neo4j_inputs.zip/) | [dec5b7e](https://github.com/fruitflybrain/neuroarch/tree/dec5b7e76a283f0677dc7454496b684125f2b8ea) | [medulla7column_fib25_na_v2.0_backup.zip](https://drive.google.com/file/d/1S5dupAC_uFzgBKDqL5OdUXWBQKZPXvvz/view?usp=sharing)| [Link](https://github.com/FlyBrainLab/datasets/blob/main/medulla/Medulla7column_Neuprint_to_NeuroArch.ipynb) | 06/09/2022 [Release Notes](https://github.com/FlyBrainLab/datasets/blob/main/medulla/README.md)| [Link](https://medulla.neuronlp.fruitflybrain.org)|
+| [fib25](https://github.com/connectome-neuprint/neuPrint/blob/master/fib25_neo4j_inputs.zip/) | [0414129](https://github.com/fruitflybrain/neuroarch/tree/041412911379a5d36ea0c9ca5cb1e7931c596ab5) | [medulla7column_fib25_na_v2.0.1_backup.zip](https://drive.google.com/file/d/1lX_nGmqfQ7YouO4TTGw7Q3fRaAZn1T1S/view?usp=sharing)| [Link](https://github.com/FlyBrainLab/datasets/blob/main/medulla/Medulla7column_Neuprint_to_NeuroArch.ipynb) | 06/17/2022 [Release Notes](https://github.com/FlyBrainLab/datasets/blob/main/medulla/README.md)| [Link](https://medulla.neuronlp.fruitflybrain.org)|
 
 To load the database in OrientDB, use the following command (and replace `/path/to` in two places to the directory of the orientdb and the downloaded zip file, respectively):
 ```bash

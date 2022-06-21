@@ -17,6 +17,8 @@ The dataset can be downloaded from [here](https://drive.google.com/file/d/1FFiyz
 
 ## Release Notes
 
+06/17/2022: UPdate database schema to NeuroArch 0.4.1
+
 06/09/2022: Update to Neuroarch 0.4.0
 
 01/19/2021: Fixes and Updates

@@ -158,7 +158,8 @@ neuron_synonyms = {
     'FAN': ['fan', 'feedacross neuron']
 }
 
-l1em = na.NeuroArch(args.db_name, mode = args.mode)
+l1em = na.NeuroArch(args.db_name, mode = args.mode, version = "2.0.1",
+                    maintainer_name = "", maintainer_email = "")
 
 species = l1em.add_Species('Drosophila Melanogaster', stage = 'larva',
                                 sex = 'female',

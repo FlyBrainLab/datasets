@@ -1,7 +1,8 @@
 ## Release Note:
 
+#### 06/17/2022: UPdate database schema to NeuroArch 0.4.1
 
-#### 06/09/22: Update to Neuroarch 0.4.0
+#### 06/09/22: Update to NeuroArch 0.4.0
 - Included neuron segments that are not fully traced, along with the associated synapses.
 
 #### 02/20/21: Update on columnar circuit

@@ -1,5 +1,7 @@
 ## Release Note:
 
+#### 06/17/2022: UPdate database schema to NeuroArch 0.4.1
+
 #### 06/09/2022: Update according to NeuroArch 0.4.0
 Rmoved duplicate inferred connections, the number of connections reduced to 3,596,493.
 
