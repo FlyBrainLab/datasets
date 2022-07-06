@@ -47,7 +47,7 @@ Original data licensed under [BSD 3](https://github.com/connectome-neuprint/neuP
 
 |Medulla Ver.| NeuroArch Ver.| Download Link |Loading Script|Last Update|NeuroNLP|
 |-----------|---------| --------| -------|------|--------|
-| [fib25](https://github.com/connectome-neuprint/neuPrint/blob/master/fib25_neo4j_inputs.zip/) | [0414129](https://github.com/fruitflybrain/neuroarch/tree/041412911379a5d36ea0c9ca5cb1e7931c596ab5) | [medulla7column_fib25_na_v2.0.1_backup.zip](https://drive.google.com/file/d/1lX_nGmqfQ7YouO4TTGw7Q3fRaAZn1T1S/view?usp=sharing)| [Link](https://github.com/FlyBrainLab/datasets/blob/main/medulla/Medulla7column_Neuprint_to_NeuroArch.ipynb) | 06/17/2022 [Release Notes](https://github.com/FlyBrainLab/datasets/blob/main/medulla/README.md)| [Link](https://medulla.neuronlp.fruitflybrain.org)|
+| [fib25](https://github.com/connectome-neuprint/neuPrint/blob/master/fib25_neo4j_inputs.zip/) | [0414129](https://github.com/fruitflybrain/neuroarch/tree/041412911379a5d36ea0c9ca5cb1e7931c596ab5) | [medulla7column_fib25_na_v2.0.2_backup.zip](https://drive.google.com/file/d/1yc929e0fRIcWER5fL1y_z707cNEbV-ti/view?usp=sharing)| [Link](https://github.com/FlyBrainLab/datasets/blob/main/medulla/Medulla7column_Neuprint_to_NeuroArch.ipynb) | 06/17/2022 [Release Notes](https://github.com/FlyBrainLab/datasets/blob/main/medulla/README.md)| [Link](https://medulla.neuronlp.fruitflybrain.org)|
 
 To load the database in OrientDB, use the following command (and replace `/path/to` in two places to the directory of the orientdb and the downloaded zip file, respectively):
 ```bash

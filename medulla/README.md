@@ -1,15 +1,17 @@
 ## Release Note:
 
-#### 06/17/2022: UPdate database schema to NeuroArch 0.4.1
+#### 07/06/2022: Correct Tm3/Tm4 column circuit ownership
 
-#### 06/09/22: Update to NeuroArch 0.4.0
+#### 06/17/2022: Update database schema to NeuroArch 0.4.1
+
+#### 06/09/2022: Update to NeuroArch 0.4.0
 - Included neuron segments that are not fully traced, along with the associated synapses.
 
-#### 02/20/21: Update on columnar circuit
+#### 02/20/2021: Update on columnar circuit
 - Added Columnar circuits.
 - Fix neurotransmitter of photoreceptors.
 
-#### 12/17/20: Initial release.
+#### 12/17/2020: Initial release.
 - Includes [fib25 data](https://github.com/connectome-neuprint/neuPrint/blob/master/fib25_neo4j_inputs.zip/) from [[1]](#ref-1).
 - A total of 2,365 neuronsa and 42,279 connections.
 
