@@ -58,7 +58,7 @@ To load the database in OrientDB, use the following command (and replace `/path/
 /path/to/orientdb/bin/console.sh "create database plocal:../databases/medulla admin admin; restore database /path/to/medulla7column_fib25_na_v2.0.2_backup.zip"
 ```
 
-## <a name="MANC"></a>[Male Adult Nerv Cord Dataset](https://www.janelia.org/project-team/flyem/manc-connectome) [[5]](#ref-manc)
+## <a name="MANC"></a>[Male Adult Nerve Cord Dataset](https://www.janelia.org/project-team/flyem/manc-connectome) [[5]](#ref-manc)
 Original data licensed under [CC-BY](https://creativecommons.org/licenses/by/4.0/).
 
 |MANC Ver.| NeuroArch Ver.| Download Link |Loading Script|Last Update|NeuroNLP|
