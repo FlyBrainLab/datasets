@@ -84,7 +84,7 @@ To load the database in OrientDB, use the following command (and replace `/path/
 /path/to/orientdb/bin/console.sh "create database plocal:../databases/flywire admin admin; restore database /path/to/flywire630_na_v1.0.0_backup.zip"
 ```
 
-## <a name="FIB19"></a>[FIB19 Optic Lobe Dataset](https://flywire.ai) [[7]](#ref-fib19)
+## <a name="FIB19"></a>[FIB19 Optic Lobe Dataset](https://neuprint.janelia.org/?dataset=fib19) [[7]](#ref-fib19)
 Original data licensed under [CC-BY](https://creativecommons.org/licenses/by/4.0/).
 
 |FlyWire Snapshot| NeuroArch Ver.| Download Link |Loading Script|Last Update|NeuroNLP|
